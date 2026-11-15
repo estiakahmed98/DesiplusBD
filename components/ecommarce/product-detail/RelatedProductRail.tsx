@@ -26,6 +26,7 @@ export default async function RelatedProductRail({
 
   return (
     <ProductListTracker
+      className="h-full min-h-0"
       listId="related_products_rail"
       listName="Related products"
       currency={settings.currency}

@@ -13,12 +13,14 @@ export default function ProductListTracker({
   listName,
   currency,
   items,
+  className,
 }: {
   children: ReactNode;
   listId: string;
   listName: string;
   currency: string;
   items: GA4Item[];
+  className?: string;
 }) {
   const containerRef = useRef<HTMLDivElement | null>(null);
   const trackedList = useRef("");
@@ -69,5 +71,5 @@ export default function ProductListTracker({
     });
   }
 
-  return <div ref={containerRef} onClickCapture={handleClickCapture}>{children}</div>;
+  return <div ref={containerRef} className={className} onClickCapture={handleClickCapture}>{children}</div>;
 }

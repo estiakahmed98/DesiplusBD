@@ -283,6 +283,7 @@ export default function ProductPurchasePanel({
             <div
               className="relative h-[360px] overflow-hidden rounded-md bg-white cursor-zoom-in sm:h-[480px] lg:h-auto lg:min-h-[500px] lg:flex-1"
               onMouseEnter={(event) => {
+                if (!activeImage || !window.matchMedia("(min-width: 1024px) and (hover: hover) and (pointer: fine)").matches) return;
                 updateImageZoomOrigin(event);
                 setIsImageZoomed(true);
               }}
@@ -297,20 +298,13 @@ export default function ProductPurchasePanel({
                   {t("save", { amount: money(savings, product.currency, locale) })}
                 </span>
               ) : null}
-              <div className="absolute right-2 top-2 z-10">
-                <ProductLiveViewers productId={product.id} />
-              </div>
               <Image
                 src={activeImage ?? "/placeholder.svg"}
                 alt={product.name}
                 fill
                 priority
                 sizes="(max-width: 1024px) 100vw, 42vw"
-                className="object-contain transition-transform duration-200 ease-out motion-reduce:transition-none"
-                style={{
-                  transform: isImageZoomed ? "scale(2.1)" : "scale(1)",
-                  transformOrigin: `${imageZoomOrigin.x}% ${imageZoomOrigin.y}%`,
-                }}
+                className="object-contain"
               />
             </div>
 
@@ -342,7 +336,26 @@ export default function ProductPurchasePanel({
             ) : null}
           </div>
 
-          <div className="min-w-0 p-3 sm:p-5">
+          <div className="relative min-w-0 p-3 sm:p-5">
+            {isImageZoomed && activeImage ? (
+              <div
+                aria-hidden="true"
+                data-product-zoom-preview
+                className="pointer-events-none absolute inset-0 z-20 hidden overflow-hidden border-l border-border bg-white lg:block"
+              >
+                <Image
+                  src={activeImage}
+                  alt=""
+                  fill
+                  sizes="(min-width: 1024px) 60vw, 1px"
+                  className="object-contain"
+                  style={{
+                    transform: "scale(2.1)",
+                    transformOrigin: `${imageZoomOrigin.x}% ${imageZoomOrigin.y}%`,
+                  }}
+                />
+              </div>
+            ) : null}
             <h1 className="text-[18px] font-bold leading-[1.4] text-foreground sm:text-[20px]">
               {product.name}
             </h1>
@@ -372,7 +385,7 @@ export default function ProductPurchasePanel({
               </button>
             </div>
 
-            <div className="mt-3 flex flex-wrap gap-1.5 text-[11px]">
+            <div className="mt-3 flex flex-wrap items-center gap-1.5 text-[11px]">
               <span className="rounded border border-border px-2.5 py-1.5 text-muted-foreground">
                 {t("stock")}: {" "}
                 <strong className={stock > 0 ? "text-emerald-700" : "text-rose-600"}>
@@ -402,6 +415,7 @@ export default function ProductPurchasePanel({
                   {t("warranty")}: <strong className="text-foreground">{warranty}</strong>
                 </span>
               ) : null}
+              <ProductLiveViewers productId={product.id} />
             </div>
 
             {details.shortDescription?.trim() ? (
