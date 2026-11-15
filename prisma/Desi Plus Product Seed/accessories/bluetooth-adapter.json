@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 3,
+  "source": {
+    "site": "https://deshiplus.com",
+    "categoryUrl": "https://deshiplus.com/accessories",
+    "imageRoot": "C:\\EveryThing\\Office Projects\\Desi Plus BD\\public\\Product_Images",
+    "generatedAtUnix": 1790591006,
+    "generator": "prisma/startech_single_category_json_and_seed.py"
+  },
+  "defaults": {
+    "stock": 10,
+    "costRatio": 0.96,
+    "currency": "BDT",
+    "productType": "PHYSICAL",
+    "inventoryItemClass": "CONSUMABLE"
+  },
+  "categories": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "parentSlug": null,
+      "image": "/Product_Images/Networking/WifiAdapter/Xtreme/Xtreme%20WU350%20300Mbps%20Wifi%20USB%20Adapter.png",
+      "isActive": true,
+      "sortOrder": 0,
+      "showInHeader": true,
+      "showInFooter": false,
+      "featured": false
+    },
+    {
+      "name": "Bluetooth Adapter",
+      "slug": "bluetooth-adapter",
+      "parentSlug": "accessories",
+      "image": "/Product_Images/Networking/WifiAdapter/Xtreme/Xtreme%20WU350%20300Mbps%20Wifi%20USB%20Adapter.png",
+      "isActive": true,
+      "sortOrder": 0,
+      "showInHeader": true,
+      "showInFooter": false,
+      "featured": false
+    }
+  ],
+  "brands": [
+    {
+      "name": "Xtreme",
+      "slug": "xtreme",
+      "logo": null
+    }
+  ],
+  "products": [
+    {
+      "name": "Xtreme WU350 300Mbps Wifi USB Adapter",
+      "slug": "xtreme-wu350-300mbps-wifi-usb-adapter",
+      "type": "PHYSICAL",
+      "sku": "ST-48342",
+      "description": "<h2>Xtreme WU350 300Mbps Wifi USB Adapter</h2><p> The <strong>Xtreme WU350 300Mbps WiFi USB Adapter</strong> is a reliable solution for fast and stable wireless connectivity. It supports data transfer speeds up to 300 Mbps, ensuring smooth browsing, streaming, and downloading. Featuring a USB 2.0 interface, it offers wide compatibility with desktops and laptops. Built on Wi-Fi 4 technology, the adapter operates on the 2.4GHz frequency band, delivering consistent performance for everyday tasks. An integrated antenna enhances signal strength without compromising portability, making it ideal for home, office, or travel use. The sleek black design blends seamlessly with modern hardware setups, adding a professional look. Xtreme WU350 300Mbps WiFi USB Adapter plug-and-play functionality allows quick installation without complex configuration, making it user-friendly for beginners and advanced users alike. The Xtreme WU350 300Mbps WiFi USB Adapter is perfect for upgrading older systems to faster wireless speeds or adding Wi-Fi capability to desktops without built-in support. It provides dependable coverage across small to medium spaces, supporting video calls, online gaming, and file transfers. With lightweight construction, it is easy to carry and convenient for mobile users. The Xtreme WU350 balances affordability and performance, making it a practical choice for anyone seeking enhanced wireless connectivity. Its integrated antenna ensures reliable coverage, while USB 2.0 compatibility guarantees broad usability. Overall, the Xtreme WU350 300Mbps WiFi USB Adapter is a versatile, efficient, and cost-effective device designed to meet modern connectivity needs.</p><h2>Buy Xtreme WU350 300Mbps Wifi USB Adapter from Deshi Plus</h2><p>In Bangladesh, you can get original <strong>Xtreme WU350 300Mbps Wifi USB Adapter</strong> From Deshi Plus. We have a large collection of the latest <a href=\"https://deshiplus.com/xtreme-wifi-adapter\" style=\"\" target=\"\">Xtreme WiFi Adapter</a> to purchase. Order online or visit your Nearest <a href=\"https://deshiplus.com/\" style=\"background-color: rgb(255, 255, 255);\" target=\"\">Deshi Plus</a> Shop to get yours at the lowest price. The Xtreme WU350 300Mbps Wifi USB Adapter comes with 01-Year warranty.</p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>Model: WU350</li><li>Interface: USB 2.0</li><li>Data Transfer Rates: Up to 300 Mbps</li><li>Frequency: 2.4GHz</li><li>Antenna Type: Integrated</li></ul>",
+      "model": "WU350",
+      "warranty": "01 Year",
+      "basePrice": 550.0,
+      "originalPrice": 600.0,
+      "currency": "BDT",
+      "weight": null,
+      "dimensions": null,
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 10,
+      "brandName": "Xtreme",
+      "variantOptions": [
+        {
+          "name": "Interface",
+          "position": 0,
+          "values": [
+            {
+              "value": "USB 2.0",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "ST-48342",
+          "price": 550.0,
+          "currency": "BDT",
+          "stock": 10,
+          "options": {
+            "Interface": "USB 2.0"
+          },
+          "isDefault": true,
+          "active": true,
+          "lowStockThreshold": 10,
+          "costPrice": 528.0,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Key Features",
+          "position": 0,
+          "items": [
+            {
+              "label": "Data Rate",
+              "value": "Up to 300Mbps",
+              "position": 0
+            },
+            {
+              "label": "Wireless",
+              "value": "2.4GHz",
+              "position": 1
+            },
+            {
+              "label": "Interface",
+              "value": "USB 2.0",
+              "position": 2
+            },
+            {
+              "label": "Operating System Support",
+              "value": "Win 7/10/11 (Windows 7, Windows 10, and Windows 11)",
+              "position": 3
+            }
+          ]
+        },
+        {
+          "name": "Manufacturer warranty",
+          "position": 1,
+          "items": [
+            {
+              "label": "Warranty",
+              "value": "01 Year",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://deshiplus.com/xtreme-wu350-300mbps-wifi-usb-adapter",
+      "sourceProductCode": "48342",
+      "sourceStatus": "In Stock",
+      "sourceMpn": null,
+      "sourceKeyFeatures": [
+        "Model: WU350",
+        "Interface: USB 2.0",
+        "Data Transfer Rates: Up to 300 Mbps",
+        "Frequency: 2.4GHz",
+        "Antenna Type: Integrated"
+      ],
+      "needsReview": false,
+      "categorySlug": "bluetooth-adapter",
+      "image": "/Product_Images/Networking/WifiAdapter/Xtreme/Xtreme%20WU350%20300Mbps%20Wifi%20USB%20Adapter.png",
+      "gallery": [
+        "/Product_Images/Networking/WifiAdapter/Xtreme/Xtreme%20WU350%20300Mbps%20Wifi%20USB%20Adapter%201.png",
+        "/Product_Images/Networking/WifiAdapter/Xtreme/Xtreme%20WU350%20300Mbps%20Wifi%20USB%20Adapter%202.png",
+        "/Product_Images/Networking/WifiAdapter/Xtreme/Xtreme%20WU350%20300Mbps%20Wifi%20USB%20Adapter%203.png",
+        "/Product_Images/Networking/WifiAdapter/Xtreme/Xtreme%20WU350%20300Mbps%20Wifi%20USB%20Adapter%204.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Networking/WifiAdapter/Xtreme/Xtreme%20WU350%20300Mbps%20Wifi%20USB%20Adapter.png",
+        "/Product_Images/Networking/WifiAdapter/Xtreme/Xtreme%20WU350%20300Mbps%20Wifi%20USB%20Adapter%201.png",
+        "/Product_Images/Networking/WifiAdapter/Xtreme/Xtreme%20WU350%20300Mbps%20Wifi%20USB%20Adapter%202.png",
+        "/Product_Images/Networking/WifiAdapter/Xtreme/Xtreme%20WU350%20300Mbps%20Wifi%20USB%20Adapter%203.png",
+        "/Product_Images/Networking/WifiAdapter/Xtreme/Xtreme%20WU350%20300Mbps%20Wifi%20USB%20Adapter%204.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "xtreme-wu350-300mbps-wifi-usb-adapter",
+        "candidateTitle": "Xtreme WU350 300Mbps Wifi USB Adapter",
+        "attemptStem": "xtreme-wu350-300mbps-wifi-usb-adapter"
+      },
+      "localImageFile": "public/Product_Images/Networking/WifiAdapter/Xtreme/Xtreme WU350 300Mbps Wifi USB Adapter.png"
+    },
+    {
+      "name": "Xtreme WU650BT 650Mbps Dual Band Bluetooth & Wifi USB Adapter",
+      "slug": "xtreme-wu650bt-bluetooth-adapter",
+      "type": "PHYSICAL",
+      "sku": "ST-46122",
+      "description": "<h2>Xtreme WU650BT 650Mbps Dual Band Bluetooth &amp; Wifi USB Adapter</h2><p> The Xtreme <span style=\"font-weight: bold;\">WU650BT</span> 650Mbps Dual Band USB <a href=\"https://deshiplus.com/bluetooth-adapter\" style=\"color: rgb(0, 0, 0);\" target=\"\">Bluetooth Adapter</a> is the ultimate solution for adding high-speed  Bluetooth to your desktop or laptop. Leveraging the AC650 standard, this compact Bluetooth Dongle delivers a combined wireless speed of up to 650 Mbps. The built-in Bluetooth 4.2 functionality allows you to easily pair your PC with wireless peripherals like headphones, speakers, mice, and keyboards. Designed for maximum convenience, it offers a Free Driver experience for modern operating systems, ensuring compatibility with Windows 7, 10, and 11. Its support for Soft AP mode further allows you to transform your wired connection. The Xtreme WU650BT USB Dongle is an essential, versatile, and high-performance upgrade for any Windows user.</p><h2>Buy Xtreme WU650BT 650Mbps Dual Band Bluetooth USB Adapter from Deshi Plus</h2><p>In Bangladesh, you can get original <strong>Xtreme WU650BT 650Mbps Dual Band Bluetooth USB Adapter</strong> From Deshi Plus. We have a large collection of the latest Xtreme <a href=\"https://deshiplus.com/bluetooth-adapter\" target=\"\">Bluetooth Adapter</a> to purchase. Order online or visit your Nearest <a href=\"https://deshiplus.com/\" target=\"\">Deshi Plus</a> Shop to get yours at the lowest price. The Xtreme WU650BT 650Mbps Dual Band Bluetooth USB Adapter comes with 01-Year warranty.</p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>Model: WU650BT</li><li>Bluetooth Version: Bluetooth 4.2</li><li>Interface: USB 2.0</li><li>Data Transfer Rates: Up to 650 Mbps</li><li>Frequency: 2.4GHz, 5GHz</li></ul>",
+      "model": "WU650BT",
+      "warranty": "01 Year",
+      "basePrice": 800.0,
+      "originalPrice": null,
+      "currency": "BDT",
+      "weight": null,
+      "dimensions": null,
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 188,
+      "brandName": "Xtreme",
+      "variantOptions": [
+        {
+          "name": "Interface",
+          "position": 0,
+          "values": [
+            {
+              "value": "USB 2.0",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "ST-46122",
+          "price": 800.0,
+          "currency": "BDT",
+          "stock": 176,
+          "options": {
+            "Interface": "USB 2.0"
+          },
+          "isDefault": true,
+          "active": false,
+          "lowStockThreshold": 10,
+          "costPrice": 768.0,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Key Features",
+          "position": 0,
+          "items": [
+            {
+              "label": "Data Rate",
+              "value": "Up to 650 Mbps",
+              "position": 0
+            },
+            {
+              "label": "Wireless",
+              "value": "200Mbps on 2.4GHz 433Mbps on 5GHz",
+              "position": 1
+            },
+            {
+              "label": "Interface",
+              "value": "USB 2.0",
+              "position": 2
+            },
+            {
+              "label": "Operating System Support",
+              "value": "Win 7/10/11 (Windows 7, Windows 10, and Windows 11)",
+              "position": 3
+            }
+          ]
+        },
+        {
+          "name": "Manufacturer warranty",
+          "position": 1,
+          "items": [
+            {
+              "label": "Warranty",
+              "value": "01 Year",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://deshiplus.com/xtreme-wu650bt-bluetooth-adapter",
+      "sourceProductCode": "46122",
+      "sourceStatus": "Out Of Stock",
+      "sourceMpn": null,
+      "sourceKeyFeatures": [
+        "Model: WU650BT",
+        "Bluetooth Version: Bluetooth 4.2",
+        "Interface: USB 2.0",
+        "Data Transfer Rates: Up to 650 Mbps",
+        "Frequency: 2.4GHz, 5GHz"
+      ],
+      "needsReview": false,
+      "categorySlug": "bluetooth-adapter",
+      "image": "/Product_Images/Networking/WifiAdapter/Xtreme/Xtreme%20WU650BT%20650Mbps%20Dual%20Band%20Bluetooth%20%26%20Wifi%20USB%20Adapter.png",
+      "gallery": [
+        "/Product_Images/Networking/WifiAdapter/Xtreme/Xtreme%20WU650BT%20650Mbps%20Dual%20Band%20Bluetooth%20%26%20Wifi%20USB%20Adapter%201.png",
+        "/Product_Images/Networking/WifiAdapter/Xtreme/Xtreme%20WU650BT%20650Mbps%20Dual%20Band%20Bluetooth%20%26%20Wifi%20USB%20Adapter%202.png",
+        "/Product_Images/Networking/WifiAdapter/Xtreme/Xtreme%20WU650BT%20650Mbps%20Dual%20Band%20Bluetooth%20%26%20Wifi%20USB%20Adapter%203.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Networking/WifiAdapter/Xtreme/Xtreme%20WU650BT%20650Mbps%20Dual%20Band%20Bluetooth%20%26%20Wifi%20USB%20Adapter.png",
+        "/Product_Images/Networking/WifiAdapter/Xtreme/Xtreme%20WU650BT%20650Mbps%20Dual%20Band%20Bluetooth%20%26%20Wifi%20USB%20Adapter%201.png",
+        "/Product_Images/Networking/WifiAdapter/Xtreme/Xtreme%20WU650BT%20650Mbps%20Dual%20Band%20Bluetooth%20%26%20Wifi%20USB%20Adapter%202.png",
+        "/Product_Images/Networking/WifiAdapter/Xtreme/Xtreme%20WU650BT%20650Mbps%20Dual%20Band%20Bluetooth%20%26%20Wifi%20USB%20Adapter%203.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "xtreme-wu650bt-bluetooth-adapter",
+        "candidateTitle": "Xtreme WU650BT 650Mbps Dual Band Bluetooth & Wifi USB Adapter",
+        "attemptStem": "xtreme-wu650bt-bluetooth-adapter"
+      },
+      "localImageFile": "public/Product_Images/Networking/WifiAdapter/Xtreme/Xtreme WU650BT 650Mbps Dual Band Bluetooth & Wifi USB Adapter.png"
+    }
+  ]
+}

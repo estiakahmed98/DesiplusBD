@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "sourceCategoryUrl": "https://deshiplus.com/tablet-pc",
+  "imageFolder": "/Product_Images",
+  "groups": [
+    {
+      "name": "_direct",
+      "file": "_direct.json",
+      "status": "completed",
+      "products": 69,
+      "matched": 69,
+      "unmatched": 0
+    },
+    {
+      "name": "ipad",
+      "file": "ipad.json",
+      "status": "completed",
+      "products": 12,
+      "matched": 12,
+      "unmatched": 0
+    },
+    {
+      "name": "kids-tablet",
+      "file": "kids-tablet.json",
+      "status": "completed",
+      "products": 1,
+      "matched": 1,
+      "unmatched": 0
+    }
+  ],
+  "allFile": "_all.json",
+  "generatedAtUnix": 1790589576
+}

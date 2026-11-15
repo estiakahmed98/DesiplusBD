@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 3,
+  "source": {
+    "site": "https://www.startech.com.bd",
+    "categoryUrl": "https://www.startech.com.bd/component",
+    "imageRoot": "C:\\EveryThing\\Office Projects\\Desi Plus BD\\public\\Product_Images",
+    "generatedAtUnix": 1790589891,
+    "generator": "prisma/startech_single_category_json_and_seed.py"
+  },
+  "defaults": {
+    "stock": 10,
+    "costRatio": 0.96,
+    "currency": "BDT",
+    "productType": "PHYSICAL",
+    "inventoryItemClass": "CONSUMABLE"
+  },
+  "categories": [],
+  "brands": [],
+  "products": []
+}

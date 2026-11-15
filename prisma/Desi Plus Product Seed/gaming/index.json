@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "sourceCategoryUrl": "https://deshiplus.com/gaming",
+  "imageFolder": "/Product_Images",
+  "groups": [
+    {
+      "name": "_direct",
+      "file": "_direct.json",
+      "status": "completed",
+      "products": 15,
+      "matched": 15,
+      "unmatched": 0
+    },
+    {
+      "name": "gamepad",
+      "file": "gamepad.json",
+      "status": "completed",
+      "products": 96,
+      "matched": 96,
+      "unmatched": 0
+    },
+    {
+      "name": "gaming-chair",
+      "file": "gaming-chair.json",
+      "status": "completed",
+      "products": 32,
+      "matched": 32,
+      "unmatched": 0
+    },
+    {
+      "name": "gaming-console",
+      "file": "gaming-console.json",
+      "status": "completed",
+      "products": 12,
+      "matched": 12,
+      "unmatched": 0
+    },
+    {
+      "name": "headphone",
+      "file": "headphone.json",
+      "status": "completed",
+      "products": 185,
+      "matched": 185,
+      "unmatched": 0
+    },
+    {
+      "name": "keyboard",
+      "file": "keyboard.json",
+      "status": "completed",
+      "products": 382,
+      "matched": 382,
+      "unmatched": 0
+    },
+    {
+      "name": "mouse",
+      "file": "mouse.json",
+      "status": "completed",
+      "products": 321,
+      "matched": 321,
+      "unmatched": 0
+    }
+  ],
+  "allFile": "_all.json",
+  "generatedAtUnix": 1790588492
+}

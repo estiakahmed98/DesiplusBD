@@ -1,0 +1,2357 @@
+{
+  "schemaVersion": 3,
+  "source": {
+    "site": "https://www.startech.com.bd",
+    "categoryUrl": "https://www.startech.com.bd/gaming",
+    "imageRoot": "C:\\EveryThing\\Office Projects\\Desi Plus BD\\public\\Product_Images",
+    "generatedAtUnix": 1790588490,
+    "generator": "prisma/startech_single_category_json_and_seed.py"
+  },
+  "defaults": {
+    "stock": 10,
+    "costRatio": 0.96,
+    "currency": "BDT",
+    "productType": "PHYSICAL",
+    "inventoryItemClass": "CONSUMABLE"
+  },
+  "categories": [
+    {
+      "name": "Gaming",
+      "slug": "gaming",
+      "parentSlug": null,
+      "image": "/Product_Images/Gaming/GamingConsole/Pandora/Pandora%2012s%20Double%20Control%20Video%20Game%20Box.png",
+      "isActive": true,
+      "sortOrder": 0,
+      "showInHeader": true,
+      "showInFooter": false,
+      "featured": false
+    },
+    {
+      "name": "Gaming Console",
+      "slug": "gaming-console",
+      "parentSlug": "gaming",
+      "image": "/Product_Images/Gaming/GamingConsole/Pandora/Pandora%2012s%20Double%20Control%20Video%20Game%20Box.png",
+      "isActive": true,
+      "sortOrder": 3,
+      "showInHeader": true,
+      "showInFooter": false,
+      "featured": false
+    },
+    {
+      "name": "Steam Deck",
+      "slug": "gaming-console-steam-deck",
+      "parentSlug": "gaming-console",
+      "image": "/Product_Images/Gaming/GamingConsole/Pandora/Pandora%2012s%20Double%20Control%20Video%20Game%20Box.png",
+      "isActive": true,
+      "sortOrder": 1,
+      "showInHeader": false,
+      "showInFooter": false,
+      "featured": false
+    },
+    {
+      "name": "PlayStation",
+      "slug": "gaming-console-playstation",
+      "parentSlug": "gaming-console",
+      "image": "/Product_Images/Gaming/GamingConsole/Sony/Sony%20PlayStation%205%2030th%20Anniversary%20Limited%20Edition%20Gaming%20Console.png",
+      "isActive": true,
+      "sortOrder": 2,
+      "showInHeader": false,
+      "showInFooter": false,
+      "featured": false
+    }
+  ],
+  "brands": [
+    {
+      "name": "Others",
+      "slug": "others",
+      "logo": null
+    },
+    {
+      "name": "SJGAM",
+      "slug": "sjgam",
+      "logo": null
+    },
+    {
+      "name": "Sony",
+      "slug": "sony",
+      "logo": null
+    },
+    {
+      "name": "VALVE",
+      "slug": "valve",
+      "logo": null
+    }
+  ],
+  "products": [
+    {
+      "name": "Pandora 12s Double Control Video Game Box",
+      "slug": "pandora-12s-video-game-box",
+      "type": "PHYSICAL",
+      "sku": "ST-48398",
+      "description": "<h2>Pandora 12s Double Control Video Game Box</h2><p>The <strong>Pandora 12s</strong> Game Box is a high-performance Arcade Game Box designed for endless entertainment, offering up to 3000 built-in games and smooth plug-and-play connectivity to any TV or monitor via HDMI or VGA. Built with durable acrylic material, this Pandora Video Game Box delivers sharp 3D HD visuals and vibrant colors, making every session feel like a true arcade experience. Its dual ergonomic controllers, spaced 33cm apart, ensure comfortable multiplayer gaming, perfect for friends and family. With support for TF card storage expansion, the Pandora 12s Double Control Game Box gives you flexibility to add more games and content. Whether you’re a retro gaming enthusiast or simply looking for a versatile game box with dual controller</p><h2>Buy Pandora 12s Double Control Video Game Box from Deshi Plus</h2><p>In Bangladesh, you can get original <strong>Pandora 12s Double Control Video Game Box</strong> From Deshi Plus. We have a large collection of latest Pandora <a href=\"https://www.startech.com.bd/gaming-console\">Gaming Console</a> to purchase. Order Online Or Visit your Nearest <a href=\"https://www.startech.com.bd\">Deshi Plus Shop</a> to get yours at lowest price.The Pandora 12s Double Control Video Game Box has no warranty.</p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>Model: Pandora 12s</li><li>Distance between Joysticks: 33cm</li><li>Output: 1x VGA, 1x HDMI</li><li>Built-in Dual controllers</li><li>Ultra slim metal box design</li></ul>",
+      "model": "Pandora 12s",
+      "warranty": "No warranty",
+      "basePrice": 14000.0,
+      "originalPrice": null,
+      "currency": "BDT",
+      "weight": 3.05,
+      "dimensions": {
+        "length": 64.0,
+        "width": 22.5,
+        "height": 6.5,
+        "unit": "mm"
+      },
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 126,
+      "brandName": "Others",
+      "variantOptions": [],
+      "variants": [
+        {
+          "sku": "ST-48398",
+          "price": 14000.0,
+          "currency": "BDT",
+          "stock": 123,
+          "options": {},
+          "isDefault": true,
+          "active": false,
+          "lowStockThreshold": 10,
+          "costPrice": 13440.0,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Basic Information",
+          "position": 0,
+          "items": [
+            {
+              "label": "Connectivity",
+              "value": "1x HDMI 1x VGA",
+              "position": 0
+            },
+            {
+              "label": "Others",
+              "value": "Distance between Joysticks: 33cm",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Physical Description",
+          "position": 1,
+          "items": [
+            {
+              "label": "Weight",
+              "value": "3.05KG/ 5kg (after Packing)",
+              "position": 0
+            },
+            {
+              "label": "Dimensions",
+              "value": "(W) 64cm x (D) 22.5cm x (H) 6.5cm",
+              "position": 1
+            },
+            {
+              "label": "Materials",
+              "value": "Acrylic",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "name": "Manufacturing Warranty",
+          "position": 2,
+          "items": [
+            {
+              "label": "Warranty",
+              "value": "No warranty",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://www.startech.com.bd/pandora-12s-video-game-box",
+      "sourceProductCode": "48398",
+      "sourceStatus": "Out Of Stock",
+      "sourceMpn": null,
+      "sourceKeyFeatures": [
+        "Model: Pandora 12s",
+        "Distance between Joysticks: 33cm",
+        "Output: 1x VGA, 1x HDMI",
+        "Built-in Dual controllers",
+        "Ultra slim metal box design"
+      ],
+      "needsReview": false,
+      "categorySlug": "gaming-console-steam-deck",
+      "image": "/Product_Images/Gaming/GamingConsole/Pandora/Pandora%2012s%20Double%20Control%20Video%20Game%20Box.png",
+      "gallery": [
+        "/Product_Images/Gaming/GamingConsole/Pandora/Pandora%2012s%20Double%20Control%20Video%20Game%20Box%201.png",
+        "/Product_Images/Gaming/GamingConsole/Pandora/Pandora%2012s%20Double%20Control%20Video%20Game%20Box%202.png",
+        "/Product_Images/Gaming/GamingConsole/Pandora/Pandora%2012s%20Double%20Control%20Video%20Game%20Box%204.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Gaming/GamingConsole/Pandora/Pandora%2012s%20Double%20Control%20Video%20Game%20Box.png",
+        "/Product_Images/Gaming/GamingConsole/Pandora/Pandora%2012s%20Double%20Control%20Video%20Game%20Box%201.png",
+        "/Product_Images/Gaming/GamingConsole/Pandora/Pandora%2012s%20Double%20Control%20Video%20Game%20Box%202.png",
+        "/Product_Images/Gaming/GamingConsole/Pandora/Pandora%2012s%20Double%20Control%20Video%20Game%20Box%204.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "pandora-12s-video-game-box",
+        "candidateTitle": "Pandora 12s Double Control Video Game Box",
+        "attemptStem": "pandora-12s-video-game-box"
+      },
+      "localImageFile": "public/Product_Images/Gaming/GamingConsole/Pandora/Pandora 12s Double Control Video Game Box.png"
+    },
+    {
+      "name": "R36S Retro Handheld Gaming Console",
+      "slug": "r36s-retro-handheld-gaming-console",
+      "type": "PHYSICAL",
+      "sku": "ST-44278",
+      "description": "<h2>R36S Retro Handheld Gaming Console</h2><p>The <strong>R36S Retro</strong> Handheld Gaming Console is a powerful and portable device designed to deliver the ultimate retro gaming experience. Featuring a vibrant 3.5-inch IPS display with a sharp 640×480 resolution, the R36S Retro Gaming Console brings rich colors and crisp visuals to every game. Its long-lasting 3500mAh battery provides up to 6 hours of uninterrupted gameplay, making it perfect for long trips, daily commutes, or extended gaming sessions. With a compact and ergonomic design, this handheld console fits comfortably in your hands, ideal for gaming on the go. The R36S Retro Handheld Gaming Console comes preloaded with a massive retro games collection from the past two decades and supports 21+ emulators, including PSP, PS1, N64, SNES, NDS, and GBA, offering flawless emulation and endless gaming options. As an open-source handheld game console, it allows customization and exploration, making the R36S perfect for retro gaming enthusiasts and casual players alike.</p><h2>Buy R36S Retro Handheld Gaming Console from Deshi Plus</h2><p>In Bangladesh, you can get original <strong>R36S Retro Handheld Gaming Console</strong> From Deshi Plus. We have a large collection of latest <span style=\"background-color: rgb(255, 255, 255);\">R36S </span><a href=\"https://www.startech.com.bd/gaming-console\" style=\"\" target=\"\">Gaming Console</a> to purchase. Order Online Or Visit your Nearest <a href=\"https://www.startech.com.bd/\" style=\"background-color: rgb(255, 255, 255);\" target=\"\">Deshi Plus</a> Shop to get yours at lowest price. The R36S Retro Handheld Gaming Console comes with no warranty.</p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>Model: R36S Retro</li><li>Vibrant 3.5-Inch IPS Display</li><li>Long-Lasting 3500mAh Battery</li><li>Retro Games Collection</li><li>Supports 21+ Emulators</li></ul>",
+      "model": "R36S Retro",
+      "warranty": "No warranty",
+      "basePrice": 5490.0,
+      "originalPrice": null,
+      "currency": "BDT",
+      "weight": null,
+      "dimensions": null,
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 105,
+      "brandName": "Others",
+      "variantOptions": [],
+      "variants": [
+        {
+          "sku": "ST-44278",
+          "price": 5490.0,
+          "currency": "BDT",
+          "stock": 149,
+          "options": {},
+          "isDefault": true,
+          "active": false,
+          "lowStockThreshold": 10,
+          "costPrice": 5270.4,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Manufacturing Warranty",
+          "position": 0,
+          "items": [
+            {
+              "label": "Warranty",
+              "value": "No warranty",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://www.startech.com.bd/r36s-retro-handheld-gaming-console",
+      "sourceProductCode": "44278",
+      "sourceStatus": "Out Of Stock",
+      "sourceMpn": null,
+      "sourceKeyFeatures": [
+        "Model: R36S Retro",
+        "Vibrant 3.5-Inch IPS Display",
+        "Long-Lasting 3500mAh Battery",
+        "Retro Games Collection",
+        "Supports 21+ Emulators"
+      ],
+      "needsReview": false,
+      "categorySlug": "gaming-console-steam-deck",
+      "image": "/Product_Images/Gaming/GamingConsole/R36S/R36S%20Retro%20Handheld%20Gaming%20Console.png",
+      "gallery": [
+        "/Product_Images/Gaming/GamingConsole/R36S/R36S%20Retro%20Handheld%20Gaming%20Console%201.png",
+        "/Product_Images/Gaming/GamingConsole/R36S/R36S%20Retro%20Handheld%20Gaming%20Console%202.png",
+        "/Product_Images/Gaming/GamingConsole/R36S/R36S%20Retro%20Handheld%20Gaming%20Console%203.png",
+        "/Product_Images/Gaming/GamingConsole/R36S/R36S%20Retro%20Handheld%20Gaming%20Console%204.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Gaming/GamingConsole/R36S/R36S%20Retro%20Handheld%20Gaming%20Console.png",
+        "/Product_Images/Gaming/GamingConsole/R36S/R36S%20Retro%20Handheld%20Gaming%20Console%201.png",
+        "/Product_Images/Gaming/GamingConsole/R36S/R36S%20Retro%20Handheld%20Gaming%20Console%202.png",
+        "/Product_Images/Gaming/GamingConsole/R36S/R36S%20Retro%20Handheld%20Gaming%20Console%203.png",
+        "/Product_Images/Gaming/GamingConsole/R36S/R36S%20Retro%20Handheld%20Gaming%20Console%204.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "r36s-retro-handheld-gaming-console",
+        "candidateTitle": "R36S Retro Handheld Gaming Console",
+        "attemptStem": "r36s-retro-handheld-gaming-console"
+      },
+      "localImageFile": "public/Product_Images/Gaming/GamingConsole/R36S/R36S Retro Handheld Gaming Console.png"
+    },
+    {
+      "name": "SJGAM M17 Handheld Gaming Console",
+      "slug": "sjgam-m17-handheld-gaming-console",
+      "type": "PHYSICAL",
+      "sku": "ST-50670",
+      "description": "<h2>SJGAM M17 Handheld Gaming Console</h2><p>The <strong>SJGAM M17</strong> Gaming Console is a compact handheld designed for gamers who enjoy retro and modern titles on the go. It features a 4.3 inch IPS display with 480 x 272 pixel resolution, delivering clear visuals in a portable size. Powered by a quad-core Cortex-A7 1.2GHz processor and a dual-core GPU, this SJGAM Gaming Console ensures smooth performance across multiple emulators and platforms.</p><p>With 1GB DDR4 RAM and expandable storage, the SJGAM M17 Gaming Console offers flexibility for players. It supports 64GB or 128GB micro SD cards and includes a TF card slot with maximum support up to 512GB, giving plenty of space to store games. The built-in Hi-Fidelity speaker enhances audio quality, making gameplay more immersive.</p><p>Running on EmuELEC 4.3 OS with a custom UI, the SJCAM Handheld Gaming Console supports a wide range of emulators including PSP, PS1, DC, NDS, ARCADE, GBA, GBC, GB, SFC, FC, MAME, NeoGeo, Atari and more. Users can also download and add their own games, making it a versatile SJGAM Retro Gaming Console for collectors and enthusiasts.</p><p>The SJGAM Handheld Console is powered by a 2000mAh built-in Li-battery that supports up to 4 hours of continuous playtime. With fast charging using a 5V/2A adapter and Type-C charging, the SJGAM Switch Console ensures quick and convenient recharging for extended gaming sessions.</p>Overall, the SJGAM M17 Handheld Gaming Console is a reliable portable gaming device that combines performance, storage flexibility, and wide emulator support. It is an excellent choice for gamers looking for a compact retro handheld console with modern features.<p></p><h2>Buy SJGAM M17 Handheld Gaming Console From Deshi Plus</h2><p>In Bangladesh, you can get original <strong>SJGAM M17 Handheld Gaming Console</strong> From Deshi Plus. We have a large collection of latest <a href=\"https://www.startech.com.bd/sjgam-gaming-console\">SJGAM Gaming Console</a> to purchase. Order Online Or Visit your Nearest <a href=\"https://www.startech.com.bd\">Deshi Plus Shop</a> to get yours at lowest price. The SJGAM M17 Handheld Gaming Console comes with no warranty.</p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>Model: M17</li><li>CPU: Quad-core Cortex-A7 1.2GHz; Dual Core GPU</li><li>Memory: 1GB DDR4; Storage: 64GB/128GB micro SD card</li><li>Battery: 2000mAh; Battery Life: Up to 4h</li><li>Display: 4.3 inch IPS (480*272) px</li></ul>",
+      "model": "M17",
+      "warranty": "No Warranty",
+      "basePrice": 5150.0,
+      "originalPrice": 6500.0,
+      "currency": "BDT",
+      "weight": 0.333,
+      "dimensions": {
+        "length": 195.0,
+        "width": 105.0,
+        "height": 42.0,
+        "unit": "mm"
+      },
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 10,
+      "brandName": "SJGAM",
+      "variantOptions": [
+        {
+          "name": "Size",
+          "position": 0,
+          "values": [
+            {
+              "value": "4.3 inch",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "RAM",
+          "position": 1,
+          "values": [
+            {
+              "value": "DDR4 1GB",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "Internal Storage",
+          "position": 2,
+          "values": [
+            {
+              "value": "64GB/128GB micro SD card",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "Colors",
+          "position": 3,
+          "values": [
+            {
+              "value": "Grey",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "ST-50670",
+          "price": 5150.0,
+          "currency": "BDT",
+          "stock": 10,
+          "options": {
+            "Size": "4.3 inch",
+            "RAM": "DDR4 1GB",
+            "Internal Storage": "64GB/128GB micro SD card",
+            "Colors": "Grey"
+          },
+          "isDefault": true,
+          "active": true,
+          "lowStockThreshold": 10,
+          "costPrice": 4944.0,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Display",
+          "position": 0,
+          "items": [
+            {
+              "label": "Size",
+              "value": "4.3 inch",
+              "position": 0
+            },
+            {
+              "label": "Type",
+              "value": "IPS",
+              "position": 1
+            },
+            {
+              "label": "Resolution",
+              "value": "480 x 272 pixel",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "name": "Processor",
+          "position": 1,
+          "items": [
+            {
+              "label": "Chipset",
+              "value": "Quad-core Cortex-A7 1.2GHz",
+              "position": 0
+            },
+            {
+              "label": "GPU",
+              "value": "Dual-core",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Memory",
+          "position": 2,
+          "items": [
+            {
+              "label": "RAM",
+              "value": "DDR4 1GB",
+              "position": 0
+            },
+            {
+              "label": "Internal Storage",
+              "value": "64GB/128GB micro SD card",
+              "position": 1
+            },
+            {
+              "label": "Card Slot",
+              "value": "TF card Dlots, maximum Support 512G",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "name": "Audio",
+          "position": 3,
+          "items": [
+            {
+              "label": "Speaker",
+              "value": "Hi-Fidelity speaker build-in",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "OS",
+          "position": 4,
+          "items": [
+            {
+              "label": "Operating System",
+              "value": "EmuELEC 4.3",
+              "position": 0
+            },
+            {
+              "label": "Custom UI",
+              "value": "Emulator: Support PSP, PS1, DC, NDS ,ARCADE, GBA ,GBC, GB, SFC, FC, Mame ,CP ,S1 C, PS2 C, PS3 Neogeo Atari ..........., ect, Support user download the games by themselves",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Battery",
+          "position": 5,
+          "items": [
+            {
+              "label": "Type",
+              "value": "Built-in 2000mAH Li-battery, Support 4h power on",
+              "position": 0
+            },
+            {
+              "label": "Fast Charging",
+              "value": "5V/2A adapter Type-C Charging",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Physical specification",
+          "position": 6,
+          "items": [
+            {
+              "label": "Dimension",
+              "value": "195*105*42mm",
+              "position": 0
+            },
+            {
+              "label": "Weight",
+              "value": "333g",
+              "position": 1
+            },
+            {
+              "label": "Colors",
+              "value": "Grey",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "name": "Warranty Information",
+          "position": 7,
+          "items": [
+            {
+              "label": "Warranty",
+              "value": "No Warranty",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://www.startech.com.bd/sjgam-m17-handheld-gaming-console",
+      "sourceProductCode": "50670",
+      "sourceStatus": "In Stock",
+      "sourceMpn": null,
+      "sourceKeyFeatures": [
+        "Model: M17",
+        "CPU: Quad-core Cortex-A7 1.2GHz; Dual Core GPU",
+        "Memory: 1GB DDR4; Storage: 64GB/128GB micro SD card",
+        "Battery: 2000mAh; Battery Life: Up to 4h",
+        "Display: 4.3 inch IPS (480*272) px"
+      ],
+      "needsReview": false,
+      "categorySlug": "gaming-console",
+      "image": "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M17%20Handheld%20Gaming%20Console.png",
+      "gallery": [
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M17%20Handheld%20Gaming%20Console%201.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M17%20Handheld%20Gaming%20Console%203.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M17%20Handheld%20Gaming%20Console%204.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M17%20Handheld%20Gaming%20Console.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M17%20Handheld%20Gaming%20Console%201.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M17%20Handheld%20Gaming%20Console%203.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M17%20Handheld%20Gaming%20Console%204.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "sjgam-m17-handheld-gaming-console",
+        "candidateTitle": "SJGAM M17 Handheld Gaming Console",
+        "attemptStem": "sjgam-m17-handheld-gaming-console"
+      },
+      "localImageFile": "public/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM M17 Handheld Gaming Console.png"
+    },
+    {
+      "name": "SJGAM M18 Handheld Gaming Console",
+      "slug": "sjgam-m18-handheld-gaming-console",
+      "type": "PHYSICAL",
+      "sku": "ST-50672",
+      "description": "<h2>SJGAM M18 Handheld Gaming Console</h2><p>The <strong>SJGAM M18 </strong>Handheld Gaming Console is a portable gaming device built for smooth performance and versatile retro game support. It comes with a 4.3 inch IPS display offering 800 x 480 pixel resolution, delivering sharper visuals compared to earlier models. Powered by an RK3566 quad-core Cortex-A55 1.8GHz processor and a dual-core G52 GPU, this SJGAM Gaming Console ensures responsive gameplay across multiple emulators.</p><p>With 1GB DDR4 RAM and expandable storage, the SJGAM M18 Gaming Console provides flexibility for gamers. It supports 64GB or 128GB micro SD cards and includes a TF card slot with maximum support up to 512GB, giving plenty of space to store games. The built-in Hi-Fidelity speaker enhances sound quality, making the SJCAM Handheld Gaming Console more immersive for portable play.</p><p>Running on EmuELEC 4.3 OS with a custom UI, the SJGAM M18 Handheld Gaming Console supports more than 30 kinds of emulators including PSP, PS1, DC, NDS, ARCADE, GBA, GBC, GB, SFC, FC, MAME, NeoGeo, Atari and more. Users can also download and add their own games in relevant formats, making this SJGAM Retro Gaming Console a versatile choice for collectors and enthusiasts.</p><p>The SJGAM Gaming console is powered by a built-in 4000mAh Li-battery that supports up to 6 hours of continuous playtime. With fast charging using a 5V/2A adapter and Type-C charging, the SJGAM Switch Console ensures quick and convenient recharging for extended gaming sessions.</p><p>Overall, the SJGAM M18 Gaming Console is a reliable portable device that combines performance, storage flexibility, and wide emulator support. It is an excellent choice for gamers looking for a compact retro handheld console with modern features and longer battery life.</p><h2>Buy SJGAM M18 Handheld Gaming Console From Deshi Plus</h2><p>In Bangladesh, you can get original <strong>SJGAM M18 Handheld Gaming Console</strong> From Deshi Plus. We have a large collection of latest <a href=\"https://www.startech.com.bd/sjgam-gaming-console\">SJGAM Gaming Console</a> to purchase. Order Online Or Visit your Nearest <a href=\"https://www.startech.com.bd\">Deshi Plus Shop</a> to get yours at lowest price. The SJGAM M18 Handheld Gaming Console comes with no warranty.</p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>Model: M18</li><li>CPU: RK3566 Quad-core Cortex-A55 1.8GHz; Dual Core G52 GPU</li><li>Memory: 1GB DDR4; Storage: 64GB/128GB micro SD card</li><li>Battery: 4000mAh; Battery Life: Up to 6h</li><li>Display: 4.3 inch IPS (800*480) px</li></ul>",
+      "model": "M18",
+      "warranty": "No Warranty",
+      "basePrice": 6999.0,
+      "originalPrice": 8000.0,
+      "currency": "BDT",
+      "weight": 0.249,
+      "dimensions": {
+        "length": 145.0,
+        "width": 103.0,
+        "height": 35.0,
+        "unit": "mm"
+      },
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 10,
+      "brandName": "SJGAM",
+      "variantOptions": [
+        {
+          "name": "Size",
+          "position": 0,
+          "values": [
+            {
+              "value": "4.3 inch",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "RAM",
+          "position": 1,
+          "values": [
+            {
+              "value": "DDR4 1GB",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "Internal Storage",
+          "position": 2,
+          "values": [
+            {
+              "value": "64GB/128GB micro SD card",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "ST-50672",
+          "price": 6999.0,
+          "currency": "BDT",
+          "stock": 10,
+          "options": {
+            "Size": "4.3 inch",
+            "RAM": "DDR4 1GB",
+            "Internal Storage": "64GB/128GB micro SD card"
+          },
+          "isDefault": true,
+          "active": true,
+          "lowStockThreshold": 10,
+          "costPrice": 6719.04,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Display",
+          "position": 0,
+          "items": [
+            {
+              "label": "Size",
+              "value": "4.3 inch",
+              "position": 0
+            },
+            {
+              "label": "Type",
+              "value": "IPS",
+              "position": 1
+            },
+            {
+              "label": "Resolution",
+              "value": "800*480 pixel",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "name": "Processor",
+          "position": 1,
+          "items": [
+            {
+              "label": "Chipset",
+              "value": "RK3566 Quad-core Cortex-A55 1.8GHz",
+              "position": 0
+            },
+            {
+              "label": "GPU",
+              "value": "Dual-core G52",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Memory",
+          "position": 2,
+          "items": [
+            {
+              "label": "RAM",
+              "value": "DDR4 1GB",
+              "position": 0
+            },
+            {
+              "label": "Internal Storage",
+              "value": "64GB/128GB micro SD card",
+              "position": 1
+            },
+            {
+              "label": "Card Slot",
+              "value": "TF card Dlots, maximum Support 512G",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "name": "Audio",
+          "position": 3,
+          "items": [
+            {
+              "label": "Speaker",
+              "value": "Hi-Fidelity speaker build-in",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "OS",
+          "position": 4,
+          "items": [
+            {
+              "label": "Operating System",
+              "value": "EmuELEC 4.3",
+              "position": 0
+            },
+            {
+              "label": "Custom UI",
+              "value": "Emulator: Support 30+ kinds of emulators. Support users to download games in relevant formats.",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Battery",
+          "position": 5,
+          "items": [
+            {
+              "label": "Type",
+              "value": "Built-in 4000mAH Li-battery, Support 6h power on",
+              "position": 0
+            },
+            {
+              "label": "Fast Charging",
+              "value": "5V/2A adapter Type-C Charging",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Physical specification",
+          "position": 6,
+          "items": [
+            {
+              "label": "Dimension",
+              "value": "145*103*35mm",
+              "position": 0
+            },
+            {
+              "label": "Weight",
+              "value": "249g",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Warranty Information",
+          "position": 7,
+          "items": [
+            {
+              "label": "Warranty",
+              "value": "No Warranty",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://www.startech.com.bd/sjgam-m18-handheld-gaming-console",
+      "sourceProductCode": "50672",
+      "sourceStatus": "In Stock",
+      "sourceMpn": null,
+      "sourceKeyFeatures": [
+        "Model: M18",
+        "CPU: RK3566 Quad-core Cortex-A55 1.8GHz; Dual Core G52 GPU",
+        "Memory: 1GB DDR4; Storage: 64GB/128GB micro SD card",
+        "Battery: 4000mAh; Battery Life: Up to 6h",
+        "Display: 4.3 inch IPS (800*480) px"
+      ],
+      "needsReview": false,
+      "categorySlug": "gaming-console",
+      "image": "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M18%20Handheld%20Gaming%20Console.png",
+      "gallery": [
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M18%20Handheld%20Gaming%20Console%201.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M18%20Handheld%20Gaming%20Console%202.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M18%20Handheld%20Gaming%20Console%203.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M18%20Handheld%20Gaming%20Console%204.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M18%20Handheld%20Gaming%20Console.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M18%20Handheld%20Gaming%20Console%201.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M18%20Handheld%20Gaming%20Console%202.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M18%20Handheld%20Gaming%20Console%203.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M18%20Handheld%20Gaming%20Console%204.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "sjgam-m18-handheld-gaming-console",
+        "candidateTitle": "SJGAM M18 Handheld Gaming Console",
+        "attemptStem": "sjgam-m18-handheld-gaming-console"
+      },
+      "localImageFile": "public/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM M18 Handheld Gaming Console.png"
+    },
+    {
+      "name": "SJGAM M27 Handheld Gaming Console",
+      "slug": "sjgam-m27-handheld-gaming-console",
+      "type": "PHYSICAL",
+      "sku": "ST-50674",
+      "description": "<h2>SJGAM M27 Handheld Gaming Console</h2><p>The <strong>SJGAM M27</strong> Handheld Gaming Console is designed for gamers who want a bigger screen and smooth retro gaming performance. It features a 7 inch IPS display with 1024 x 600 pixel resolution, giving clear visuals and a more immersive handheld experience. Powered by an RK3566 quad-core Cortex-A53 1.5GHz processor and a dual-core GPU, the SJGAM M27 Gaming Console runs emulators efficiently and delivers stable gameplay.</p><p>With 1GB DDR4 RAM and a 64GB micro SD card included, the SJGAM M27 Gaming Console provides reliable storage for games. It also supports TF card expansion up to 512GB, giving players plenty of room to save their favorite titles. The built-in Hi-Fidelity speaker ensures crisp audio, making the SJCAM Handheld Gaming Console enjoyable for long gaming sessions.</p><p>Running on EmuELEC 4.3 OS with a custom UI, the SJGAM M27 Handheld Gaming Console supports more than 30 emulators including PSP, PS1, DC, NDS, ARCADE, GBA, GBC, GB, SFC, FC, MAME, NeoGeo, and Atari. Users can also download and install their own games in supported formats, making this SJGAM Retro Gaming Console versatile for different collections.</p><p>The SJGAM M27 Gaming Console is powered by a 3000mAh built-in Li-battery that offers up to 6 hours of playtime. With fast charging support using a 5V/2A adapter and Type-C charging, the SJGAM Switch Console is convenient to recharge and ready for extended use.</p><p>Overall, the SJGAM M27 Gaming Console is a dependable choice for gamers who want a larger handheld with strong performance, flexible storage, and wide emulator support. It combines portability with a bigger screen, making it ideal for those who enjoy retro gaming on the move.</p><h2>Buy SJGAM M27 Handheld Gaming Console From Deshi Plus</h2><p>In Bangladesh, you can get original <strong>SJGAM M27 Handheld Gaming Console</strong> From Deshi Plus. We have a large collection of latest <a href=\"https://www.startech.com.bd/sjgam-gaming-console\">SJGAM Gaming Console</a> to purchase. Order Online Or Visit your Nearest <a href=\"https://www.startech.com.bd\">Deshi Plus Shop</a> to get yours at lowest price. The SJGAM M27 Handheld Gaming Console comes with no warranty.</p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>Model: M27</li><li>CPU: RK3566 Quad-core Cortex-A53 1.5GHz; Dual Core GPU</li><li>Memory: 1GB DDR4; Storage: 64GBmicro SD card</li><li>Battery: 3000mAh; Battery Life: Up to 6h</li><li>Display: 7 inch IPS (1024*600) px</li></ul>",
+      "model": "M27",
+      "warranty": "No Warranty",
+      "basePrice": 11490.0,
+      "originalPrice": 13000.0,
+      "currency": "BDT",
+      "weight": 0.315,
+      "dimensions": {
+        "length": 245.0,
+        "width": 106.0,
+        "height": 16.0,
+        "unit": "mm"
+      },
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 10,
+      "brandName": "SJGAM",
+      "variantOptions": [
+        {
+          "name": "Size",
+          "position": 0,
+          "values": [
+            {
+              "value": "7 inch",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "RAM",
+          "position": 1,
+          "values": [
+            {
+              "value": "DDR4 1GB",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "Internal Storage",
+          "position": 2,
+          "values": [
+            {
+              "value": "64GB micro SD card",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "ST-50674",
+          "price": 11490.0,
+          "currency": "BDT",
+          "stock": 10,
+          "options": {
+            "Size": "7 inch",
+            "RAM": "DDR4 1GB",
+            "Internal Storage": "64GB micro SD card"
+          },
+          "isDefault": true,
+          "active": true,
+          "lowStockThreshold": 10,
+          "costPrice": 11030.4,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Display",
+          "position": 0,
+          "items": [
+            {
+              "label": "Size",
+              "value": "7 inch",
+              "position": 0
+            },
+            {
+              "label": "Type",
+              "value": "IPS",
+              "position": 1
+            },
+            {
+              "label": "Resolution",
+              "value": "1024*600 pixel",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "name": "Processor",
+          "position": 1,
+          "items": [
+            {
+              "label": "Chipset",
+              "value": "RK3566 Quad-core Cortex-A53 1.5GHz",
+              "position": 0
+            },
+            {
+              "label": "GPU",
+              "value": "Dual-core",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Memory",
+          "position": 2,
+          "items": [
+            {
+              "label": "RAM",
+              "value": "DDR4 1GB",
+              "position": 0
+            },
+            {
+              "label": "Internal Storage",
+              "value": "64GB micro SD card",
+              "position": 1
+            },
+            {
+              "label": "Card Slot",
+              "value": "TF card Dlots, maximum Support 512G",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "name": "Audio",
+          "position": 3,
+          "items": [
+            {
+              "label": "Speaker",
+              "value": "Hi-Fidelity speaker built-in",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "OS",
+          "position": 4,
+          "items": [
+            {
+              "label": "Operating System",
+              "value": "EmuELEC 4.3",
+              "position": 0
+            },
+            {
+              "label": "Custom UI",
+              "value": "Emulator: Support 30+ kinds of emulators. Support users to download games in relevant formats.",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Battery",
+          "position": 5,
+          "items": [
+            {
+              "label": "Type",
+              "value": "Built-in 3000mAH Li-battery, Support 6h power on",
+              "position": 0
+            },
+            {
+              "label": "Fast Charging",
+              "value": "5V/2A adapter Type-C Charging",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Physical specification",
+          "position": 6,
+          "items": [
+            {
+              "label": "Dimension",
+              "value": "245*106*16mm",
+              "position": 0
+            },
+            {
+              "label": "Weight",
+              "value": "315g",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Warranty Information",
+          "position": 7,
+          "items": [
+            {
+              "label": "Warranty",
+              "value": "No Warranty",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://www.startech.com.bd/sjgam-m27-handheld-gaming-console",
+      "sourceProductCode": "50674",
+      "sourceStatus": "In Stock",
+      "sourceMpn": null,
+      "sourceKeyFeatures": [
+        "Model: M27",
+        "CPU: RK3566 Quad-core Cortex-A53 1.5GHz; Dual Core GPU",
+        "Memory: 1GB DDR4; Storage: 64GBmicro SD card",
+        "Battery: 3000mAh; Battery Life: Up to 6h",
+        "Display: 7 inch IPS (1024*600) px"
+      ],
+      "needsReview": false,
+      "categorySlug": "gaming-console",
+      "image": "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M27%20Handheld%20Gaming%20Console.png",
+      "gallery": [
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M27%20Handheld%20Gaming%20Console%201.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M27%20Handheld%20Gaming%20Console%202.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M27%20Handheld%20Gaming%20Console%203.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M27%20Handheld%20Gaming%20Console%204.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M27%20Handheld%20Gaming%20Console.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M27%20Handheld%20Gaming%20Console%201.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M27%20Handheld%20Gaming%20Console%202.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M27%20Handheld%20Gaming%20Console%203.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M27%20Handheld%20Gaming%20Console%204.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "sjgam-m27-handheld-gaming-console",
+        "candidateTitle": "SJGAM M27 Handheld Gaming Console",
+        "attemptStem": "sjgam-m27-handheld-gaming-console"
+      },
+      "localImageFile": "public/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM M27 Handheld Gaming Console.png"
+    },
+    {
+      "name": "SJGAM M28 Handheld Gaming Console",
+      "slug": "sjgam-m28-handheld-gaming-console",
+      "type": "PHYSICAL",
+      "sku": "ST-50676",
+      "description": "<h2>SJGAM M28 Handheld Gaming Console</h2><p>The <strong>SJGAM M28</strong> Handheld Gaming Console brings stronger performance and a premium handheld experience with its upgraded hardware. It features a 7 inch IPS screen at 1024 x 600 pixel resolution, offering sharp visuals for retro and modern gaming. Powered by an octa-core processor combining 2 Cortex-A75 cores at 2.0GHz and 6 Cortex-A55 cores at 1.7GHz, along with a Mali G52 MC2 GPU, the SJGAM M28 Gaming Console delivers faster speeds and smoother graphics compared to earlier SJGAM models.</p><p>With 2GB DDR4 RAM and a 128GB micro SD card included, the SJGAM M28 Gaming Console provides more memory and storage capacity for larger game libraries. It also supports TF card expansion up to 512GB, giving gamers plenty of room to save titles. The built-in Hi-Fidelity speaker ensures clear audio output, making the SJCAM Handheld Gaming Console enjoyable for extended play.</p><p>Running on EmuELEC 4.3 OS with a custom UI, the SJGAM M28 Handheld Gaming Console supports over 30 emulators including PSP, PS1, DC, NDS, ARCADE, GBA, GBC, GB, SFC, FC, MAME, NeoGeo, and Atari. Users can also download and install their own games in supported formats, making this SJGAM Retro Gaming Console versatile for collectors and enthusiasts.</p><p>The SJGAM M28 Gaming Console is powered by a 4000mAh built-in Li-battery that offers up to 6 hours of playtime. With fast charging support using a 5V/2A adapter and Type-C charging, the SJGAM Switch Console is quick to recharge and ready for longer gaming sessions.</p><p>Overall, the SJGAM M28 Gaming Console combines a larger screen, stronger hardware, and expanded storage with wide emulator support. It is a great choice for gamers who want a high-performance handheld console with modern features and reliable battery life.</p><h2>Buy SJGAM M28 Handheld Gaming Console From Deshi Plus</h2><p>In Bangladesh, you can get original <strong>SJGAM M28 Handheld Gaming Console</strong> From Deshi Plus. We have a large collection of latest <a href=\"https://www.startech.com.bd/sjgam-gaming-console\">SJGAM Gaming Console</a> to purchase. Order Online Or Visit your Nearest <a href=\"https://www.startech.com.bd\">Deshi Plus Shop</a> to get yours at lowest price. The SJGAM M28 Handheld Gaming Console comes with no warranty.</p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>Model: M28</li><li>CPU: Octa-core up to 2.0GHz; Mali G52 MC2 GPU</li><li>Memory: 2GB DDR4; Storage: 128GB microSD card</li><li>Battery: 4000mAh; Battery Life: Up to 6h</li><li>Display: 7 inch IPS (1024*600) px</li></ul>",
+      "model": "M28",
+      "warranty": "No Warranty",
+      "basePrice": 14490.0,
+      "originalPrice": 16000.0,
+      "currency": "BDT",
+      "weight": 0.45,
+      "dimensions": {
+        "length": 242.0,
+        "width": 105.0,
+        "height": 30.0,
+        "unit": "mm"
+      },
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 10,
+      "brandName": "SJGAM",
+      "variantOptions": [
+        {
+          "name": "Size",
+          "position": 0,
+          "values": [
+            {
+              "value": "7 inch",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "RAM",
+          "position": 1,
+          "values": [
+            {
+              "value": "DDR4 2GB",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "Internal Storage",
+          "position": 2,
+          "values": [
+            {
+              "value": "128GB micro SD card",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "ST-50676",
+          "price": 14490.0,
+          "currency": "BDT",
+          "stock": 10,
+          "options": {
+            "Size": "7 inch",
+            "RAM": "DDR4 2GB",
+            "Internal Storage": "128GB micro SD card"
+          },
+          "isDefault": true,
+          "active": true,
+          "lowStockThreshold": 10,
+          "costPrice": 13910.4,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Display",
+          "position": 0,
+          "items": [
+            {
+              "label": "Size",
+              "value": "7 inch",
+              "position": 0
+            },
+            {
+              "label": "Type",
+              "value": "IPS",
+              "position": 1
+            },
+            {
+              "label": "Resolution",
+              "value": "1024*600 pixel",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "name": "Processor",
+          "position": 1,
+          "items": [
+            {
+              "label": "Chipset",
+              "value": "Octa-core 2*Cortex-A75 2.0GHz +6* Cortex A55 1.7GHz",
+              "position": 0
+            },
+            {
+              "label": "GPU",
+              "value": "Mali G52 MC2",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Memory",
+          "position": 2,
+          "items": [
+            {
+              "label": "RAM",
+              "value": "DDR4 2GB",
+              "position": 0
+            },
+            {
+              "label": "Internal Storage",
+              "value": "128GB micro SD card",
+              "position": 1
+            },
+            {
+              "label": "Card Slot",
+              "value": "TF card Dlots, maximum Support 512G",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "name": "Audio",
+          "position": 3,
+          "items": [
+            {
+              "label": "Speaker",
+              "value": "Hi-Fidelity speaker built-in",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "OS",
+          "position": 4,
+          "items": [
+            {
+              "label": "Operating System",
+              "value": "EmuELEC 4.3",
+              "position": 0
+            },
+            {
+              "label": "Custom UI",
+              "value": "Emulator: Support 30+ kinds of emulators. Support users to download games in relevant formats.",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Battery",
+          "position": 5,
+          "items": [
+            {
+              "label": "Type",
+              "value": "Built-in 4000mAH Li-battery, Support 6h power on",
+              "position": 0
+            },
+            {
+              "label": "Fast Charging",
+              "value": "5V/2A adapter Type-C Charging",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Physical specification",
+          "position": 6,
+          "items": [
+            {
+              "label": "Dimension",
+              "value": "242*105*30mm",
+              "position": 0
+            },
+            {
+              "label": "Weight",
+              "value": "450g",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Warranty Information",
+          "position": 7,
+          "items": [
+            {
+              "label": "Warranty",
+              "value": "No Warranty",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://www.startech.com.bd/sjgam-m28-handheld-gaming-console",
+      "sourceProductCode": "50676",
+      "sourceStatus": "In Stock",
+      "sourceMpn": null,
+      "sourceKeyFeatures": [
+        "Model: M28",
+        "CPU: Octa-core up to 2.0GHz; Mali G52 MC2 GPU",
+        "Memory: 2GB DDR4; Storage: 128GB microSD card",
+        "Battery: 4000mAh; Battery Life: Up to 6h",
+        "Display: 7 inch IPS (1024*600) px"
+      ],
+      "needsReview": false,
+      "categorySlug": "gaming-console",
+      "image": "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M28%20Handheld%20Gaming%20Console.png",
+      "gallery": [
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M28%20Handheld%20Gaming%20Console%201.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M28%20Handheld%20Gaming%20Console%202.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M28%20Handheld%20Gaming%20Console%203.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M28%20Handheld%20Gaming%20Console%204.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M28%20Handheld%20Gaming%20Console.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M28%20Handheld%20Gaming%20Console%201.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M28%20Handheld%20Gaming%20Console%202.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M28%20Handheld%20Gaming%20Console%203.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M28%20Handheld%20Gaming%20Console%204.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "sjgam-m28-handheld-gaming-console",
+        "candidateTitle": "SJGAM M28 Handheld Gaming Console",
+        "attemptStem": "sjgam-m28-handheld-gaming-console"
+      },
+      "localImageFile": "public/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM M28 Handheld Gaming Console.png"
+    },
+    {
+      "name": "SJGAM M5 Gaming Console",
+      "slug": "sjgam-m5-gaming-console",
+      "type": "PHYSICAL",
+      "sku": "ST-50709",
+      "description": "<h2>SJGAM M5 Gaming Console</h2><p>The <strong>SJGAM M5</strong> Gaming Console is a feature-packed retro gaming system designed for big-screen fun and smooth performance. Supporting 4K UHD TV output, the SJGAM M5 Gaming Console lets you enjoy classic titles with enhanced visuals on modern displays. It also includes 2.4G double wireless controllers, making multiplayer gaming more responsive and convenient.</p><p>Powered by a quad-core Cortex-A7 1.5GHz processor and a dual-core Mali-400MP2 GPU, the SJGAM M5 Gaming Console delivers stable performance across emulators. With 1GB DDR4 RAM and storage options of 64GB or 128GB micro SD cards, it provides flexibility for different game libraries. The TF card slot supports expansion up to 512GB, giving gamers plenty of space to store their favorite retro titles.</p><p>Running on EmuELEC 4.3 OS with a custom UI, the SJGAM M5 Gaming Console supports more than 25 emulators including PSP, PS1, DC, NDS, ARCADE, GBA, GBC, GB, SFC, FC, MAME, NeoGeo, and Atari. Users can also download and install their own games in supported formats, making the SJGAM M5 Console versatile for collectors and enthusiasts.</p><p>The SJGAM M5 Gaming Console supports charging via Micro USB 5V/1A adaptor, ensuring quick setup and reliable power for extended gaming sessions. Compact yet powerful, this retro console is ideal for gamers who want portability combined with TV-ready performance.</p><h2>Buy SJGAM M5 Gaming Console from the Best Gaming Console Shop in BD: Deshi Plus</h2><p>In Bangladesh, you can get original <strong>SJGAM M5 Gaming Console</strong> From Deshi Plus. We have a large collection of latest <a href=\"https://www.startech.com.bd/sjgam-gaming-console\">SJGAM Gaming Console</a> to purchase. Order Online Or Visit your Nearest <a href=\"https://www.startech.com.bd\">Deshi Plus Shop</a> to get yours at lowest price. The SJGAM M5 Gaming Console has No warranty.</p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>Model: M5</li><li>CPU: Quad-core Cortex-A7 1.5GHz ; GPU: Dual-core Mali-400MP2</li><li>Memory: 1GB DDR4; Storage: 64GB/128GB micro SD card</li><li>Support 25+ kinds of emulators</li><li>Max resolution Support Up to 4K UHD TV output</li></ul>",
+      "model": "M5",
+      "warranty": "No Warranty",
+      "basePrice": 6999.0,
+      "originalPrice": 8500.0,
+      "currency": "BDT",
+      "weight": 0.36,
+      "dimensions": {
+        "length": 106.0,
+        "width": 45.0,
+        "height": 14.0,
+        "unit": "mm"
+      },
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 10,
+      "brandName": "SJGAM",
+      "variantOptions": [
+        {
+          "name": "RAM",
+          "position": 0,
+          "values": [
+            {
+              "value": "DDR4 1GB",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "Internal Storage",
+          "position": 1,
+          "values": [
+            {
+              "value": "64GB/128GB micro SD card",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "ST-50709",
+          "price": 6999.0,
+          "currency": "BDT",
+          "stock": 10,
+          "options": {
+            "RAM": "DDR4 1GB",
+            "Internal Storage": "64GB/128GB micro SD card"
+          },
+          "isDefault": true,
+          "active": true,
+          "lowStockThreshold": 10,
+          "costPrice": 6719.04,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Display",
+          "position": 0,
+          "items": [
+            {
+              "label": "Features",
+              "value": "Max Resolution support 4K UHD TV output Support 2.4G Double wirelss controller",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "Processor",
+          "position": 1,
+          "items": [
+            {
+              "label": "Chipset",
+              "value": "Quad-core Cortex-A7 1.5GHz",
+              "position": 0
+            },
+            {
+              "label": "GPU",
+              "value": "Dual-core Mali-400MP2",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Memory",
+          "position": 2,
+          "items": [
+            {
+              "label": "RAM",
+              "value": "DDR4 1GB",
+              "position": 0
+            },
+            {
+              "label": "Internal Storage",
+              "value": "64GB/128GB micro SD card",
+              "position": 1
+            },
+            {
+              "label": "Card Slot",
+              "value": "TF card slots, maximum support 512G",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "name": "OS",
+          "position": 3,
+          "items": [
+            {
+              "label": "Operating System",
+              "value": "EmuELEC 4.3",
+              "position": 0
+            },
+            {
+              "label": "Custom UI",
+              "value": "Emulator: Support 25+ kinds of emulators. Support users to download games in relevant formats.",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Battery",
+          "position": 4,
+          "items": [
+            {
+              "label": "Fast Charging",
+              "value": "Support Micro USB 5V/1A adaptor",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "Physical specification",
+          "position": 5,
+          "items": [
+            {
+              "label": "Dimension",
+              "value": "106*45*14mm",
+              "position": 0
+            },
+            {
+              "label": "Weight",
+              "value": "360g",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Warranty Information",
+          "position": 6,
+          "items": [
+            {
+              "label": "Warranty",
+              "value": "No Warranty",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://www.startech.com.bd/sjgam-m5-gaming-console",
+      "sourceProductCode": "50709",
+      "sourceStatus": "In Stock",
+      "sourceMpn": null,
+      "sourceKeyFeatures": [
+        "Model: M5",
+        "CPU: Quad-core Cortex-A7 1.5GHz ; GPU: Dual-core Mali-400MP2",
+        "Memory: 1GB DDR4; Storage: 64GB/128GB micro SD card",
+        "Support 25+ kinds of emulators",
+        "Max resolution Support Up to 4K UHD TV output"
+      ],
+      "needsReview": false,
+      "categorySlug": "gaming-console",
+      "image": "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M5%20Gaming%20Console.png",
+      "gallery": [],
+      "sourceImages": [
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M5%20Gaming%20Console.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "sjgam-m5-gaming-console",
+        "candidateTitle": "SJGAM M5 Gaming Console",
+        "attemptStem": "sjgam-m5-gaming-console"
+      },
+      "localImageFile": "public/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM M5 Gaming Console.png"
+    },
+    {
+      "name": "SJGAM M88 Stick Gaming Console",
+      "slug": "sjgam-m88-gaming-console",
+      "type": "PHYSICAL",
+      "sku": "ST-50711",
+      "description": "<h2>SJGAM M88 Stick Gaming Console</h2><p>The<strong> SJGAM M88</strong> Stick Gaming Console is a powerful plug-and-play retro gaming system built for modern displays and smooth performance. Supporting 4K UHD TV output, the SJGAM M88 Stick Gaming Console transforms any screen into a gaming hub, while the included 2.4G double wireless controllers make multiplayer gaming responsive and convenient.</p><p>Powered by an octa-core processor (2 Cortex-A75 cores at 2.0GHz + 6 Cortex-A55 cores at 1.7GHz) and a Mali-G52 MC2 GPU, the SJGAM M88 Stick Gaming Console delivers fast speeds and enhanced graphics. With 2GB DDR4 RAM and a 128GB micro SD card, it provides ample storage for large game libraries. The TF card slot supports expansion up to 512GB, giving gamers flexibility to store thousands of retro titles.</p><p>Running on EmuELEC 4.3 OS with a custom UI, the SJGAM M88 Stick Gaming Console supports more than 30 emulators including PSP, PS1, DC, NDS, ARCADE, GBA, GBC, GB, SFC, FC, MAME, NeoGeo, and Atari. Users can also download and install their own games in supported formats, making this stick console versatile for collectors and enthusiasts.</p><p>With fast charging via Micro USB 5V/1A adaptor, the SJGAM M88 Stick Gaming Console ensures reliable power for extended gaming sessions. Compact and easy to set up, it is the perfect choice for gamers who want portability combined with TV-ready performance.</p><h2>Buy SJGAM M88 Stick Gaming Console from the Best Gaming Console Shop in BD: Deshi Plus</h2><p>In Bangladesh, you can get original <strong>SJGAM M88 Stick Gaming Console</strong> From Deshi Plus. We have a large collection of latest <a href=\"https://www.startech.com.bd/sjgam-gaming-console\">SJGAM Gaming Console</a> to purchase. Order Online Or Visit your Nearest <a href=\"https://www.startech.com.bd\">Deshi Plus Shop</a> to get yours at lowest price. The SJGAM M88 Stick Gaming Console has No warranty.</p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>Model: M88</li><li>CPU: Octa-core Up to 2.0Ghz ; GPU: Mali-G52 MC2</li><li>Memory: 2GB DDR4; Storage: 128GB micro SD card</li><li>Support 30+ kinds of emulators</li><li>Max resolution Support Up to 4K UHD TV output</li></ul>",
+      "model": "M88",
+      "warranty": "No Warranty",
+      "basePrice": 12499.0,
+      "originalPrice": 14000.0,
+      "currency": "BDT",
+      "weight": 0.34,
+      "dimensions": {
+        "length": 102.0,
+        "width": 32.0,
+        "height": 18.0,
+        "unit": "mm"
+      },
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 10,
+      "brandName": "SJGAM",
+      "variantOptions": [
+        {
+          "name": "RAM",
+          "position": 0,
+          "values": [
+            {
+              "value": "DDR4 2GB",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "Internal Storage",
+          "position": 1,
+          "values": [
+            {
+              "value": "128GB micro SD card",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "ST-50711",
+          "price": 12499.0,
+          "currency": "BDT",
+          "stock": 10,
+          "options": {
+            "RAM": "DDR4 2GB",
+            "Internal Storage": "128GB micro SD card"
+          },
+          "isDefault": true,
+          "active": true,
+          "lowStockThreshold": 10,
+          "costPrice": 11999.04,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Display",
+          "position": 0,
+          "items": [
+            {
+              "label": "Features",
+              "value": "Max Resolution support 4K UHD TV output Support 2.4G Double wirelss controller",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "Processor",
+          "position": 1,
+          "items": [
+            {
+              "label": "Chipset",
+              "value": "Octa-core 2*Cortex-A75 2.0GHz +6* Cortex A55 1.7GHz",
+              "position": 0
+            },
+            {
+              "label": "GPU",
+              "value": "Mali-G52 MC2",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Memory",
+          "position": 2,
+          "items": [
+            {
+              "label": "RAM",
+              "value": "DDR4 2GB",
+              "position": 0
+            },
+            {
+              "label": "Internal Storage",
+              "value": "128GB micro SD card",
+              "position": 1
+            },
+            {
+              "label": "Card Slot",
+              "value": "TF card slots, maximum support 512G",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "name": "OS",
+          "position": 3,
+          "items": [
+            {
+              "label": "Operating System",
+              "value": "EmuELEC 4.3",
+              "position": 0
+            },
+            {
+              "label": "Custom UI",
+              "value": "Emulator: Support 30+ kinds of emulators. Support users to download games in relevant formats.",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Battery",
+          "position": 4,
+          "items": [
+            {
+              "label": "Fast Charging",
+              "value": "Support Micro USB 5V/1A adaptor",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "Physical specification",
+          "position": 5,
+          "items": [
+            {
+              "label": "Dimension",
+              "value": "102*32*18mm",
+              "position": 0
+            },
+            {
+              "label": "Weight",
+              "value": "340g",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Warranty Information",
+          "position": 6,
+          "items": [
+            {
+              "label": "Warranty",
+              "value": "No Warranty",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://www.startech.com.bd/sjgam-m88-gaming-console",
+      "sourceProductCode": "50711",
+      "sourceStatus": "In Stock",
+      "sourceMpn": null,
+      "sourceKeyFeatures": [
+        "Model: M88",
+        "CPU: Octa-core Up to 2.0Ghz ; GPU: Mali-G52 MC2",
+        "Memory: 2GB DDR4; Storage: 128GB micro SD card",
+        "Support 30+ kinds of emulators",
+        "Max resolution Support Up to 4K UHD TV output"
+      ],
+      "needsReview": false,
+      "categorySlug": "gaming-console",
+      "image": "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M88%20Stick%20Gaming%20Console.png",
+      "gallery": [
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M88%20Stick%20Gaming%20Console%202.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M88%20Stick%20Gaming%20Console%203.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M88%20Stick%20Gaming%20Console%204.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M88%20Stick%20Gaming%20Console.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M88%20Stick%20Gaming%20Console%202.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M88%20Stick%20Gaming%20Console%203.png",
+        "/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM%20M88%20Stick%20Gaming%20Console%204.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "sjgam-m88-gaming-console",
+        "candidateTitle": "SJGAM M88 Stick Gaming Console",
+        "attemptStem": "sjgam-m88-gaming-console"
+      },
+      "localImageFile": "public/Product_Images/Gaming/GamingConsole/SJGAM/SJGAM M88 Stick Gaming Console.png"
+    },
+    {
+      "name": "Sony PlayStation 5 30th Anniversary Limited Edition Gaming Console",
+      "slug": "sony-playstation-5-30th-anniversary-edition",
+      "type": "PHYSICAL",
+      "sku": "CFI-2000 B30",
+      "description": "<h2>Sony PlayStation 5 30th Anniversary Limited Edition Gaming Console</h2><p>The Sony <strong>PlayStation 5 30th Anniversary Limited Edition</strong> Gaming Console is a special release that celebrates 30 years of PlayStation innovation while delivering the full power of next-generation gaming. As a premium PS5 console, this limited edition combines iconic design elements inspired by the original PlayStation with the advanced hardware that defines the modern Sony PS5 experience. Designed for both gamers and collectors, the Sony PS5 30th Anniversary Edition offers ultra-fast load times, stunning visuals, and smooth gameplay across a vast library of PlayStation 5 titles, making it a standout console for performance and nostalgia alike.</p><h3>Iconic 30th Anniversary Design</h3><p>The Sony PS5 30th Anniversary Edition features a unique color scheme and exclusive anniversary detailing that pays tribute to PlayStation’s legacy. This distinctive design sets it apart from the standard PS5 while maintaining the same powerful internals, making it an eye-catching centerpiece for any gaming setup and a must-have for PlayStation fans.</p><h3>Next-Generation PS5 Performance</h3><p>Powered by the advanced PS5 architecture, the Sony PlayStation 5 30th Anniversary Limited Edition delivers lightning-fast SSD performance, immersive ray-traced graphics, and high frame rates for smooth and responsive gameplay. Whether you’re playing blockbuster exclusives or competitive multiplayer games, this PS5 console ensures a premium gaming experience.</p><h3>Immersive Gaming and Entertainment</h3><p>The PS5 30th Anniversary Edition supports 4K gaming, high refresh rates, and a wide range of PlayStation 5 games, bringing worlds to life with exceptional detail and realism. Beyond gaming, this Sony PS5 console also functions as a complete entertainment hub, supporting streaming apps and media playback for all-in-one home entertainment.</p><h3>Limited Edition Collectible Appeal</h3><p>As a commemorative release, the Sony PlayStation 5 30th Anniversary Limited Edition Gaming Console holds strong collectible value. With limited availability and exclusive design features, this PS5 is ideal for collectors and long-time PlayStation enthusiasts who want to own a piece of gaming history while enjoying cutting-edge performance.</p><h2>Buy Sony PlayStation 5 30th Anniversary Limited Edition Gaming Console from the Best Gaming Console Shop in BD: Deshi Plus</h2><p>In Bangladesh, you can get original <strong>Sony PlayStation 5 30th Anniversary Limited Edition Gaming Console</strong> From Deshi Plus. We have a large collection of latest <a href=\"https://www.startech.com.bd/play-station\">PlayStation Console</a> to purchase. Order Online Or Visit your Nearest <a href=\"https://www.startech.com.bd\">Deshi Plus Shop</a> to get yours at lowest price. The Sony PlayStation 5 30th Anniversary Limited Edition Gaming Console has No warranty.</p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>MPN: CFI-2000 B30</li><li>Model: PlayStation 5 30th Anniversary Limited Edition</li><li>AMD Zen 2-based CPU with 8 cores at 3.5GHz (variable frequency)</li><li>GPU: 10.28 TFLOPs, 36CUs at 2.23GHz</li><li>Backward Compatibility &amp; Game Boost</li><li>4K UltraHD TV Gaming, 8K support, 1TB Storage</li></ul>",
+      "model": "PlayStation 5 30th Anniversary Limited Edition",
+      "warranty": null,
+      "basePrice": 102000.0,
+      "originalPrice": null,
+      "currency": "BDT",
+      "weight": null,
+      "dimensions": null,
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 182,
+      "brandName": "Sony",
+      "variantOptions": [],
+      "variants": [
+        {
+          "sku": "CFI-2000 B30",
+          "price": 102000.0,
+          "currency": "BDT",
+          "stock": 103,
+          "options": {},
+          "isDefault": true,
+          "active": false,
+          "lowStockThreshold": 10,
+          "costPrice": 97920.0,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Key Features",
+          "position": 0,
+          "items": [
+            {
+              "label": "MPN",
+              "value": "CFI-2000 B30",
+              "position": 0
+            },
+            {
+              "label": "Model",
+              "value": "PlayStation 5 30th Anniversary Limited Edition",
+              "position": 1
+            },
+            {
+              "label": "GPU",
+              "value": "10.28 TFLOPs, 36CUs at 2.23GHz",
+              "position": 2
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://www.startech.com.bd/sony-playstation-5-30th-anniversary-edition",
+      "sourceProductCode": "47416",
+      "sourceStatus": "Call for Price",
+      "sourceMpn": "CFI-2000 B30",
+      "sourceKeyFeatures": [
+        "MPN: CFI-2000 B30",
+        "Model: PlayStation 5 30th Anniversary Limited Edition",
+        "AMD Zen 2-based CPU with 8 cores at 3.5GHz (variable frequency)",
+        "GPU: 10.28 TFLOPs, 36CUs at 2.23GHz",
+        "Backward Compatibility & Game Boost",
+        "4K UltraHD TV Gaming, 8K support, 1TB Storage"
+      ],
+      "needsReview": false,
+      "categorySlug": "gaming-console-playstation",
+      "image": "/Product_Images/Gaming/GamingConsole/Sony/Sony%20PlayStation%205%2030th%20Anniversary%20Limited%20Edition%20Gaming%20Console.png",
+      "gallery": [
+        "/Product_Images/Gaming/GamingConsole/Sony/Sony%20PlayStation%205%2030th%20Anniversary%20Limited%20Edition%20Gaming%20Console%201.png",
+        "/Product_Images/Gaming/GamingConsole/Sony/Sony%20PlayStation%205%2030th%20Anniversary%20Limited%20Edition%20Gaming%20Console%202.png",
+        "/Product_Images/Gaming/GamingConsole/Sony/Sony%20PlayStation%205%2030th%20Anniversary%20Limited%20Edition%20Gaming%20Console%203.png",
+        "/Product_Images/Gaming/GamingConsole/Sony/Sony%20PlayStation%205%2030th%20Anniversary%20Limited%20Edition%20Gaming%20Console%204.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Gaming/GamingConsole/Sony/Sony%20PlayStation%205%2030th%20Anniversary%20Limited%20Edition%20Gaming%20Console.png",
+        "/Product_Images/Gaming/GamingConsole/Sony/Sony%20PlayStation%205%2030th%20Anniversary%20Limited%20Edition%20Gaming%20Console%201.png",
+        "/Product_Images/Gaming/GamingConsole/Sony/Sony%20PlayStation%205%2030th%20Anniversary%20Limited%20Edition%20Gaming%20Console%202.png",
+        "/Product_Images/Gaming/GamingConsole/Sony/Sony%20PlayStation%205%2030th%20Anniversary%20Limited%20Edition%20Gaming%20Console%203.png",
+        "/Product_Images/Gaming/GamingConsole/Sony/Sony%20PlayStation%205%2030th%20Anniversary%20Limited%20Edition%20Gaming%20Console%204.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "sony-playstation-5-30th-anniversary-edition",
+        "candidateTitle": "Sony PlayStation 5 30th Anniversary Limited Edition Gaming Console",
+        "attemptStem": "sony-playstation-5-30th-anniversary-edition"
+      },
+      "localImageFile": "public/Product_Images/Gaming/GamingConsole/Sony/Sony PlayStation 5 30th Anniversary Limited Edition Gaming Console.png"
+    },
+    {
+      "name": "Sony PlayStation Portal Remote Player for PS5 Console",
+      "slug": "sony-playstation-portal-remote-player",
+      "type": "PHYSICAL",
+      "sku": "ST-33026",
+      "description": "<h2>Sony PlayStation Portal Remote Player for PS5 Console</h2><p>The Sony <strong>PlayStation Portal Remote Player</strong> allows you to access your PS5 console's games via your home Wi-Fi. Allowing you to play on a beautiful 8\" LCD screen capable of 1080p resolution at 60fps without the need for a TV. PlayStation Portal Remote Player may play suitable games installed on your PS5 console, including your PS5 and PS4 favorites. With the DualSense Wireless Controller, you may experience breathtaking immersion. In compatible games, it provides remarkable immersion through haptic feedback and adjustable triggers. It is not necessary to use a Wi-Fi network to use PlayStation Portal Remote Player because you have control over the quality of your own home Wi-Fi. PlayStation Portal Remote Player can also be used anywhere there is broadband internet Wi-Fi with at least 5Mbps. A high-speed connection of at least 15 Mbps is suggested for a better gaming experience. If you use public Wi-Fi, be aware that the quality of the internet connection is beyond your control and may have an impact on the quality of your gaming experience.</p><h2>Buy Sony PlayStation Portal Remote Player for PS5 Console From Deshi Plus</h2><p>In Bangladesh, you can get original <strong>Sony PlayStation Portal Remote Player for PS5 Console</strong> From Deshi Plus. We have a large collection of latest PlayStation Portal Remote Player to purchase for your <a href=\"https://www.startech.com.bd/play-station\" target=\"\">PlayStation</a>. Order Online Or Visit your Nearest <a href=\"https://www.startech.com.bd\" target=\"\">Deshi Plus Shop</a> to get yours at lowest price. The Sony PlayStation Portal Remote Player for PS5 Console comes with no warranty.</p><p><span style=\"background-color: yellow; font-weight: bold;\">***Only use with PS5 consoles.</span></p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>Model: PlayStation Portal Remote Player</li><li>Display Size: 8-inch Full HD LCD Screen</li><li>Resolution: 1080p at 60fps</li><li>Processor Speed: 3.5 GHz</li><li>DualSense Wireless Controller</li></ul>",
+      "model": "PlayStation Portal Remote Player",
+      "warranty": "no warranty",
+      "basePrice": 32900.0,
+      "originalPrice": null,
+      "currency": "BDT",
+      "weight": null,
+      "dimensions": null,
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 190,
+      "brandName": "Sony",
+      "variantOptions": [
+        {
+          "name": "Display Size",
+          "position": 0,
+          "values": [
+            {
+              "value": "8-inch Full HD LCD Screen",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "ST-33026",
+          "price": 32900.0,
+          "currency": "BDT",
+          "stock": 129,
+          "options": {
+            "Display Size": "8-inch Full HD LCD Screen"
+          },
+          "isDefault": true,
+          "active": false,
+          "lowStockThreshold": 10,
+          "costPrice": 31584.0,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Key Features",
+          "position": 0,
+          "items": [
+            {
+              "label": "Model",
+              "value": "PlayStation Portal Remote Player",
+              "position": 0
+            },
+            {
+              "label": "Display Size",
+              "value": "8-inch Full HD LCD Screen",
+              "position": 1
+            },
+            {
+              "label": "Resolution",
+              "value": "1080p at 60fps",
+              "position": 2
+            },
+            {
+              "label": "Processor Speed",
+              "value": "3.5 GHz",
+              "position": 3
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://www.startech.com.bd/sony-playstation-portal-remote-player",
+      "sourceProductCode": "33026",
+      "sourceStatus": "Call for Price",
+      "sourceMpn": null,
+      "sourceKeyFeatures": [
+        "Model: PlayStation Portal Remote Player",
+        "Display Size: 8-inch Full HD LCD Screen",
+        "Resolution: 1080p at 60fps",
+        "Processor Speed: 3.5 GHz",
+        "DualSense Wireless Controller"
+      ],
+      "needsReview": false,
+      "categorySlug": "gaming-console-playstation",
+      "image": "/Product_Images/Gaming/GamingConsole/Sony/Sony%20PlayStation%20Portal%20Remote%20Player%20for%20PS5%20Console.png",
+      "gallery": [
+        "/Product_Images/Gaming/GamingConsole/Sony/Sony%20PlayStation%20Portal%20Remote%20Player%20for%20PS5%20Console%201.png",
+        "/Product_Images/Gaming/GamingConsole/Sony/Sony%20PlayStation%20Portal%20Remote%20Player%20for%20PS5%20Console%202.png",
+        "/Product_Images/Gaming/GamingConsole/Sony/Sony%20PlayStation%20Portal%20Remote%20Player%20for%20PS5%20Console%203.png",
+        "/Product_Images/Gaming/GamingConsole/Sony/Sony%20PlayStation%20Portal%20Remote%20Player%20for%20PS5%20Console%204.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Gaming/GamingConsole/Sony/Sony%20PlayStation%20Portal%20Remote%20Player%20for%20PS5%20Console.png",
+        "/Product_Images/Gaming/GamingConsole/Sony/Sony%20PlayStation%20Portal%20Remote%20Player%20for%20PS5%20Console%201.png",
+        "/Product_Images/Gaming/GamingConsole/Sony/Sony%20PlayStation%20Portal%20Remote%20Player%20for%20PS5%20Console%202.png",
+        "/Product_Images/Gaming/GamingConsole/Sony/Sony%20PlayStation%20Portal%20Remote%20Player%20for%20PS5%20Console%203.png",
+        "/Product_Images/Gaming/GamingConsole/Sony/Sony%20PlayStation%20Portal%20Remote%20Player%20for%20PS5%20Console%204.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "sony-playstation-portal-remote-player",
+        "candidateTitle": "Sony PlayStation Portal Remote Player for PS5 Console",
+        "attemptStem": "sony-playstation-portal-remote-player"
+      },
+      "localImageFile": "public/Product_Images/Gaming/GamingConsole/Sony/Sony PlayStation Portal Remote Player for PS5 Console.png"
+    },
+    {
+      "name": "Valve Steam Deck OLED 1TB Handheld Gaming Console",
+      "slug": "valve-steam-deck-oled-1tb-gaming-console",
+      "type": "PHYSICAL",
+      "sku": "ST-35854",
+      "description": "<h2>Valve Steam Deck OLED 1TB Handheld Gaming Console</h2>\n<p>The Valve <strong>Steam Deck OLED 1TB</strong> Handheld <a href=\"https://www.startech.com.bd/gaming-console\" style=\"color: rgb(0, 0, 0);\" target=\"\">Gaming Console</a> is a powerful gaming device, powered by a 6 nm AMD APU with a Zen 2 CPU (4 cores, 8 threads, clocking between 2.4 and 3.5GHz) and an RDNA 2 GPU (8 CUs at 1.6GHz), delivering up to 1.6 TFlops of FP32 performance. Its 16GB of LPDDR5 RAM, which operates at 6400 MT/s across four 32-bit channels, enables seamless multitasking and gaming. There is a fast microSD card slot for extra capacity in addition to a 1TB NVMe SSD for storage. The Steam Deck OLED 1TB Handheld Gaming Console comes with extensive gamepad controls. The A, B, X, and Y buttons, the D-pad, the analog triggers and bumpers, the menu buttons, and the four grip buttons that can be allocated are some of these controllers. The Steam Deck OLED 1TB Handheld Gaming Console's 7.4-inch HDR OLED display features a resolution of 1280 x 800 and can achieve up to 1,000 nits for HDR and 600 nits for SDR. It also has a color gamut of 110% P3 and a contrast ratio of more than 1,000,000:1. With a response time of less than 0.1 ms and compatibility for refresh rates up to 90 Hz, it boasts a high-performance touch interface. Strong wireless performance is ensured by the Steam Deck OLED 1TB Handheld Gaming Console's two connectivity options: tri-band Wi-Fi 6E and Bluetooth 5.3 with a dedicated antenna.</p>\n<img alt=\"Valve Steam Deck OLED Handheld Gaming Console\" height=\"450\" src=\"https://www.startech.com.bd/image/catalog/gaming-console/steam-deck/steam-deck-oled-512gb/steam-deck-oled-4.webp\" width=\"920\"/>\n<h3> 7.4” HDR OLED Display</h3>\n<p>Larger, brighter, and designed specifically for gaming, the OLED screen on the Valve <strong>Steam Deck OLED 1TB</strong> Handheld Gaming Console includes all the features you love about the original model. Your games will appear completely different to you because of the amazing motion rendering, deep blacks, and richer colors. A larger fan and an improved thermal system allow the Steam Deck OLED to function at a lower temperature. It weighs 30g, or about 5% less, than the LCD model because of the screen. The touchscreen now has more fidelity and responsiveness. Haptics has higher consistency and fidelity. We have improved the Bluetooth antenna so that it can connect to more controllers.</p>\n<h3>Portability, Compact Powerhouse</h3>\n<p>The Steam Deck OLED, a unique APU intended for portable gaming was developed in collaboration with AMD. The newest AAA games can be played on this potent Zen 2 + RDNA 2 system with more than enough performance and extremely little battery consumption. When you connect to the Valve <strong>Steam Deck OLED 1TB</strong> Handheld Gaming Console, just like with any other PC, your entire Steam Library is visible. You will also be able to see each game's compatibility rating, which will give you an idea of the kind of gameplay you may expect. You can dynamically filter any view in your library depending on its compatibility grade if you're looking for a specific experience.</p>\n<img alt=\"Valve Steam Deck OLED Handheld Gaming Console\" height=\"450\" src=\"https://www.startech.com.bd/image/catalog/gaming-console/steam-deck/steam-deck-oled-512gb/steam-deck-oled-6.webp\" width=\"920\"/>\n<h3>Full-Sized Controls</h3>\n<p>The Valve <strong>Steam Deck OLED 1TB</strong> Handheld Gaming Console's full-size thumbsticks, buttons, and triggers are well-positioned for extended gameplay. Use your PC to play video games that weren't designed to be portable. In action-packed first-person shooter games, trackpads enhance customization and accuracy, giving you an advantage over other players. Steam Deck OLED Handheld Gaming Console IMU and inbuilt capacitive touch thumbsticks let you aim better. Placing the item physically yields more precision than using a touchpad or thumbstick alone. Four user-assignable buttons on the back of the Deck provide the next level of control right at your fingertips when you have your thumb firmly planted on the trackpad or stick.</p>\n<img alt=\"Valve Steam Deck OLED Handheld Gaming Console\" height=\"450\" src=\"https://www.startech.com.bd/image/catalog/gaming-console/steam-deck/steam-deck-oled-512gb/steam-deck-oled-7.webp\" width=\"920\"/>\n<h2>Buy Valve Steam Deck OLED 1TB Handheld Gaming Console from Deshi Plus</h2>\n<p>In Bangladesh, you can get original <strong>Valve Steam Deck OLED 1TB Handheld Gaming Console</strong> From Deshi Plus. We have a large collection of latest <a href=\"https://www.startech.com.bd/steam-deck-gaming-console\" target=\"\">Steam Deck Gaming Console </a>to purchase. Order Online Or Visit your Nearest <a href=\"https://www.startech.com.bd/\" target=\"\">Deshi Plus Shop</a> to get yours at lowest price. The Valve Steam Deck OLED 1TB Handheld Gaming Console comes with no warranty.</p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>Model: Steam Deck OLED 1TB</li><li>Display: 7.4” diagonal HDR 90Hz OLED Display</li><li>Proccessor: AMD Zen 2 4c/8t 2.4-3.5GHz (6nm)</li><li>RAM: 16GB LPDDR5, Storage: 1TB NVMe SSD</li><li>Features: 6-Axis IMU Gyro Sensor, Tri-band Wi-Fi 6E</li></ul>",
+      "model": "Steam Deck OLED 1TB",
+      "warranty": "No Warranty",
+      "basePrice": 149900.0,
+      "originalPrice": null,
+      "currency": "BDT",
+      "weight": 0.64,
+      "dimensions": {
+        "length": 298.0,
+        "width": 117.0,
+        "height": 49.0,
+        "unit": "mm"
+      },
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 173,
+      "brandName": "VALVE",
+      "variantOptions": [
+        {
+          "name": "Size",
+          "position": 0,
+          "values": [
+            {
+              "value": "7.4” diagonal",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "RAM",
+          "position": 1,
+          "values": [
+            {
+              "value": "16 GB LPDDR5 on-board RAM (6400 MT/s quad 32-bit channels)",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "Internal Storage",
+          "position": 2,
+          "values": [
+            {
+              "value": "1TB NVMe SSD",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "ST-35854",
+          "price": 149900.0,
+          "currency": "BDT",
+          "stock": 152,
+          "options": {
+            "Size": "7.4” diagonal",
+            "RAM": "16 GB LPDDR5 on-board RAM (6400 MT/s quad 32-bit channels)",
+            "Internal Storage": "1TB NVMe SSD"
+          },
+          "isDefault": true,
+          "active": false,
+          "lowStockThreshold": 10,
+          "costPrice": 143904.0,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Display",
+          "position": 0,
+          "items": [
+            {
+              "label": "Size",
+              "value": "7.4” diagonal",
+              "position": 0
+            },
+            {
+              "label": "Type",
+              "value": "HDR OLED",
+              "position": 1
+            },
+            {
+              "label": "Resolution",
+              "value": "1280 x 800 x RGB",
+              "position": 2
+            },
+            {
+              "label": "Refresh Rate",
+              "value": "up to 90Hz",
+              "position": 3
+            },
+            {
+              "label": "Brightness",
+              "value": "1,000 nits peak brightness (HDR) 600 nits (SDR)",
+              "position": 4
+            },
+            {
+              "label": "Features",
+              "value": "Contrast ratio: > 1,000,000 : 1 Color gamut: 110% P3 Response time: <0.1 ms High performance touch Gamepad controls: A B X Y buttons D-pad L & R analog triggers L & R bumpers View & Menu buttons 4 x assignable grip buttons Thumbsticks: 2 x full-size analog sticks with capacitive touch Haptics: HD haptics Trackpads: 2 x 32.5mm square trackpads with haptic feedback, Pressure-sensitivity for configurable click strength Gyro: 6-Axis IMU",
+              "position": 5
+            }
+          ]
+        },
+        {
+          "name": "Processor",
+          "position": 1,
+          "items": [
+            {
+              "label": "CPU Type",
+              "value": "6 nm AMD APU CPU: Zen 2 4c/8t, 2.4-3.5GHz (up to 448 GFlops FP32) GPU: 8 RDNA 2 CUs, 1.6GHz (1.6 TFlops FP32)",
+              "position": 0
+            },
+            {
+              "label": "GPU",
+              "value": "8 RDNA 2 CUs, 1.6GHz (1.6 TFlops FP32)",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Memory",
+          "position": 2,
+          "items": [
+            {
+              "label": "RAM",
+              "value": "16 GB LPDDR5 on-board RAM (6400 MT/s quad 32-bit channels)",
+              "position": 0
+            },
+            {
+              "label": "Internal Storage",
+              "value": "1TB NVMe SSD",
+              "position": 1
+            },
+            {
+              "label": "Card Slot",
+              "value": "UHS-I supports SD, SDXC and SDHC",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "name": "Audio",
+          "position": 3,
+          "items": [
+            {
+              "label": "Speaker",
+              "value": "Stereo with embedded DSP for an immersive listening experience",
+              "position": 0
+            },
+            {
+              "label": "Audio Features",
+              "value": "Dual microphone array Multichannel audio via DisplayPort over USB-C, standard USB-C, or Bluetooth 5.3",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Network & Connectivity",
+          "position": 4,
+          "items": [
+            {
+              "label": "Wi-Fi",
+              "value": "Tri-band Wi-Fi 6E radio, 2.4GHz, 5GHz, and 6GHz 2 x 2 MIMO, IEEE 802.11a/b/g/n/ac/ax",
+              "position": 0
+            },
+            {
+              "label": "Bluetooth",
+              "value": "Bluetooth 5.3 (support for controllers, accessories and audio) Dedicated bluetooth antenna",
+              "position": 1
+            },
+            {
+              "label": "USB",
+              "value": "Multichannel audio via DisplayPort over USB-C, standard USB-C",
+              "position": 2
+            },
+            {
+              "label": "Audio Jack",
+              "value": "3.5mm stereo headphone / headset jack",
+              "position": 3
+            }
+          ]
+        },
+        {
+          "name": "OS",
+          "position": 5,
+          "items": [
+            {
+              "label": "Operating System",
+              "value": "SteamOS 3 (Arch-based)",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "Features",
+          "position": 6,
+          "items": [
+            {
+              "label": "Sensors",
+              "value": "Dual ambient light sensor ALS",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "Battery",
+          "position": 7,
+          "items": [
+            {
+              "label": "Type",
+              "value": "50Whr battery. 3-12 hours of gameplay",
+              "position": 0
+            },
+            {
+              "label": "Fast Charging",
+              "value": "PD3.0 Type C power supply, 45W 2.5m cable",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Physical specification",
+          "position": 8,
+          "items": [
+            {
+              "label": "Dimension",
+              "value": "298mm x 117mm x 49mm",
+              "position": 0
+            },
+            {
+              "label": "Weight",
+              "value": "Approx. 640 grams",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Warranty Information",
+          "position": 9,
+          "items": [
+            {
+              "label": "Warranty",
+              "value": "No Warranty",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://www.startech.com.bd/valve-steam-deck-oled-1tb-gaming-console",
+      "sourceProductCode": "35854",
+      "sourceStatus": "Call for Price",
+      "sourceMpn": null,
+      "sourceKeyFeatures": [
+        "Model: Steam Deck OLED 1TB",
+        "Display: 7.4” diagonal HDR 90Hz OLED Display",
+        "Proccessor: AMD Zen 2 4c/8t 2.4-3.5GHz (6nm)",
+        "RAM: 16GB LPDDR5, Storage: 1TB NVMe SSD",
+        "Features: 6-Axis IMU Gyro Sensor, Tri-band Wi-Fi 6E"
+      ],
+      "needsReview": false,
+      "categorySlug": "gaming-console-steam-deck",
+      "image": "/Product_Images/Gaming/GamingConsole/Valve/Valve%20Steam%20Deck%20OLED%201TB%20Handheld%20Gaming%20Console.png",
+      "gallery": [
+        "/Product_Images/Gaming/GamingConsole/Valve/Valve%20Steam%20Deck%20OLED%201TB%20Handheld%20Gaming%20Console%201.png",
+        "/Product_Images/Gaming/GamingConsole/Valve/Valve%20Steam%20Deck%20OLED%201TB%20Handheld%20Gaming%20Console%202.png",
+        "/Product_Images/Gaming/GamingConsole/Valve/Valve%20Steam%20Deck%20OLED%201TB%20Handheld%20Gaming%20Console%203.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Gaming/GamingConsole/Valve/Valve%20Steam%20Deck%20OLED%201TB%20Handheld%20Gaming%20Console.png",
+        "/Product_Images/Gaming/GamingConsole/Valve/Valve%20Steam%20Deck%20OLED%201TB%20Handheld%20Gaming%20Console%201.png",
+        "/Product_Images/Gaming/GamingConsole/Valve/Valve%20Steam%20Deck%20OLED%201TB%20Handheld%20Gaming%20Console%202.png",
+        "/Product_Images/Gaming/GamingConsole/Valve/Valve%20Steam%20Deck%20OLED%201TB%20Handheld%20Gaming%20Console%203.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "valve-steam-deck-oled-1tb-gaming-console",
+        "candidateTitle": "Valve Steam Deck OLED 1TB Handheld Gaming Console",
+        "attemptStem": "valve-steam-deck-oled-1tb-gaming-console"
+      },
+      "localImageFile": "public/Product_Images/Gaming/GamingConsole/Valve/Valve Steam Deck OLED 1TB Handheld Gaming Console.png"
+    },
+    {
+      "name": "X6 Retro Handheld Gaming Console",
+      "slug": "x6-retro-gaming-console",
+      "type": "PHYSICAL",
+      "sku": "ST-48443",
+      "description": "<h2>X6 Retro Handheld Gaming Console</h2><p>The <strong>X6 Retro</strong> Handheld Gaming Console is a versatile and portable Handheld Gaming Console designed for gamers who love classic titles with modern convenience. Featuring a 3.5-inch OCA fully laminated color display with a crisp 640×480 resolution, it delivers sharp visuals and vibrant colors for an immersive retro experience. The X6 Gaming Console is powered by a 32-bit RISC quad-core ATJ2273S processor, ensuring smooth performance across multiple preloaded emulators that support thousands of classic games. Its ergonomic dual 3D rockers with back L/R buttons provide precise control, while 32GB of built-in storage (expandable up to 64GB) ensures plenty of space for games and media. Beyond gaming, this X6 Handheld Gaming Console supports multimedia playback for videos, music, and images, making it a multifunctional entertainment device. A 2000mAh battery offers up to 6 hours of playtime, and with TV output and external controller ports, multiplayer sessions are easy and enjoyable. Compact, powerful, and nostalgic, the X6 Retro Handheld Gaming Console blends portability, classic gaming, and modern features into one stylish device.</p><h2>Buy X6 Retro Handheld Gaming Console from Deshi Plus</h2><p>In Bangladesh, you can get original <strong>X6 Retro Handheld Gaming Console</strong> From Deshi Plus. We have a large collection of latest <a href=\"https://www.startech.com.bd/gaming-console\">Gaming Console</a> to purchase. Order Online Or Visit your Nearest <a href=\"https://www.startech.com.bd\">Deshi Plus Shop</a> to get yours at lowest price.The Nintendo Switch Lite has no warranty.</p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>Model: X6 Retro</li><li>3.5-inch vibrant OCA laminated display (640 x 480)</li><li>Quad-core 32-bit ATJ2273S processor</li><li>Battery: 2000mAh; Storage : 32GB (Expandable Up to 64GB)</li><li>Supported Emulators: 11 types (MD, MAME, CPS, SMD &amp; more)</li></ul>",
+      "model": "X6 Retro",
+      "warranty": "No warranty",
+      "basePrice": 3600.0,
+      "originalPrice": 3960.0,
+      "currency": "BDT",
+      "weight": null,
+      "dimensions": null,
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 10,
+      "brandName": "Others",
+      "variantOptions": [
+        {
+          "name": "Color",
+          "position": 0,
+          "values": [
+            {
+              "value": "Black, White, Green, Purple",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "ST-48443",
+          "price": 3600.0,
+          "currency": "BDT",
+          "stock": 10,
+          "options": {
+            "Color": "Black, White, Green, Purple"
+          },
+          "isDefault": true,
+          "active": true,
+          "lowStockThreshold": 10,
+          "costPrice": 3456.0,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Basic Information",
+          "position": 0,
+          "items": [
+            {
+              "label": "Connectivity",
+              "value": "Controller port, TV output port",
+              "position": 0
+            },
+            {
+              "label": "Others",
+              "value": "Supported Emulators: 11 types (MD, MAME, CPS, SMD & more) Screen: 3.5-inch OCA Full Lamination Color Display Resolution: 640 x 480 Processor: 4-core ATJ2273S 32-bit RISC Battery: 2000mAh Polymer Lithium Ion (Built-in) Battery Life: Up to 6 hours Charging Time: 1 hour for 4 hours of use Internal Storage: 32GB (Memory Card Included) Expandable Storage: Supports up to 64GB",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Physical Description",
+          "position": 1,
+          "items": [
+            {
+              "label": "Color",
+              "value": "Black, White, Green, Purple",
+              "position": 0
+            },
+            {
+              "label": "Materials",
+              "value": "Durable ABS plastic",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Manufacturing Warranty",
+          "position": 2,
+          "items": [
+            {
+              "label": "Warranty",
+              "value": "No warranty",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://www.startech.com.bd/x6-retro-gaming-console",
+      "sourceProductCode": "48443",
+      "sourceStatus": "In Stock",
+      "sourceMpn": null,
+      "sourceKeyFeatures": [
+        "Model: X6 Retro",
+        "3.5-inch vibrant OCA laminated display (640 x 480)",
+        "Quad-core 32-bit ATJ2273S processor",
+        "Battery: 2000mAh; Storage : 32GB (Expandable Up to 64GB)",
+        "Supported Emulators: 11 types (MD, MAME, CPS, SMD & more)"
+      ],
+      "needsReview": false,
+      "categorySlug": "gaming-console-steam-deck",
+      "image": "/Product_Images/Gaming/GamingConsole/X6/X6%20Retro%20Handheld%20Gaming%20Console.png",
+      "gallery": [
+        "/Product_Images/Gaming/GamingConsole/X6/X6%20Retro%20Handheld%20Gaming%20Console%201.png",
+        "/Product_Images/Gaming/GamingConsole/X6/X6%20Retro%20Handheld%20Gaming%20Console%202.png",
+        "/Product_Images/Gaming/GamingConsole/X6/X6%20Retro%20Handheld%20Gaming%20Console%203.png",
+        "/Product_Images/Gaming/GamingConsole/X6/X6%20Retro%20Handheld%20Gaming%20Console%204.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Gaming/GamingConsole/X6/X6%20Retro%20Handheld%20Gaming%20Console.png",
+        "/Product_Images/Gaming/GamingConsole/X6/X6%20Retro%20Handheld%20Gaming%20Console%201.png",
+        "/Product_Images/Gaming/GamingConsole/X6/X6%20Retro%20Handheld%20Gaming%20Console%202.png",
+        "/Product_Images/Gaming/GamingConsole/X6/X6%20Retro%20Handheld%20Gaming%20Console%203.png",
+        "/Product_Images/Gaming/GamingConsole/X6/X6%20Retro%20Handheld%20Gaming%20Console%204.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "x6-retro-gaming-console",
+        "candidateTitle": "X6 Retro Handheld Gaming Console",
+        "attemptStem": "x6-retro-gaming-console"
+      },
+      "localImageFile": "public/Product_Images/Gaming/GamingConsole/X6/X6 Retro Handheld Gaming Console.png"
+    }
+  ]
+}

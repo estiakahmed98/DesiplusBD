@@ -1,0 +1,2281 @@
+{
+  "schemaVersion": 3,
+  "source": {
+    "site": "https://deshiplus.com",
+    "categoryUrl": "https://deshiplus.com/gaming",
+    "imageRoot": "C:\\EveryThing\\Office Projects\\Desi Plus BD\\public\\Product_Images",
+    "generatedAtUnix": 1790588490,
+    "generator": "prisma/startech_single_category_json_and_seed.py"
+  },
+  "defaults": {
+    "stock": 10,
+    "costRatio": 0.96,
+    "currency": "BDT",
+    "productType": "PHYSICAL",
+    "inventoryItemClass": "CONSUMABLE"
+  },
+  "categories": [
+    {
+      "name": "Gaming",
+      "slug": "gaming",
+      "parentSlug": null,
+      "image": "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-108%20USB%20RGB%20Gaming%20Speaker.png",
+      "isActive": true,
+      "sortOrder": 0,
+      "showInHeader": true,
+      "showInFooter": false,
+      "featured": false
+    }
+  ],
+  "brands": [
+    {
+      "name": "AULA",
+      "slug": "aula",
+      "logo": null
+    },
+    {
+      "name": "Fantech",
+      "slug": "fantech",
+      "logo": null
+    },
+    {
+      "name": "Havit",
+      "slug": "havit",
+      "logo": null
+    },
+    {
+      "name": "JBL",
+      "slug": "jbl",
+      "logo": null
+    },
+    {
+      "name": "Lexar",
+      "slug": "lexar",
+      "logo": null
+    }
+  ],
+  "products": [
+    {
+      "name": "AULA N-108 USB RGB Gaming Speaker",
+      "slug": "aula-n-108-usb-rgb-gaming-speaker",
+      "type": "PHYSICAL",
+      "sku": "ST-29770",
+      "description": "<h2>AULA N-108 USB RGB Gaming Speaker</h2><p style=\"text-align: justify; \">The AULA N-108 USB RGB Gaming Speaker is a compact and stylish audio device designed specifically for gamers. It features eye-catching atmosphere lighting that adds a vibrant and immersive visual element to your gaming setup. The small size of the speaker makes it ideal for those with limited desk space or for portable gaming setups. With independent volume adjustment, you have complete control over the audio output, allowing you to customize the sound to your preference. The speaker is equipped with a drive unit of 2 inches by 2 inches, delivering clear and powerful sound quality. Each speaker has a power output of 3W, providing a rich audio experience for your gaming sessions. The speaker comes with a convenient 1.2-meter cable that includes volume control, allowing you to easily adjust the sound without having to reach for your computer or gaming device. The plug-and-play feature ensures a hassle-free setup, requiring no additional drivers or software installation. The AULA N-108 USB RGB Gaming Speaker is a sleek and space-saving design. With dimensions of 67mm by 80mm by 98mm, it takes up minimal space on your desk while still delivering impressive sound performance. The lightweight construction further enhances its portability, making it easy to carry and set up wherever you go. The AULA N-108 USB RGB Gaming Speaker is universally compatible with various devices, including PCs, laptops, gaming consoles, and more. Whether you're a casual gamer or a hardcore enthusiast, this speaker is designed to enhance your gaming experience with its compact size, customizable lighting, and powerful sound output.</p><h2><span style=\"text-align: justify;\">Buy AULA N-108 USB RGB Gaming Speaker from the best Speaker Shop in Bangladesh</span><br/></h2><p>In Bangladesh, you can get the original <a href=\"https://deshiplus.com/aula-n-108-usb-rgb-gaming-speaker\" target=\"\">AULA N-108 USB RGB Gaming Speaker</a> from Deshi Plus. We have a large collection of the latest <a href=\"https://deshiplus.com/aula-speaker\" target=\"\">AULA speakers</a> to purchase for your <a href=\"https://deshiplus.com/desktops\" target=\"\">Desktop</a>, <a href=\"https://deshiplus.com/laptop-notebook\" target=\"\">Laptop</a>. Order online or visit your nearest <a href=\"https://deshiplus.com/\" target=\"\">Deshi Plus shop</a> to get yours at the lowest price. The AULA N-108 USB RGB Gaming Speaker comes with 1 years warranty.</p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>Model: N-108</li><li>USB 2.0 &amp; 3.5mm</li><li>Drive Unit: 2inch X 2</li><li>1.2m with cable volume control -</li><li>Plug &amp; Play, Universal compatibility gaming</li></ul>",
+      "model": "N-108",
+      "warranty": "01 year warranty",
+      "basePrice": 650.0,
+      "originalPrice": null,
+      "currency": "BDT",
+      "weight": null,
+      "dimensions": {
+        "length": 67.0,
+        "width": 80.0,
+        "height": 98.0,
+        "unit": "mm"
+      },
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 135,
+      "brandName": "AULA",
+      "variantOptions": [],
+      "variants": [
+        {
+          "sku": "ST-29770",
+          "price": 650.0,
+          "currency": "BDT",
+          "stock": 197,
+          "options": {},
+          "isDefault": true,
+          "active": false,
+          "lowStockThreshold": 10,
+          "costPrice": 624.0,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Main Features",
+          "position": 0,
+          "items": [
+            {
+              "label": "Input Sensitivity",
+              "value": "650mv",
+              "position": 0
+            },
+            {
+              "label": "Frequency response",
+              "value": "20 hz to 20khz",
+              "position": 1
+            },
+            {
+              "label": "Jack",
+              "value": "USB powered + 3.5mm plug",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "name": "Physical Spec",
+          "position": 1,
+          "items": [
+            {
+              "label": "Dimension",
+              "value": "67x80x98mm",
+              "position": 0
+            },
+            {
+              "label": "Wired",
+              "value": "USB powered + 3.5mm plug",
+              "position": 1
+            },
+            {
+              "label": "USB",
+              "value": "Yes",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "name": "Warranty",
+          "position": 2,
+          "items": [
+            {
+              "label": "Manufacturing Warranty",
+              "value": "01 year warranty",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://deshiplus.com/aula-n-108-usb-rgb-gaming-speaker",
+      "sourceProductCode": "29770",
+      "sourceStatus": "Out Of Stock",
+      "sourceMpn": null,
+      "sourceKeyFeatures": [
+        "Model: N-108",
+        "USB 2.0 & 3.5mm",
+        "Drive Unit: 2inch X 2",
+        "1.2m with cable volume control -",
+        "Plug & Play, Universal compatibility gaming"
+      ],
+      "needsReview": false,
+      "categorySlug": "gaming",
+      "image": "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-108%20USB%20RGB%20Gaming%20Speaker.png",
+      "gallery": [
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-108%20USB%20RGB%20Gaming%20Speaker%201.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-108%20USB%20RGB%20Gaming%20Speaker%202.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-108%20USB%20RGB%20Gaming%20Speaker%203.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-108%20USB%20RGB%20Gaming%20Speaker%204.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-108%20USB%20RGB%20Gaming%20Speaker.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-108%20USB%20RGB%20Gaming%20Speaker%201.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-108%20USB%20RGB%20Gaming%20Speaker%202.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-108%20USB%20RGB%20Gaming%20Speaker%203.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-108%20USB%20RGB%20Gaming%20Speaker%204.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "aula-n-108-usb-rgb-gaming-speaker",
+        "candidateTitle": "AULA N-108 USB RGB Gaming Speaker",
+        "attemptStem": "aula-n-108-usb-rgb-gaming-speaker"
+      },
+      "localImageFile": "public/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA N-108 USB RGB Gaming Speaker.png"
+    },
+    {
+      "name": "AULA N-189 2:1 USB Gaming Speaker",
+      "slug": "aula-n-189-gaming-speaker",
+      "type": "PHYSICAL",
+      "sku": "ST-31954",
+      "description": "<h2>AULA N-189 2:1 USB Gaming Speaker</h2><p>The AULA <span style=\"font-weight: bold;\">N-189</span> Gaming Speaker is a high-performance audio solution developed for gamers who want immersive sound and visual effects. This 2:1-channel speaker system produces 2x 3W of output power, resulting in a dynamic and rich gaming experience. The speakers include a one-of-a-kind LED lighting effect that adds a vivid mood to your gaming setup. The speakers, which have 1x 3-inch and 2x 2-inch drivers, deliver full-range sound with powerful bass, making them ideal for in-game music, cinematic experiences, and team communication. These speakers are simple to set up and compatible with a wide range of devices thanks to their wired connectivity mode and 1x USB-A connection. The speaker's measurements of 174x95x77mm allow it to fit perfectly into your gaming setup without taking up too much space. Despite their small size, the speakers produce excellent sound quality, making them an excellent alternative for gamers looking for superior audio performance. The AULA N-189 Gaming Speaker features full-range speakers with strong bass, amazing LED illumination effects, and seamless connectivity.</p><h2>Buy AULA N-189 2:1 USB Gaming Speaker from Deshi Plus</h2><p>In Bangladesh, you can get original <span style=\"font-weight: bold;\">AULA N-189 2:1 USB Gaming Speaker</span> From Deshi Plus. We have a large collection of latest <a href=\"https://deshiplus.com/aula-speaker\" target=\"\">AULA Speaker</a> to purchase. Order Online Or Visit your Nearest <a href=\"https://deshiplus.com/\" target=\"\">Deshi Plus</a> Shop to get yours at lowest price. The AULA N-189 2:1 USB Gaming Speaker comes with 1 year warranty.</p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>Model: N-189</li><li>Channel: 2:1</li><li>Output Power: 2x 3W</li><li>Lighting Effect: LED</li><li>Driver Size: 1x 3 Inch, 2x 2 Inch</li></ul>",
+      "model": "N-189",
+      "warranty": "01 year warranty",
+      "basePrice": 1499.0,
+      "originalPrice": null,
+      "currency": "BDT",
+      "weight": null,
+      "dimensions": {
+        "length": 174.0,
+        "width": 95.0,
+        "height": 77.0,
+        "unit": "mm"
+      },
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 193,
+      "brandName": "AULA",
+      "variantOptions": [],
+      "variants": [
+        {
+          "sku": "ST-31954",
+          "price": 1499.0,
+          "currency": "BDT",
+          "stock": 167,
+          "options": {},
+          "isDefault": true,
+          "active": false,
+          "lowStockThreshold": 10,
+          "costPrice": 1439.04,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Main Features",
+          "position": 0,
+          "items": [
+            {
+              "label": "Output Power",
+              "value": "2x 3W",
+              "position": 0
+            },
+            {
+              "label": "Frequency response",
+              "value": "20 hz to 20khz",
+              "position": 1
+            },
+            {
+              "label": "Drivers",
+              "value": "1x 3 Inch, 2x 2 Inch",
+              "position": 2
+            },
+            {
+              "label": "Jack",
+              "value": "USB powered + 3.5mm plug",
+              "position": 3
+            }
+          ]
+        },
+        {
+          "name": "Physical Spec",
+          "position": 1,
+          "items": [
+            {
+              "label": "Dimension",
+              "value": "174x 95 x 77mm",
+              "position": 0
+            },
+            {
+              "label": "Wired",
+              "value": "USB powered + 3.5mm plug",
+              "position": 1
+            },
+            {
+              "label": "USB",
+              "value": "Yes",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "name": "Warranty",
+          "position": 2,
+          "items": [
+            {
+              "label": "Manufacturing Warranty",
+              "value": "01 year warranty",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://deshiplus.com/aula-n-189-gaming-speaker",
+      "sourceProductCode": "31954",
+      "sourceStatus": "Out Of Stock",
+      "sourceMpn": null,
+      "sourceKeyFeatures": [
+        "Model: N-189",
+        "Channel: 2:1",
+        "Output Power: 2x 3W",
+        "Lighting Effect: LED",
+        "Driver Size: 1x 3 Inch, 2x 2 Inch"
+      ],
+      "needsReview": false,
+      "categorySlug": "gaming",
+      "image": "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-189%202-1%20USB%20Gaming%20Speaker.png",
+      "gallery": [
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-189%202-1%20USB%20Gaming%20Speaker%201.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-189%202-1%20USB%20Gaming%20Speaker%202.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-189%202-1%20USB%20Gaming%20Speaker%203.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-189%202-1%20USB%20Gaming%20Speaker%204.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-189%202-1%20USB%20Gaming%20Speaker.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-189%202-1%20USB%20Gaming%20Speaker%201.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-189%202-1%20USB%20Gaming%20Speaker%202.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-189%202-1%20USB%20Gaming%20Speaker%203.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-189%202-1%20USB%20Gaming%20Speaker%204.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "aula-n-189-gaming-speaker",
+        "candidateTitle": "AULA N-189 2:1 USB Gaming Speaker",
+        "attemptStem": "aula-n-189-gaming-speaker"
+      },
+      "localImageFile": "public/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA N-189 2-1 USB Gaming Speaker.png"
+    },
+    {
+      "name": "AULA N-600 USB RGB Gaming Speaker",
+      "slug": "aula-n-600-rgb-speaker",
+      "type": "PHYSICAL",
+      "sku": "ST-49499",
+      "description": "<h2>AULA N-600 USB RGB Gaming Speaker</h2><p>The <strong>AULA N-600 USB RGB Gaming Speaker</strong> is a compact powerhouse designed for gamers, music lovers, and movie enthusiasts seeking immersive sound. Equipped with dual 2.5-inch drivers, the AULA N-600 delivers crisp stereo audio with enhanced bass that enriches every listening experience. Its sleek mesh grille design integrates 8 dynamic backlight modes, easily controlled with a button, adding a vibrant atmosphere to any setup. Lightweight and portable, the AULA N-600 fits perfectly in small spaces such as offices, study rooms, or gaming corners, offering convenience without sacrificing performance. With simple plug-and-play functionality, it connects via USB for power and a 3.5mm audio jack for sound, ensuring smooth compatibility across devices. The integrated volume knob allows quick adjustments, giving users effortless control during intense gaming sessions or casual listening. Crafted from durable plastic and ABS material, the AULA N-600 combines strength with style, while its black finish complements modern setups. Delivering 6W output power, this wired stationary speaker supports 2.0 sound format and tone adjustment, making it a reliable choice for consistent audio quality. At just 640 grams, it is easy to move and position, offering flexibility for different environments. The AULA N-600 stands out as a practical solution for those who want clear sound, striking lighting, and user-friendly design in one package. Whether for gaming marathons, music streaming, or movie nights, this speaker enhances entertainment with balanced performance and appealing aesthetics, making the AULA N-600 a smart addition to any desktop setup.</p><h2><span style=\"text-align: justify;\">Buy AULA N-600 USB RGB Gaming Speaker from Deshi Plus</span><br/></h2><p>In Bangladesh, you can get the original AULA N-600 USB RGB Gaming Speaker from Deshi Plus. We have a large collection of the latest <a href=\"https://deshiplus.com/aula-speaker\" target=\"\">AULA speakers</a> to purchase for your <a href=\"https://deshiplus.com/desktops\" target=\"\">Desktop</a>, <a href=\"https://deshiplus.com/laptop-notebook\" target=\"\">Laptop</a>. Order online or visit your nearest <a href=\"https://deshiplus.com/\" target=\"\">Deshi Plus shop</a> to get yours at the lowest price. The AULA N-600 USB RGB Gaming Speaker comes with 1 years warranty.</p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>Model: N-600</li><li>USB 2.0 &amp; 3.5mm</li><li>Drive Unit: 6W (2 x 3W)</li><li>1.2m with cable volume control</li><li>Plug &amp; Play, Universal compatibility gaming</li></ul>",
+      "model": "N-600",
+      "warranty": "01 year warranty",
+      "basePrice": 1450.0,
+      "originalPrice": 1560.0,
+      "currency": "BDT",
+      "weight": null,
+      "dimensions": null,
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 10,
+      "brandName": "AULA",
+      "variantOptions": [],
+      "variants": [
+        {
+          "sku": "ST-49499",
+          "price": 1450.0,
+          "currency": "BDT",
+          "stock": 10,
+          "options": {},
+          "isDefault": true,
+          "active": true,
+          "lowStockThreshold": 10,
+          "costPrice": 1392.0,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Main Features",
+          "position": 0,
+          "items": [
+            {
+              "label": "Output Power",
+              "value": "6W",
+              "position": 0
+            },
+            {
+              "label": "Frequency response",
+              "value": "20 hz to 20khz",
+              "position": 1
+            },
+            {
+              "label": "Jack",
+              "value": "USB powered + 3.5mm plug",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "name": "Physical Spec",
+          "position": 1,
+          "items": [
+            {
+              "label": "Wired",
+              "value": "USB powered + 3.5mm plug",
+              "position": 0
+            },
+            {
+              "label": "USB",
+              "value": "Yes",
+              "position": 1
+            },
+            {
+              "label": "Input Connetor",
+              "value": "3.5 mm + USB",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "name": "Power Source",
+          "position": 2,
+          "items": [
+            {
+              "label": "Power",
+              "value": "5V DC",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "Warranty",
+          "position": 3,
+          "items": [
+            {
+              "label": "Manufacturing Warranty",
+              "value": "01 year warranty",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://deshiplus.com/aula-n-600-rgb-speaker",
+      "sourceProductCode": "49499",
+      "sourceStatus": "In Stock",
+      "sourceMpn": null,
+      "sourceKeyFeatures": [
+        "Model: N-600",
+        "USB 2.0 & 3.5mm",
+        "Drive Unit: 6W (2 x 3W)",
+        "1.2m with cable volume control",
+        "Plug & Play, Universal compatibility gaming"
+      ],
+      "needsReview": false,
+      "categorySlug": "gaming",
+      "image": "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-600%20USB%20RGB%20Gaming%20Speaker.png",
+      "gallery": [
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-600%20USB%20RGB%20Gaming%20Speaker%201.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-600%20USB%20RGB%20Gaming%20Speaker%202.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-600%20USB%20RGB%20Gaming%20Speaker%203.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-600%20USB%20RGB%20Gaming%20Speaker%204.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-600%20USB%20RGB%20Gaming%20Speaker.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-600%20USB%20RGB%20Gaming%20Speaker%201.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-600%20USB%20RGB%20Gaming%20Speaker%202.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-600%20USB%20RGB%20Gaming%20Speaker%203.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-600%20USB%20RGB%20Gaming%20Speaker%204.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "aula-n-600-rgb-speaker",
+        "candidateTitle": "AULA N-600 USB RGB Gaming Speaker",
+        "attemptStem": "aula-n-600-rgb-speaker"
+      },
+      "localImageFile": "public/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA N-600 USB RGB Gaming Speaker.png"
+    },
+    {
+      "name": "AULA N-69 USB RGB Gaming Speaker",
+      "slug": "aula-n-69-usb-rgb-gaming-speaker",
+      "type": "PHYSICAL",
+      "sku": "ST-29767",
+      "description": "<h2>AULA N-69 USB RGB Gaming Speaker</h2><p style=\"text-align: justify; \">The AULA N-69 USB RGB Gaming Speaker is a powerful and compact audio device designed specifically for gaming enthusiasts. Equipped with dual 2-inch drive units, this speaker delivers immersive sound quality, making your gaming experience more engaging and realistic. The AULA N-69 is its USB-powered functionality, which allows you to conveniently connect it to your gaming device without the need for additional power sources. Additionally, it supports a 3.5mm audio connection, giving you the flexibility to connect it to a wide range of devices, including laptops, desktop computers, gaming consoles, and mobile devices. With its 3W*2 speaker configuration, the AULA N-69 delivers a total power output of 6 watts, ensuring rich and clear audio reproduction. The speaker comes with a 1.3-meter cable that includes a volume control feature, allowing you to easily adjust the audio output without the need to access your device's settings. The AULA N-69 is designed to be sleek and space-saving, making it a perfect fit for any gaming setup. Its compact size, measuring 8591118mm, ensures it won't take up much desk space, while its lightweight construction makes it highly portable, enabling you to carry it with you for gaming sessions on the go. Setting up the AULA N-69 is a breeze, thanks to its plug-and-play functionality. Simply connect it to your device via USB or the 3.5mm audio jack, and you're ready to enjoy your favorite games with enhanced audio quality. Moreover, the speaker offers universal compatibility, meaning it can work with various gaming platforms and devices, including PCs, Macs, PlayStation, Xbox, and more.</p><h3 style=\"text-align: justify; \">Buy AULA N-69 USB RGB Gaming Speaker from the best Speaker Shop in Bangladesh: Deshi Plus</h3><p>In Bangladesh, you can get the original <a href=\"https://deshiplus.com/f-and-d-pa100-bluetooth-party-speaker\" target=\"\">AULA N-69 USB RGB Gaming Speaker</a> from Deshi Plus. We have a large collection of the latest <a href=\"https://deshiplus.com/aula-speaker\" target=\"\">AULA speakers</a> to purchase for your <a href=\"https://deshiplus.com/desktops\" target=\"\">Desktop</a>, <a href=\"https://deshiplus.com/laptop-notebook\" target=\"\">Laptop</a>. Order online or visit your nearest <a href=\"https://deshiplus.com/\" target=\"\">Deshi Plus shop</a> to get yours at the lowest price. The AULA N-69 USB RGB Gaming Speaker comes with 1 years warranty.</p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>Model: N-69</li><li>USB-Powered (5V) &amp; 3.5mm Audio</li><li>Drive Unit: 2inch X 2</li><li>1.3m with cable volume control</li><li>Plug &amp; Play, Universal compatibility gaming</li></ul>",
+      "model": "N-69",
+      "warranty": "01 year warranty",
+      "basePrice": 1000.0,
+      "originalPrice": null,
+      "currency": "BDT",
+      "weight": 0.4,
+      "dimensions": {
+        "length": 85.0,
+        "width": 91.0,
+        "height": 118.0,
+        "unit": "mm"
+      },
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 168,
+      "brandName": "AULA",
+      "variantOptions": [],
+      "variants": [
+        {
+          "sku": "ST-29767",
+          "price": 1000.0,
+          "currency": "BDT",
+          "stock": 141,
+          "options": {},
+          "isDefault": true,
+          "active": false,
+          "lowStockThreshold": 10,
+          "costPrice": 960.0,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Main Features",
+          "position": 0,
+          "items": [
+            {
+              "label": "Input Sensitivity",
+              "value": "650mv",
+              "position": 0
+            },
+            {
+              "label": "Frequency response",
+              "value": "20 hz to 20khz",
+              "position": 1
+            },
+            {
+              "label": "Jack",
+              "value": "USB powered + 3.5mm plug",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "name": "Physical Spec",
+          "position": 1,
+          "items": [
+            {
+              "label": "Dimension",
+              "value": "85 x 91 x 118mm",
+              "position": 0
+            },
+            {
+              "label": "Weight",
+              "value": "0.4kg",
+              "position": 1
+            },
+            {
+              "label": "Wired",
+              "value": "USB powered + 3.5mm plug",
+              "position": 2
+            },
+            {
+              "label": "USB",
+              "value": "Yes",
+              "position": 3
+            }
+          ]
+        },
+        {
+          "name": "Warranty",
+          "position": 2,
+          "items": [
+            {
+              "label": "Manufacturing Warranty",
+              "value": "01 year warranty",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://deshiplus.com/aula-n-69-usb-rgb-gaming-speaker",
+      "sourceProductCode": "29767",
+      "sourceStatus": "Out Of Stock",
+      "sourceMpn": null,
+      "sourceKeyFeatures": [
+        "Model: N-69",
+        "USB-Powered (5V) & 3.5mm Audio",
+        "Drive Unit: 2inch X 2",
+        "1.3m with cable volume control",
+        "Plug & Play, Universal compatibility gaming"
+      ],
+      "needsReview": false,
+      "categorySlug": "gaming",
+      "image": "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-69%20USB%20RGB%20Gaming%20Speaker.png",
+      "gallery": [
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-69%20USB%20RGB%20Gaming%20Speaker%201.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-69%20USB%20RGB%20Gaming%20Speaker%202.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-69%20USB%20RGB%20Gaming%20Speaker%203.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-69%20USB%20RGB%20Gaming%20Speaker%204.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-69%20USB%20RGB%20Gaming%20Speaker.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-69%20USB%20RGB%20Gaming%20Speaker%201.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-69%20USB%20RGB%20Gaming%20Speaker%202.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-69%20USB%20RGB%20Gaming%20Speaker%203.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA%20N-69%20USB%20RGB%20Gaming%20Speaker%204.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "aula-n-69-usb-rgb-gaming-speaker",
+        "candidateTitle": "AULA N-69 USB RGB Gaming Speaker",
+        "attemptStem": "aula-n-69-usb-rgb-gaming-speaker"
+      },
+      "localImageFile": "public/Product_Images/Accessories/SpeakerHomeTheater/AULA/AULA N-69 USB RGB Gaming Speaker.png"
+    },
+    {
+      "name": "Fantech GS204 Rumble RGB Dual Mode Gaming Speaker",
+      "slug": "fantech-gs204-rumble-rgb-gaming-speaker",
+      "type": "PHYSICAL",
+      "sku": "ST-15510",
+      "description": "<h2 style=\"\">Fantech GS204 Rumble RGB Dual Mode Gaming Speaker</h2>\n<p style=\"\">Fantech GS204 Rumble RGB Gaming Speaker comes with Dual Connection, which includes Bluetooth and 3.5mm Audio and 2.0 USB Wired RGB Gaming Speaker. This speaker features RGB 7 Modes, 82dB Speaker Sensitivity, Stereo Channels, 50mm Driver, and 3W x 2 Output Power. In AUX mode, press the button 2x to mute the sound, long-press to switch ON and OFF the speaker. This latest Fantech GS204 Rumble RGB Dual Mode Gaming Speaker has 01 1-year warranty.</p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>Model: GS204 Rumble</li><li>Dual Connection. Bluetooth and 3.5mm Audio</li><li>Aux mode and Bluetooth Mode</li><li>Up to 7 Spectrum RGB Mode</li><li>Smart RGB Switch Touchpad</li></ul>",
+      "model": "GS204 Rumble",
+      "warranty": "01 year warranty",
+      "basePrice": 2450.0,
+      "originalPrice": null,
+      "currency": "BDT",
+      "weight": null,
+      "dimensions": {
+        "length": 81.0,
+        "width": 90.0,
+        "height": 180.0,
+        "unit": "mm"
+      },
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 200,
+      "brandName": "Fantech",
+      "variantOptions": [],
+      "variants": [
+        {
+          "sku": "ST-15510",
+          "price": 2450.0,
+          "currency": "BDT",
+          "stock": 138,
+          "options": {},
+          "isDefault": true,
+          "active": false,
+          "lowStockThreshold": 10,
+          "costPrice": 2352.0,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Main Features",
+          "position": 0,
+          "items": [
+            {
+              "label": "Input Sensitivity",
+              "value": "82dB",
+              "position": 0
+            },
+            {
+              "label": "Jack",
+              "value": "3.5mm+USB",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Physical Spec",
+          "position": 1,
+          "items": [
+            {
+              "label": "Dimension",
+              "value": "81mm x 90mm x 180mm",
+              "position": 0
+            },
+            {
+              "label": "Wired",
+              "value": "Yes",
+              "position": 1
+            },
+            {
+              "label": "Bluetooth",
+              "value": "Yes",
+              "position": 2
+            },
+            {
+              "label": "USB",
+              "value": "Yes",
+              "position": 3
+            }
+          ]
+        },
+        {
+          "name": "Power Source",
+          "position": 2,
+          "items": [
+            {
+              "label": "Power",
+              "value": "3W x 2",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "Warranty",
+          "position": 3,
+          "items": [
+            {
+              "label": "Manufacturing Warranty",
+              "value": "01 year warranty",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://deshiplus.com/fantech-gs204-rumble-rgb-gaming-speaker",
+      "sourceProductCode": "15510",
+      "sourceStatus": "Out Of Stock",
+      "sourceMpn": null,
+      "sourceKeyFeatures": [
+        "Model: GS204 Rumble",
+        "Dual Connection. Bluetooth and 3.5mm Audio",
+        "Aux mode and Bluetooth Mode",
+        "Up to 7 Spectrum RGB Mode",
+        "Smart RGB Switch Touchpad"
+      ],
+      "needsReview": false,
+      "categorySlug": "gaming",
+      "image": "/Product_Images/Accessories/SpeakerHomeTheater/FANTECH/Fantech%20GS204%20Rumble%20RGB%20Dual%20Mode%20Gaming%20Speaker.png",
+      "gallery": [
+        "/Product_Images/Accessories/SpeakerHomeTheater/FANTECH/Fantech%20GS204%20Rumble%20RGB%20Dual%20Mode%20Gaming%20Speaker%201.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/FANTECH/Fantech%20GS204%20Rumble%20RGB%20Dual%20Mode%20Gaming%20Speaker%202.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/FANTECH/Fantech%20GS204%20Rumble%20RGB%20Dual%20Mode%20Gaming%20Speaker%203.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Accessories/SpeakerHomeTheater/FANTECH/Fantech%20GS204%20Rumble%20RGB%20Dual%20Mode%20Gaming%20Speaker.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/FANTECH/Fantech%20GS204%20Rumble%20RGB%20Dual%20Mode%20Gaming%20Speaker%201.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/FANTECH/Fantech%20GS204%20Rumble%20RGB%20Dual%20Mode%20Gaming%20Speaker%202.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/FANTECH/Fantech%20GS204%20Rumble%20RGB%20Dual%20Mode%20Gaming%20Speaker%203.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "fantech-gs204-rumble-rgb-gaming-speaker",
+        "candidateTitle": "Fantech GS204 Rumble RGB Dual Mode Gaming Speaker",
+        "attemptStem": "fantech-gs204-rumble-rgb-gaming-speaker"
+      },
+      "localImageFile": "public/Product_Images/Accessories/SpeakerHomeTheater/FANTECH/Fantech GS204 Rumble RGB Dual Mode Gaming Speaker.png"
+    },
+    {
+      "name": "Havit GameNote HV-MS1005 USB 7 Key Fire Button Gaming Mouse Black",
+      "slug": "havit-gamenote-hv-ms1005-mouse",
+      "type": "PHYSICAL",
+      "sku": "ST-14779",
+      "description": "<h2>Havit GameNote HV-MS1005 USB 7 Key Fire Button Gaming Mouse Black<br/></h2><p>Stable wireless transmission of2.4GHZ wireless technology can provide a reliable connection and not be subject to any interference in the 360 degrees within 10 meters. 3 levels of speed,800-1200-1600DPI, with Emergency response easily. The mouse is made of ABS environmental protected plastic, comfortable sense of touch, The overall shape is comfortable with bumped rear part, it can reduce hand fatigue effectively. MINI receiver can be hidden inside the mouse, very convenient and portable. There may be some modifications on product design and specification according to the processing. Information on packing is for reference only and specific to prevail in kind. In order to protect the mouse, please donâ€™t use the mouse on rough surface. Itâ€™s helpful to use it with a good-quality mouse pad. The light of the mouse bottom is very strong, please donâ€™t put it towards to your and othersâ€™ eyes. The component parts of the mouse are from concise electronic parts, please pay attention not to twist or dissemble the mouse, otherwise its service life could be shorter.<br/></p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>Model: Havit GameNote HV-MS1005</li><li>Keystroke Lifetime: 5,000,000</li><li>Interface: USB</li><li>Number of Key: 7 keys</li><li>Wireless technology: 2.4GHz</li></ul>",
+      "model": "Havit GameNote HV-MS1005",
+      "warranty": "01 year Warranty",
+      "basePrice": 780.0,
+      "originalPrice": null,
+      "currency": "BDT",
+      "weight": null,
+      "dimensions": {
+        "length": 108.0,
+        "width": 71.0,
+        "height": 38.0,
+        "unit": "mm"
+      },
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 126,
+      "brandName": "Havit",
+      "variantOptions": [
+        {
+          "name": "Color",
+          "position": 0,
+          "values": [
+            {
+              "value": "Black",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "ST-14779",
+          "price": 780.0,
+          "currency": "BDT",
+          "stock": 148,
+          "options": {
+            "Color": "Black"
+          },
+          "isDefault": true,
+          "active": false,
+          "lowStockThreshold": 10,
+          "costPrice": 748.8,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Main Features",
+          "position": 0,
+          "items": [
+            {
+              "label": "Number of Keys",
+              "value": "7 keys",
+              "position": 0
+            },
+            {
+              "label": "Connection Type",
+              "value": "USB/ Wireless",
+              "position": 1
+            },
+            {
+              "label": "Resolution",
+              "value": "800-1200-1600-2400DPI",
+              "position": 2
+            },
+            {
+              "label": "Cable Length",
+              "value": "1500mm",
+              "position": 3
+            },
+            {
+              "label": "Others",
+              "value": "Wireless Range: 10 m",
+              "position": 4
+            }
+          ]
+        },
+        {
+          "name": "Physical Specifications",
+          "position": 1,
+          "items": [
+            {
+              "label": "Color",
+              "value": "Black",
+              "position": 0
+            },
+            {
+              "label": "Dimension",
+              "value": "108*71*38mm",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Warranty Information",
+          "position": 2,
+          "items": [
+            {
+              "label": "Warranty",
+              "value": "01 year Warranty",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://deshiplus.com/havit-gamenote-hv-ms1005-mouse",
+      "sourceProductCode": "14779",
+      "sourceStatus": "Out Of Stock",
+      "sourceMpn": null,
+      "sourceKeyFeatures": [
+        "Model: Havit GameNote HV-MS1005",
+        "Keystroke Lifetime: 5,000,000",
+        "Interface: USB",
+        "Number of Key: 7 keys",
+        "Wireless technology: 2.4GHz"
+      ],
+      "needsReview": false,
+      "categorySlug": "gaming",
+      "image": "/Product_Images/Accessories/Mouse/Havit/Havit%20GameNote%20HV-MS1005%20USB%207%20Key%20Fire%20Button%20Gaming%20Mouse%20Black.png",
+      "gallery": [
+        "/Product_Images/Accessories/Mouse/Havit/Havit%20GameNote%20HV-MS1005%20USB%207%20Key%20Fire%20Button%20Gaming%20Mouse%20Black%201.png",
+        "/Product_Images/Accessories/Mouse/Havit/Havit%20GameNote%20HV-MS1005%20USB%207%20Key%20Fire%20Button%20Gaming%20Mouse%20Black%202.jpg",
+        "/Product_Images/Accessories/Mouse/Havit/Havit%20GameNote%20HV-MS1005%20USB%207%20Key%20Fire%20Button%20Gaming%20Mouse%20Black%202.png",
+        "/Product_Images/Accessories/Mouse/Havit/Havit%20GameNote%20HV-MS1005%20USB%207%20Key%20Fire%20Button%20Gaming%20Mouse%20Black%203.png",
+        "/Product_Images/Accessories/Mouse/Havit/Havit%20GameNote%20HV-MS1005%20USB%207%20Key%20Fire%20Button%20Gaming%20Mouse%20Black%204.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Accessories/Mouse/Havit/Havit%20GameNote%20HV-MS1005%20USB%207%20Key%20Fire%20Button%20Gaming%20Mouse%20Black.png",
+        "/Product_Images/Accessories/Mouse/Havit/Havit%20GameNote%20HV-MS1005%20USB%207%20Key%20Fire%20Button%20Gaming%20Mouse%20Black%201.png",
+        "/Product_Images/Accessories/Mouse/Havit/Havit%20GameNote%20HV-MS1005%20USB%207%20Key%20Fire%20Button%20Gaming%20Mouse%20Black%202.jpg",
+        "/Product_Images/Accessories/Mouse/Havit/Havit%20GameNote%20HV-MS1005%20USB%207%20Key%20Fire%20Button%20Gaming%20Mouse%20Black%202.png",
+        "/Product_Images/Accessories/Mouse/Havit/Havit%20GameNote%20HV-MS1005%20USB%207%20Key%20Fire%20Button%20Gaming%20Mouse%20Black%203.png",
+        "/Product_Images/Accessories/Mouse/Havit/Havit%20GameNote%20HV-MS1005%20USB%207%20Key%20Fire%20Button%20Gaming%20Mouse%20Black%204.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "havit-gamenote-hv-ms1005-mouse",
+        "candidateTitle": "Havit GameNote HV-MS1005 USB 7 Key Fire Button Gaming Mouse Black",
+        "attemptStem": "havit-gamenote-hv-ms1005-mouse"
+      },
+      "localImageFile": "public/Product_Images/Accessories/Mouse/Havit/Havit GameNote HV-MS1005 USB 7 Key Fire Button Gaming Mouse Black.png"
+    },
+    {
+      "name": "Havit GK57 USB RGB Gaming Microphone",
+      "slug": "havit-gk57-rgb-gaming-microphone",
+      "type": "PHYSICAL",
+      "sku": "ST-14793",
+      "description": "<h2 style=\"text-align: justify; \"><span style=\"font-weight: bold;\">Havit GK57 USB RGB Gaming Microphone</span></h2><p style=\"text-align: justify;\">Havit GK57 USB RGB Gaming Microphone comes with Omnidirectional Miocrophone which has the USB port and hepls you clearer communication. It is one kind of Plug &amp; Play USB Computer Microphone. The new Havit GK57 RGB Gaming Microphone specified with -30Â±2dB sesitivity, 2.2KÎ© impedance, 50Hz to 16k Hz, 2.0m length cable, 3V operating voltage, Single point directivity, 9.7 x 5.0MM. This Microphone is featured with Compact Design with adjustable neck that gives you Convenient using and it is suitable for YouTube, Twitch, Skype, FaceTime, Gaming and more. In this Microphone Unique RGB light will gives you a great visual effect.</p><p style=\"text-align: justify;\"><br/></p><p style=\"text-align: justify;\">01 year warranty</p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>Model: GK57</li><li>USB Computer Microphone</li><li>Plug &amp; Play, RGB Light</li><li>Omnidirectional Miocrophone</li><li>Adjustable Neck</li></ul>",
+      "model": "GK57",
+      "warranty": null,
+      "basePrice": 725.0,
+      "originalPrice": null,
+      "currency": "BDT",
+      "weight": null,
+      "dimensions": null,
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 143,
+      "brandName": "Havit",
+      "variantOptions": [
+        {
+          "name": "Connector",
+          "position": 0,
+          "values": [
+            {
+              "value": "USB",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "ST-14793",
+          "price": 725.0,
+          "currency": "BDT",
+          "stock": 108,
+          "options": {
+            "Connector": "USB"
+          },
+          "isDefault": true,
+          "active": false,
+          "lowStockThreshold": 10,
+          "costPrice": 696.0,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Basic Information",
+          "position": 0,
+          "items": [
+            {
+              "label": "Microphone Type",
+              "value": "Omnidirectional Miocrophone",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "Main Specs",
+          "position": 1,
+          "items": [
+            {
+              "label": "Frequency Range",
+              "value": "50Hz to 16k Hz",
+              "position": 0
+            },
+            {
+              "label": "Sensitivity",
+              "value": "-30±2dB",
+              "position": 1
+            },
+            {
+              "label": "Output Impedance",
+              "value": "2.2KΩ",
+              "position": 2
+            },
+            {
+              "label": "Cable",
+              "value": "2.0m",
+              "position": 3
+            },
+            {
+              "label": "Connector",
+              "value": "USB",
+              "position": 4
+            }
+          ]
+        },
+        {
+          "name": "Compatibility",
+          "position": 2,
+          "items": [
+            {
+              "label": "PC",
+              "value": "Yes",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://deshiplus.com/havit-gk57-rgb-gaming-microphone",
+      "sourceProductCode": "14793",
+      "sourceStatus": "Out Of Stock",
+      "sourceMpn": null,
+      "sourceKeyFeatures": [
+        "Model: GK57",
+        "USB Computer Microphone",
+        "Plug & Play, RGB Light",
+        "Omnidirectional Miocrophone",
+        "Adjustable Neck"
+      ],
+      "needsReview": false,
+      "categorySlug": "gaming",
+      "image": "/Product_Images/Accessories/Microphone/Havit/Havit%20GK57%20USB%20RGB%20Gaming%20Microphone.png",
+      "gallery": [
+        "/Product_Images/Gadget/Microphone/Havit/Havit%20GK57%20USB%20RGB%20Gaming%20Microphone.png",
+        "/Product_Images/Accessories/Microphone/Havit/Havit%20GK57%20USB%20RGB%20Gaming%20Microphone%201.png",
+        "/Product_Images/Gadget/Microphone/Havit/Havit%20GK57%20USB%20RGB%20Gaming%20Microphone%201.png",
+        "/Product_Images/Accessories/Microphone/Havit/Havit%20GK57%20USB%20RGB%20Gaming%20Microphone%202.png",
+        "/Product_Images/Gadget/Microphone/Havit/Havit%20GK57%20USB%20RGB%20Gaming%20Microphone%202.png",
+        "/Product_Images/Accessories/Microphone/Havit/Havit%20GK57%20USB%20RGB%20Gaming%20Microphone%203.png",
+        "/Product_Images/Gadget/Microphone/Havit/Havit%20GK57%20USB%20RGB%20Gaming%20Microphone%203.png",
+        "/Product_Images/Accessories/Microphone/Havit/Havit%20GK57%20USB%20RGB%20Gaming%20Microphone%204.png",
+        "/Product_Images/Gadget/Microphone/Havit/Havit%20GK57%20USB%20RGB%20Gaming%20Microphone%204.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Accessories/Microphone/Havit/Havit%20GK57%20USB%20RGB%20Gaming%20Microphone.png",
+        "/Product_Images/Gadget/Microphone/Havit/Havit%20GK57%20USB%20RGB%20Gaming%20Microphone.png",
+        "/Product_Images/Accessories/Microphone/Havit/Havit%20GK57%20USB%20RGB%20Gaming%20Microphone%201.png",
+        "/Product_Images/Gadget/Microphone/Havit/Havit%20GK57%20USB%20RGB%20Gaming%20Microphone%201.png",
+        "/Product_Images/Accessories/Microphone/Havit/Havit%20GK57%20USB%20RGB%20Gaming%20Microphone%202.png",
+        "/Product_Images/Gadget/Microphone/Havit/Havit%20GK57%20USB%20RGB%20Gaming%20Microphone%202.png",
+        "/Product_Images/Accessories/Microphone/Havit/Havit%20GK57%20USB%20RGB%20Gaming%20Microphone%203.png",
+        "/Product_Images/Gadget/Microphone/Havit/Havit%20GK57%20USB%20RGB%20Gaming%20Microphone%203.png",
+        "/Product_Images/Accessories/Microphone/Havit/Havit%20GK57%20USB%20RGB%20Gaming%20Microphone%204.png",
+        "/Product_Images/Gadget/Microphone/Havit/Havit%20GK57%20USB%20RGB%20Gaming%20Microphone%204.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "havit-gk57-rgb-gaming-microphone",
+        "candidateTitle": "Havit GK57 USB RGB Gaming Microphone",
+        "attemptStem": "havit-gk57-rgb-gaming-microphone"
+      },
+      "localImageFile": "public/Product_Images/Accessories/Microphone/Havit/Havit GK57 USB RGB Gaming Microphone.png"
+    },
+    {
+      "name": "Havit SK563 USB RGB Gaming Speaker",
+      "slug": "havit-sk563-rgb-gaming-speaker",
+      "type": "PHYSICAL",
+      "sku": "ST-14795",
+      "description": "<h2 style=\"text-align: justify; \"><span style=\"font-weight: bold;\">Havit SK563 USB RGB Gaming Speaker</span></h2><p style=\"text-align: justify;\">The new Havit SK563 RGB Gaming Speaker is compatible with 2.0 stereo computer audio, game, music, film, and television. In this gaming speaker, the sound is small and loud and does not occupy too many desktops positionsDynamic RGB light, cool desktop. This new Gaming Speaker featured with Î¦53 mm Horn diameter, 64±15% impedance, 110dB ± 3dB Sensitivity, 20 Hz to 20khz Frequency, Channel 2:0, and 80mA Working current. It is also designed with a 3.5mm connector. You can use it with 2.0 stereo computer audio, games, music, film, and television enjoyment, Here, the sound is compact and loud and does not occupy too many desktop positions, Dynamic RGB lights. </p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>Model: SK563</li><li>Connectivity: Wired USB, Channel 2:0</li><li>Working current: 80mA</li><li>Impedance: 64±15</li><li>Sensitivity: 110dB ± 3dB</li></ul>",
+      "model": "SK563",
+      "warranty": "01 year warranty",
+      "basePrice": 850.0,
+      "originalPrice": null,
+      "currency": "BDT",
+      "weight": null,
+      "dimensions": {
+        "length": 72.0,
+        "width": 82.0,
+        "height": 120.0,
+        "unit": "mm"
+      },
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 121,
+      "brandName": "Havit",
+      "variantOptions": [],
+      "variants": [
+        {
+          "sku": "ST-14795",
+          "price": 850.0,
+          "currency": "BDT",
+          "stock": 189,
+          "options": {},
+          "isDefault": true,
+          "active": false,
+          "lowStockThreshold": 10,
+          "costPrice": 816.0,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Main Features",
+          "position": 0,
+          "items": [
+            {
+              "label": "Input Sensitivity",
+              "value": "650mv",
+              "position": 0
+            },
+            {
+              "label": "Frequency response",
+              "value": "20 hz to 20khz",
+              "position": 1
+            },
+            {
+              "label": "Drivers",
+              "value": "Ø6.0×2.7mm",
+              "position": 2
+            },
+            {
+              "label": "Jack",
+              "value": "USB powered + 3.5mm plug",
+              "position": 3
+            }
+          ]
+        },
+        {
+          "name": "Physical Spec",
+          "position": 1,
+          "items": [
+            {
+              "label": "Dimension",
+              "value": "72 (W) x82 (D) x120 (H) mm",
+              "position": 0
+            },
+            {
+              "label": "Wired",
+              "value": "USB powered + 3.5mm plug",
+              "position": 1
+            },
+            {
+              "label": "USB",
+              "value": "Yes",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "name": "Warranty",
+          "position": 2,
+          "items": [
+            {
+              "label": "Manufacturing Warranty",
+              "value": "01 year warranty",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://deshiplus.com/havit-sk563-rgb-gaming-speaker",
+      "sourceProductCode": "14795",
+      "sourceStatus": "Out Of Stock",
+      "sourceMpn": null,
+      "sourceKeyFeatures": [
+        "Model: SK563",
+        "Connectivity: Wired USB, Channel 2:0",
+        "Working current: 80mA",
+        "Impedance: 64±15",
+        "Sensitivity: 110dB ± 3dB"
+      ],
+      "needsReview": false,
+      "categorySlug": "gaming",
+      "image": "/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit%20SK563%20USB%20RGB%20Gaming%20Speaker.png",
+      "gallery": [
+        "/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit%20SK563%20USB%20RGB%20Gaming%20Speaker%201.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit%20SK563%20USB%20RGB%20Gaming%20Speaker%202.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit%20SK563%20USB%20RGB%20Gaming%20Speaker%203.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit%20SK563%20USB%20RGB%20Gaming%20Speaker%204.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit%20SK563%20USB%20RGB%20Gaming%20Speaker.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit%20SK563%20USB%20RGB%20Gaming%20Speaker%201.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit%20SK563%20USB%20RGB%20Gaming%20Speaker%202.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit%20SK563%20USB%20RGB%20Gaming%20Speaker%203.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit%20SK563%20USB%20RGB%20Gaming%20Speaker%204.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "havit-sk563-rgb-gaming-speaker",
+        "candidateTitle": "Havit SK563 USB RGB Gaming Speaker",
+        "attemptStem": "havit-sk563-rgb-gaming-speaker"
+      },
+      "localImageFile": "public/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit SK563 USB RGB Gaming Speaker.png"
+    },
+    {
+      "name": "Havit SK707 2:0 RGB USB Gaming Speaker",
+      "slug": "havit-sk707-usb-gaming-speaker",
+      "type": "PHYSICAL",
+      "sku": "HV-SK707",
+      "description": "<h2 style=\"text-align: justify; \">Havit SK707 2:0 RGB USB Gaming Speaker</h2>\n<p style=\"text-align: justify; \">The Havit SK707 RGB USB Gaming Speaker comes with a 3.5mm, USB Output Interface, and Wired connectivity. This speaker is featured with 3W Output power, 2″4Ω3W x 2 Speaker, 30Hz~15KH Frequency response, 40dB Separation, 80dB Input sensibility, and DC 5V Power input. The speaker is designed with Plastic materials. It is also featured with Rich boost Heavy Base levels, Hi-Fi stereo sound, Full Range Speaker, Rich Bass Boost Levels, High fidelity sound quality gives the ultimate hearing enjoyment, Led Light Bulb. The Havit SK707 comes with a 1-year warranty.</p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>MPN: HV-SK707</li><li>Model: SK707</li><li>Frequency response: 30Hz~15KH</li><li>Input sensibility: 80dB</li><li>Output power: 3W x 2</li><li>RGB Lighting Effect</li></ul>",
+      "model": "SK707",
+      "warranty": "1 year",
+      "basePrice": 949.0,
+      "originalPrice": 1050.0,
+      "currency": "BDT",
+      "weight": null,
+      "dimensions": {
+        "length": 89.0,
+        "width": 89.0,
+        "height": 114.0,
+        "unit": "mm"
+      },
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 10,
+      "brandName": "Havit",
+      "variantOptions": [],
+      "variants": [
+        {
+          "sku": "HV-SK707",
+          "price": 949.0,
+          "currency": "BDT",
+          "stock": 10,
+          "options": {},
+          "isDefault": true,
+          "active": true,
+          "lowStockThreshold": 10,
+          "costPrice": 911.04,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Main Features",
+          "position": 0,
+          "items": [
+            {
+              "label": "Output Power",
+              "value": "3W x 2",
+              "position": 0
+            },
+            {
+              "label": "Input Sensitivity",
+              "value": "≥80dB",
+              "position": 1
+            },
+            {
+              "label": "Resistance",
+              "value": "4 ohm x 2",
+              "position": 2
+            },
+            {
+              "label": "Frequency response",
+              "value": "30Hz~15KH",
+              "position": 3
+            },
+            {
+              "label": "Jack",
+              "value": "USB",
+              "position": 4
+            }
+          ]
+        },
+        {
+          "name": "Physical Spec",
+          "position": 1,
+          "items": [
+            {
+              "label": "Dimension",
+              "value": "89 x 89 x 114mm",
+              "position": 0
+            },
+            {
+              "label": "USB",
+              "value": "Yes",
+              "position": 1
+            },
+            {
+              "label": "Input Connetor",
+              "value": "Wired",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "name": "Power Source",
+          "position": 2,
+          "items": [
+            {
+              "label": "Power",
+              "value": "DC 5V",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "Warranty",
+          "position": 3,
+          "items": [
+            {
+              "label": "Manufacturing Warranty",
+              "value": "1 year",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://deshiplus.com/havit-sk707-usb-gaming-speaker",
+      "sourceProductCode": "19620",
+      "sourceStatus": "In Stock",
+      "sourceMpn": "HV-SK707",
+      "sourceKeyFeatures": [
+        "MPN: HV-SK707",
+        "Model: SK707",
+        "Frequency response: 30Hz~15KH",
+        "Input sensibility: 80dB",
+        "Output power: 3W x 2",
+        "RGB Lighting Effect"
+      ],
+      "needsReview": false,
+      "categorySlug": "gaming",
+      "image": "/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit%20SK707%202-0%20RGB%20USB%20Gaming%20Speaker.png",
+      "gallery": [
+        "/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit%20SK707%202-0%20RGB%20USB%20Gaming%20Speaker%201.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit%20SK707%202-0%20RGB%20USB%20Gaming%20Speaker%202.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit%20SK707%202-0%20RGB%20USB%20Gaming%20Speaker%203.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit%20SK707%202-0%20RGB%20USB%20Gaming%20Speaker%204.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit%20SK707%202-0%20RGB%20USB%20Gaming%20Speaker.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit%20SK707%202-0%20RGB%20USB%20Gaming%20Speaker%201.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit%20SK707%202-0%20RGB%20USB%20Gaming%20Speaker%202.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit%20SK707%202-0%20RGB%20USB%20Gaming%20Speaker%203.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit%20SK707%202-0%20RGB%20USB%20Gaming%20Speaker%204.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "havit-sk707-usb-gaming-speaker",
+        "candidateTitle": "Havit SK707 2:0 RGB USB Gaming Speaker",
+        "attemptStem": "havit-sk707-usb-gaming-speaker"
+      },
+      "localImageFile": "public/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit SK707 2-0 RGB USB Gaming Speaker.png"
+    },
+    {
+      "name": "Havit SK708 2:0 RGB USB Gaming Speaker",
+      "slug": "havit-sk708-rgb-usb-gaming-speaker",
+      "type": "PHYSICAL",
+      "sku": "ST-14979",
+      "description": "<h2 style=\"text-align: justify; \"><span style=\"font-weight: bold;\">Havit SK708 2:0 RGB USB Gaming Speaker</span></h2>\n<p style=\"text-align: justify; \">Havit SK708 RGB Gaming USB Speaker comes with a 3.5mm, USB Output Interface, and Wired connectivity. This speaker is featured with 3W Output power, 2\"4Ω3W X 2 Speaker, 30Hz~15KH Frequency response, 40dB Separation, 80dB Input sensibility, and DC 5V Power input. The speaker is designed with Plastic materials. It is also featured with Rich boost Heavy Base levels, Hi-Fi stereo sound, Full Range Speaker, Rich Bass Boost Levels, High fidelity sound quality gives the ultimate hearing enjoyment, Led Light Bulb.</p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>Model: SK708</li><li>Frequency response: 30Hz~15KH</li><li>Input sensibility: 80dB</li><li>Power input: DC 5V</li><li>Output power: 3W x 2</li></ul>",
+      "model": "SK708",
+      "warranty": "01 year Warranty",
+      "basePrice": 799.0,
+      "originalPrice": 850.0,
+      "currency": "BDT",
+      "weight": null,
+      "dimensions": {
+        "length": 77.0,
+        "width": 70.0,
+        "height": 120.0,
+        "unit": "mm"
+      },
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 10,
+      "brandName": "Havit",
+      "variantOptions": [],
+      "variants": [
+        {
+          "sku": "ST-14979",
+          "price": 799.0,
+          "currency": "BDT",
+          "stock": 10,
+          "options": {},
+          "isDefault": true,
+          "active": true,
+          "lowStockThreshold": 10,
+          "costPrice": 767.04,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Main Features",
+          "position": 0,
+          "items": [
+            {
+              "label": "Input Sensitivity",
+              "value": "≥80dB",
+              "position": 0
+            },
+            {
+              "label": "Frequency response",
+              "value": "30Hz~15KH",
+              "position": 1
+            },
+            {
+              "label": "Jack",
+              "value": "USB",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "name": "Physical Spec",
+          "position": 1,
+          "items": [
+            {
+              "label": "Dimension",
+              "value": "77 x 70 x 120mm",
+              "position": 0
+            },
+            {
+              "label": "USB",
+              "value": "Yes",
+              "position": 1
+            },
+            {
+              "label": "Input Connetor",
+              "value": "3.5mm jack",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "name": "Power Source",
+          "position": 2,
+          "items": [
+            {
+              "label": "Power",
+              "value": "Output power: 3W",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "Warranty",
+          "position": 3,
+          "items": [
+            {
+              "label": "Manufacturing Warranty",
+              "value": "01 year Warranty",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://deshiplus.com/havit-sk708-rgb-usb-gaming-speaker",
+      "sourceProductCode": "14979",
+      "sourceStatus": "In Stock",
+      "sourceMpn": null,
+      "sourceKeyFeatures": [
+        "Model: SK708",
+        "Frequency response: 30Hz~15KH",
+        "Input sensibility: 80dB",
+        "Power input: DC 5V",
+        "Output power: 3W x 2"
+      ],
+      "needsReview": false,
+      "categorySlug": "gaming",
+      "image": "/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit%20SK708%202-0%20RGB%20USB%20Gaming%20Speaker.png",
+      "gallery": [
+        "/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit%20SK708%202-0%20RGB%20USB%20Gaming%20Speaker%201.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit%20SK708%202-0%20RGB%20USB%20Gaming%20Speaker%202.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit%20SK708%202-0%20RGB%20USB%20Gaming%20Speaker%203.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit%20SK708%202-0%20RGB%20USB%20Gaming%20Speaker%204.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit%20SK708%202-0%20RGB%20USB%20Gaming%20Speaker.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit%20SK708%202-0%20RGB%20USB%20Gaming%20Speaker%201.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit%20SK708%202-0%20RGB%20USB%20Gaming%20Speaker%202.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit%20SK708%202-0%20RGB%20USB%20Gaming%20Speaker%203.png",
+        "/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit%20SK708%202-0%20RGB%20USB%20Gaming%20Speaker%204.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "havit-sk708-rgb-usb-gaming-speaker",
+        "candidateTitle": "Havit SK708 2:0 RGB USB Gaming Speaker",
+        "attemptStem": "havit-sk708-rgb-usb-gaming-speaker"
+      },
+      "localImageFile": "public/Product_Images/Accessories/SpeakerHomeTheater/Havit/Havit SK708 2-0 RGB USB Gaming Speaker.png"
+    },
+    {
+      "name": "JBL Quantum 350 Wireless Gaming Headphone with Mic",
+      "slug": "jbl-quantum-350-wireless-gaming-headphone",
+      "type": "PHYSICAL",
+      "sku": "ST-33299",
+      "description": "<h2>JBL Quantum 350 Wireless Gaming Headphone with Mic</h2><p>The <strong>JBL Quantum 350</strong> Wireless Gaming <a href=\"https://deshiplus.com/accessories/headphone\" style=\"color: rgb(0, 0, 0);\" target=\"\">Headphone</a> 40mm dynamic speakers allow you to fully immerse yourself in the immersive gaming experience and take advantage of detailed, rich soundscapes that will improve your gaming. These Quantum 350 headphones work with a variety of gaming platforms, such as PC, PS5, Nintendo Switch, and more, and are adaptable enough to match your setup flawlessly. A lag-free connection is guaranteed by the 2.4 GHz wireless transmission, offering a responsive and dependable gaming experience. In gaming, communication is essential, and the Quantum 350 shines thanks to its detachable omnidirectional boom microphone, which captures speech crystal clear for efficient in-game cooperation. These headphones are designed for prolonged gaming sessions and have an impressive 22-hour battery life, which will keep you fully submerged in your virtual world. The lightweight headband of JBL Quantum 350 guarantees little fatigue, and the PU-wrapped memory foam earpads provide a velvety sensation even after extended usage. With the Quantum ENGINE PC Software Suite, you may customize the sound profile to your desire and take control of your audio preferences. Approved for Discord, these headphones let you communicate with your gaming group easily and improve the social side of gaming. The ability to silence your microphone provides functionality and makes it easy to manage your audio input. With the JBL Quantum 350, you can enjoy gaming audio at a whole new level thanks to its innovative design, plush design, and sophisticated features that combine to provide an unmatched gaming environment.</p><h2>Buy JBL Quantum 350 Wireless Gaming Headphone with Mic from Deshi Plus</h2><p>In Bangladesh, you can get original <strong>JBL Quantum 350 Wireless Gaming Headphone with Mic</strong> From Deshi Plus. We have a large collection of latest <a href=\"https://deshiplus.com/accessories/headphone/jbl-headphones\" target=\"\">JBL Headphone</a> to purchase for your. Order Online Or Visit your Nearest <a href=\"https://deshiplus.com/\" target=\"\">Deshi Plus</a> Shop to get yours at lowest price. The JBL Quantum 350 Wireless Gaming Headphone with Mic comes with 06-month warranty.</p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>Model: Quantum 350</li><li>40mm Dynamic Drivers</li><li>Works on PC, PS5, Nintendo Switch &amp; More</li><li>2.4 GHz Wireless Transmission</li><li>Detachable Omnidirectional Boom Mic</li></ul>",
+      "model": "Quantum 350",
+      "warranty": "06-month Warranty",
+      "basePrice": 12200.0,
+      "originalPrice": null,
+      "currency": "BDT",
+      "weight": null,
+      "dimensions": null,
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 155,
+      "brandName": "JBL",
+      "variantOptions": [
+        {
+          "name": "Color",
+          "position": 0,
+          "values": [
+            {
+              "value": "Black",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "ST-33299",
+          "price": 12200.0,
+          "currency": "BDT",
+          "stock": 160,
+          "options": {
+            "Color": "Black"
+          },
+          "isDefault": true,
+          "active": false,
+          "lowStockThreshold": 10,
+          "costPrice": 11712.0,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Technical Specification",
+          "position": 0,
+          "items": [
+            {
+              "label": "Frequency Range",
+              "value": "20Hz-20KHz",
+              "position": 0
+            },
+            {
+              "label": "Impedance",
+              "value": "32 ohms",
+              "position": 1
+            },
+            {
+              "label": "Sensitivity",
+              "value": "93 dB",
+              "position": 2
+            },
+            {
+              "label": "Driver Diameter",
+              "value": "40mm",
+              "position": 3
+            },
+            {
+              "label": "Battery Life",
+              "value": "Charging time (hours from empty): 2 Maximum play time (hours): 22",
+              "position": 4
+            }
+          ]
+        },
+        {
+          "name": "Physical Specification",
+          "position": 1,
+          "items": [
+            {
+              "label": "Color",
+              "value": "Black",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "Warranty Information",
+          "position": 2,
+          "items": [
+            {
+              "label": "Manufacturing Warranty",
+              "value": "06-month Warranty",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://deshiplus.com/jbl-quantum-350-wireless-gaming-headphone",
+      "sourceProductCode": "33299",
+      "sourceStatus": "Out Of Stock",
+      "sourceMpn": null,
+      "sourceKeyFeatures": [
+        "Model: Quantum 350",
+        "40mm Dynamic Drivers",
+        "Works on PC, PS5, Nintendo Switch & More",
+        "2.4 GHz Wireless Transmission",
+        "Detachable Omnidirectional Boom Mic"
+      ],
+      "needsReview": false,
+      "categorySlug": "gaming",
+      "image": "/Product_Images/Accessories/Headphone/JBL/JBL%20Quantum%20350%20Wireless%20Gaming%20Headphone%20with%20Mic.png",
+      "gallery": [
+        "/Product_Images/Accessories/Headphone/JBL/JBL%20Quantum%20350%20Wireless%20Gaming%20Headphone%20with%20Mic%201.png",
+        "/Product_Images/Accessories/Headphone/JBL/JBL%20Quantum%20350%20Wireless%20Gaming%20Headphone%20with%20Mic%202.png",
+        "/Product_Images/Accessories/Headphone/JBL/JBL%20Quantum%20350%20Wireless%20Gaming%20Headphone%20with%20Mic%203.png",
+        "/Product_Images/Accessories/Headphone/JBL/JBL%20Quantum%20350%20Wireless%20Gaming%20Headphone%20with%20Mic%204.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Accessories/Headphone/JBL/JBL%20Quantum%20350%20Wireless%20Gaming%20Headphone%20with%20Mic.png",
+        "/Product_Images/Accessories/Headphone/JBL/JBL%20Quantum%20350%20Wireless%20Gaming%20Headphone%20with%20Mic%201.png",
+        "/Product_Images/Accessories/Headphone/JBL/JBL%20Quantum%20350%20Wireless%20Gaming%20Headphone%20with%20Mic%202.png",
+        "/Product_Images/Accessories/Headphone/JBL/JBL%20Quantum%20350%20Wireless%20Gaming%20Headphone%20with%20Mic%203.png",
+        "/Product_Images/Accessories/Headphone/JBL/JBL%20Quantum%20350%20Wireless%20Gaming%20Headphone%20with%20Mic%204.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "jbl-quantum-350-wireless-gaming-headphone",
+        "candidateTitle": "JBL Quantum 350 Wireless Gaming Headphone with Mic",
+        "attemptStem": "jbl-quantum-350-wireless-gaming-headphone"
+      },
+      "localImageFile": "public/Product_Images/Accessories/Headphone/JBL/JBL Quantum 350 Wireless Gaming Headphone with Mic.png"
+    },
+    {
+      "name": "Lexar ARES 16GB (8x2) 3600Mhz DDR4 RGB Gaming Desktop RAM",
+      "slug": "lexar-ares-16gb-3600mhz-gaming-desktop-ram",
+      "type": "PHYSICAL",
+      "sku": "ST-32659",
+      "description": "<h2>Lexar ARES 16GB (8x2) 3600Mhz DDR4 RGB Gaming Desktop RAM</h2><p>Lexar <strong>ARES</strong> 16GB (8x2) RGB DDR5 3600Mhz Desktop <a href=\"https://deshiplus.com/component/ram\" style=\"color: rgb(0, 0, 0);\" target=\"\">RAM </a>offers hardcore gamers and PC users improved performance with next-generation DDR4. You can game in style and keep your system cool for lightning-fast performance, stability, and lifespan with the improved aluminum heat spreader. AMD EXPOTM and Intel XMP 3.0 are supported by Lexar ARES DDR5 Desktop Memory. Overclocking at blazingly fast rates will enhance your gaming experience. You may adjust and synchronize your lighting effects by color, intensity, and speed with Lexar RGB Sync, a potent RGB lighting control tool, so you can game in style. On-die ECC provides better data stability and reliability and real-time data error correction in the Lexar ARES RGB DDR5 Desktop Memory. All Lexar products are rigorously tested at Lexar Quality Labs, which house hundreds of various cameras and digital devices.</p><h2>Buy Lexar ARES 16GB (8x2) 3600Mhz DDR4 RGB Gaming Desktop RAM from Deshi Plus</h2><p>In Bangladesh, you can get the original <strong>Lexar ARES 16GB (8x2) 3600Mhz DDR4 RGB Gaming Desktop RAM</strong> From Deshi Plus. We have a large collection of the latest <a href=\"https://deshiplus.com/lexar-ram\" target=\"\">Lexar RAM</a> to purchase for your <a href=\"https://deshiplus.com/desktops\">Desktop PC</a>. Order Online Or Visit your Nearest <a href=\"https://deshiplus.com/\">Deshi Plus Shop</a> to get yours at the lowest price. The Lexar ARES 16GB (8x2) 3600Mhz DDR4 RGB Gaming Desktop RAM comes with Lifetime warranty. </p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>Model: ARES</li><li>Capacity: 16GB, Memory Type: DDR4</li><li>Tested Latency: CL18-22-22-42</li><li>Tested Speed: 3600Mhz</li><li>Tested Voltage: 1.35V</li></ul>",
+      "model": "ARES",
+      "warranty": "Lifetime warranty",
+      "basePrice": 6000.0,
+      "originalPrice": null,
+      "currency": "BDT",
+      "weight": null,
+      "dimensions": {
+        "length": 140.0,
+        "width": 43.3,
+        "height": 7.9,
+        "unit": "mm"
+      },
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 149,
+      "brandName": "Lexar",
+      "variantOptions": [
+        {
+          "name": "Capacity",
+          "position": 0,
+          "values": [
+            {
+              "value": "16GB Kit (8GBx2)",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "ST-32659",
+          "price": 6000.0,
+          "currency": "BDT",
+          "stock": 137,
+          "options": {
+            "Capacity": "16GB Kit (8GBx2)"
+          },
+          "isDefault": true,
+          "active": false,
+          "lowStockThreshold": 10,
+          "costPrice": 5760.0,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Key Features",
+          "position": 0,
+          "items": [
+            {
+              "label": "Type",
+              "value": "DDR4",
+              "position": 0
+            },
+            {
+              "label": "Capacity",
+              "value": "16GB Kit (8GBx2)",
+              "position": 1
+            },
+            {
+              "label": "Frequency",
+              "value": "3600Mhz",
+              "position": 2
+            },
+            {
+              "label": "Operating voltage",
+              "value": "1.35V",
+              "position": 3
+            },
+            {
+              "label": "Latency",
+              "value": "18-22-22-42",
+              "position": 4
+            }
+          ]
+        },
+        {
+          "name": "Physical dimension",
+          "position": 1,
+          "items": [
+            {
+              "label": "Dimension",
+              "value": "140 mm x 43.3mm x 7.9 mm (L x W x H)",
+              "position": 0
+            },
+            {
+              "label": "Pin",
+              "value": "288Pin",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Warranty Information",
+          "position": 2,
+          "items": [
+            {
+              "label": "Warranty",
+              "value": "Lifetime warranty",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://deshiplus.com/lexar-ares-16gb-3600mhz-gaming-desktop-ram",
+      "sourceProductCode": "32659",
+      "sourceStatus": "Out Of Stock",
+      "sourceMpn": null,
+      "sourceKeyFeatures": [
+        "Model: ARES",
+        "Capacity: 16GB, Memory Type: DDR4",
+        "Tested Latency: CL18-22-22-42",
+        "Tested Speed: 3600Mhz",
+        "Tested Voltage: 1.35V"
+      ],
+      "needsReview": false,
+      "categorySlug": "gaming",
+      "image": "/Product_Images/Component/DesktopRam/Lexar/Lexar%20ARES%2016GB%20%288x2%29%203600Mhz%20DDR4%20RGB%20Gaming%20Desktop%20RAM.png",
+      "gallery": [
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20ARES%2016GB%20%288x2%29%203600Mhz%20DDR4%20RGB%20Gaming%20Desktop%20RAM%201.png",
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20ARES%2016GB%20%288x2%29%203600Mhz%20DDR4%20RGB%20Gaming%20Desktop%20RAM%202.png",
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20ARES%2016GB%20%288x2%29%203600Mhz%20DDR4%20RGB%20Gaming%20Desktop%20RAM%203.png",
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20ARES%2016GB%20%288x2%29%203600Mhz%20DDR4%20RGB%20Gaming%20Desktop%20RAM%204.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20ARES%2016GB%20%288x2%29%203600Mhz%20DDR4%20RGB%20Gaming%20Desktop%20RAM.png",
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20ARES%2016GB%20%288x2%29%203600Mhz%20DDR4%20RGB%20Gaming%20Desktop%20RAM%201.png",
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20ARES%2016GB%20%288x2%29%203600Mhz%20DDR4%20RGB%20Gaming%20Desktop%20RAM%202.png",
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20ARES%2016GB%20%288x2%29%203600Mhz%20DDR4%20RGB%20Gaming%20Desktop%20RAM%203.png",
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20ARES%2016GB%20%288x2%29%203600Mhz%20DDR4%20RGB%20Gaming%20Desktop%20RAM%204.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "lexar-ares-16gb-3600mhz-gaming-desktop-ram",
+        "candidateTitle": "Lexar ARES 16GB (8x2) 3600Mhz DDR4 RGB Gaming Desktop RAM",
+        "attemptStem": "lexar-ares-16gb-3600mhz-gaming-desktop-ram"
+      },
+      "localImageFile": "public/Product_Images/Component/DesktopRam/Lexar/Lexar ARES 16GB (8x2) 3600Mhz DDR4 RGB Gaming Desktop RAM.png"
+    },
+    {
+      "name": "Lexar ARES 16GB DDR5 4800Mhz Desktop RAM",
+      "slug": "lexar-ares-16gb-ddr5-4800mhz-desktop-ram",
+      "type": "PHYSICAL",
+      "sku": "ST-32661",
+      "description": "<h2>Lexar ARES 16GB DDR5 4800Mhz Desktop RAM</h2><p>The Lexar <strong>Ares</strong> 16GB DDR5 4800Mhz DDR5 Desktop RAM is designed to meet the demanding needs of gamers who want their gaming systems to respond and operate at breakneck speeds. With the unmatched performance and durability of this premium Lexar ARES 16GB DDR5 RAM module, gamers may enjoy their favorite games without any lag or delay. With its quick data transfer rates of 4800MHz, the Lexar Ares 16GB DDR5 4800 BUS Gaming RAM allows for smoother gameplay and quicker loading times. Its Lexar ARES 16GB DDR5 memory technology is perfect for high-end gaming PCs since it offers low power consumption and great performance.</p><h2>Buy Lexar ARES 16GB DDR5 4800Mhz Desktop RAM from Deshi Plus</h2><p>In Bangladesh, you can get the original <strong>Lexar ARES 16GB DDR5 4800Mhz Desktop RAM</strong> From Deshi Plus. We have a large collection of the latest <a href=\"https://deshiplus.com/lexar-ram\" target=\"\">Lexar RAM</a> to purchase for your <a href=\"https://deshiplus.com/desktops\">Desktop PC</a>. Order Online Or Visit your Nearest <a href=\"https://deshiplus.com/\">Deshi Plus Shop</a> to get yours at the lowest price. The Lexar ARES 16GB DDR5 4800Mhz Desktop RAM comes with a Lifetime warranty. </p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>Model: ARES</li><li>Capacity: 16GB, Memory Type: DDR5</li><li>Tested Latency: CL38-38-38-74</li><li>Tested Speed: 4800Mhz</li><li>Tested Voltage: 1.25V</li></ul>",
+      "model": "ARES",
+      "warranty": "Lifetime warranty",
+      "basePrice": 8500.0,
+      "originalPrice": null,
+      "currency": "BDT",
+      "weight": null,
+      "dimensions": {
+        "length": 140.0,
+        "width": 43.25,
+        "height": 7.9,
+        "unit": "mm"
+      },
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 102,
+      "brandName": "Lexar",
+      "variantOptions": [
+        {
+          "name": "Capacity",
+          "position": 0,
+          "values": [
+            {
+              "value": "16GB",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "ST-32661",
+          "price": 8500.0,
+          "currency": "BDT",
+          "stock": 149,
+          "options": {
+            "Capacity": "16GB"
+          },
+          "isDefault": true,
+          "active": false,
+          "lowStockThreshold": 10,
+          "costPrice": 8160.0,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Key Features",
+          "position": 0,
+          "items": [
+            {
+              "label": "Type",
+              "value": "DDR5",
+              "position": 0
+            },
+            {
+              "label": "Capacity",
+              "value": "16GB",
+              "position": 1
+            },
+            {
+              "label": "Frequency",
+              "value": "4800Mhz",
+              "position": 2
+            },
+            {
+              "label": "Operating voltage",
+              "value": "1.25V",
+              "position": 3
+            },
+            {
+              "label": "Latency",
+              "value": "38-38-38-74",
+              "position": 4
+            }
+          ]
+        },
+        {
+          "name": "Physical dimension",
+          "position": 1,
+          "items": [
+            {
+              "label": "Dimension",
+              "value": "L140 x W43.25 x H7.9mm (with heat spreader)",
+              "position": 0
+            },
+            {
+              "label": "Pin",
+              "value": "288Pin",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Warranty Information",
+          "position": 2,
+          "items": [
+            {
+              "label": "Warranty",
+              "value": "Lifetime warranty",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://deshiplus.com/lexar-ares-16gb-ddr5-4800mhz-desktop-ram",
+      "sourceProductCode": "32661",
+      "sourceStatus": "Out Of Stock",
+      "sourceMpn": null,
+      "sourceKeyFeatures": [
+        "Model: ARES",
+        "Capacity: 16GB, Memory Type: DDR5",
+        "Tested Latency: CL38-38-38-74",
+        "Tested Speed: 4800Mhz",
+        "Tested Voltage: 1.25V"
+      ],
+      "needsReview": false,
+      "categorySlug": "gaming",
+      "image": "/Product_Images/Component/DesktopRam/Lexar/Lexar%20ARES%2016GB%20DDR5%204800Mhz%20Desktop%20RAM.png",
+      "gallery": [
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20ARES%2016GB%20DDR5%204800Mhz%20Desktop%20RAM%201.png",
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20ARES%2016GB%20DDR5%204800Mhz%20Desktop%20RAM%202.png",
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20ARES%2016GB%20DDR5%204800Mhz%20Desktop%20RAM%203.png",
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20ARES%2016GB%20DDR5%204800Mhz%20Desktop%20RAM%204.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20ARES%2016GB%20DDR5%204800Mhz%20Desktop%20RAM.png",
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20ARES%2016GB%20DDR5%204800Mhz%20Desktop%20RAM%201.png",
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20ARES%2016GB%20DDR5%204800Mhz%20Desktop%20RAM%202.png",
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20ARES%2016GB%20DDR5%204800Mhz%20Desktop%20RAM%203.png",
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20ARES%2016GB%20DDR5%204800Mhz%20Desktop%20RAM%204.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "lexar-ares-16gb-ddr5-4800mhz-desktop-ram",
+        "candidateTitle": "Lexar ARES 16GB DDR5 4800Mhz Desktop RAM",
+        "attemptStem": "lexar-ares-16gb-ddr5-4800mhz-desktop-ram"
+      },
+      "localImageFile": "public/Product_Images/Component/DesktopRam/Lexar/Lexar ARES 16GB DDR5 4800Mhz Desktop RAM.png"
+    },
+    {
+      "name": "Lexar ARES 32GB (16x2) 5600Mhz DDR5 RGB Gaming Desktop Ram",
+      "slug": "lexar-ares-32gb-rgb-gaming-desktop-ram",
+      "type": "PHYSICAL",
+      "sku": "ST-32656",
+      "description": "<h2>Lexar ARES 32GB (16x2) 5600Mhz DDR5 RGB Gaming Desktop Ram</h2><p>Lexar ARES 32GB (16x2) RGB DDR5 Desktop <a href=\"https://deshiplus.com/component/ram\" style=\"color: rgb(0, 0, 0);\" target=\"\">RAM </a>provides serious enthusiasts for gamers and PC with greater performance with next-generation DDR5. You can game in style while keeping your system cool for ultra-fast performance, stability, and durability thanks to the superior aluminum heat spreader. Lexar ARES DDR5 Desktop Memory is INTEL XMP 3.0 and AMD EXPOTM compatible. Overclocking rates that are lightning quick will enhance your gaming experience. You may adjust and synchronize your lighting effects by color, intensity, and speed with Lexar RGB Sync, a robust RGB lighting control program, so you can game in style. Lexar ARES RGB DDR5 Desktop Memory has on-die ECC for real-time data error correction and better data stability and dependability. Lexar Quality Labs, which house thousands of various cameras and digital devices, do comprehensive testing on all Lexar products to assure performance, quality, compatibility, and dependability.</p><h2>Buy Lexar ARES 32GB (16x2) 5600Mhz DDR5 RGB Gaming Desktop Ram from Deshi Plus</h2><p>In Bangladesh, you can get the original <strong>Lexar ARES 32GB (16x2) 5600Mhz DDR5 RGB Gaming Desktop Ram</strong> From Deshi Plus. We have a large collection of the latest <a href=\"https://deshiplus.com/lexar-ram\" target=\"\">Lexar RAM</a> to purchase for your <a href=\"https://deshiplus.com/desktops\">Desktop PC</a>. Order Online Or Visit your Nearest <a href=\"https://deshiplus.com/\">Deshi Plus Shop</a> to get yours at the lowest price. The Lexar ARES 32GB (16x2) 5600Mhz DDR5 RGB Gaming Desktop Ram comes with Lifetime warranty. </p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>Model: ARES</li><li>Capacity: 32GB, Memory Type: DDR5</li><li>Tested Latency: CL32-36-36-68</li><li>Tested Speed: 5600MHz</li><li>Tested Voltage: 1.2V</li></ul>",
+      "model": "ARES",
+      "warranty": "Lifetime warranty",
+      "basePrice": 14200.0,
+      "originalPrice": null,
+      "currency": "BDT",
+      "weight": null,
+      "dimensions": {
+        "length": 140.0,
+        "width": 43.3,
+        "height": 7.9,
+        "unit": "mm"
+      },
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 182,
+      "brandName": "Lexar",
+      "variantOptions": [
+        {
+          "name": "Capacity",
+          "position": 0,
+          "values": [
+            {
+              "value": "32GB Kit (16GBx2)",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "ST-32656",
+          "price": 14200.0,
+          "currency": "BDT",
+          "stock": 149,
+          "options": {
+            "Capacity": "32GB Kit (16GBx2)"
+          },
+          "isDefault": true,
+          "active": false,
+          "lowStockThreshold": 10,
+          "costPrice": 13632.0,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Key Features",
+          "position": 0,
+          "items": [
+            {
+              "label": "Type",
+              "value": "DDR5",
+              "position": 0
+            },
+            {
+              "label": "Capacity",
+              "value": "32GB Kit (16GBx2)",
+              "position": 1
+            },
+            {
+              "label": "Frequency",
+              "value": "5600 MHz",
+              "position": 2
+            },
+            {
+              "label": "Operating voltage",
+              "value": "1.2V",
+              "position": 3
+            },
+            {
+              "label": "Latency",
+              "value": "32-36-36-68",
+              "position": 4
+            }
+          ]
+        },
+        {
+          "name": "Physical dimension",
+          "position": 1,
+          "items": [
+            {
+              "label": "Dimension",
+              "value": "L140 x W43.3 x H7.9mm (with heat spreader)",
+              "position": 0
+            },
+            {
+              "label": "Pin",
+              "value": "288Pin",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Warranty Information",
+          "position": 2,
+          "items": [
+            {
+              "label": "Warranty",
+              "value": "Lifetime warranty",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://deshiplus.com/lexar-ares-32gb-rgb-gaming-desktop-ram",
+      "sourceProductCode": "32656",
+      "sourceStatus": "Out Of Stock",
+      "sourceMpn": null,
+      "sourceKeyFeatures": [
+        "Model: ARES",
+        "Capacity: 32GB, Memory Type: DDR5",
+        "Tested Latency: CL32-36-36-68",
+        "Tested Speed: 5600MHz",
+        "Tested Voltage: 1.2V"
+      ],
+      "needsReview": false,
+      "categorySlug": "gaming",
+      "image": "/Product_Images/Component/DesktopRam/Lexar/Lexar%20ARES%2032GB%20%2816x2%29%205600Mhz%20DDR5%20RGB%20Gaming%20Desktop%20Ram.png",
+      "gallery": [
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20ARES%2032GB%20%2816x2%29%205600Mhz%20DDR5%20RGB%20Gaming%20Desktop%20Ram%201.png",
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20ARES%2032GB%20%2816x2%29%205600Mhz%20DDR5%20RGB%20Gaming%20Desktop%20Ram%202.png",
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20ARES%2032GB%20%2816x2%29%205600Mhz%20DDR5%20RGB%20Gaming%20Desktop%20Ram%203.png",
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20ARES%2032GB%20%2816x2%29%205600Mhz%20DDR5%20RGB%20Gaming%20Desktop%20Ram%204.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20ARES%2032GB%20%2816x2%29%205600Mhz%20DDR5%20RGB%20Gaming%20Desktop%20Ram.png",
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20ARES%2032GB%20%2816x2%29%205600Mhz%20DDR5%20RGB%20Gaming%20Desktop%20Ram%201.png",
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20ARES%2032GB%20%2816x2%29%205600Mhz%20DDR5%20RGB%20Gaming%20Desktop%20Ram%202.png",
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20ARES%2032GB%20%2816x2%29%205600Mhz%20DDR5%20RGB%20Gaming%20Desktop%20Ram%203.png",
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20ARES%2032GB%20%2816x2%29%205600Mhz%20DDR5%20RGB%20Gaming%20Desktop%20Ram%204.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "lexar-ares-32gb-rgb-gaming-desktop-ram",
+        "candidateTitle": "Lexar ARES 32GB (16x2) 5600Mhz DDR5 RGB Gaming Desktop Ram",
+        "attemptStem": "lexar-ares-32gb-rgb-gaming-desktop-ram"
+      },
+      "localImageFile": "public/Product_Images/Component/DesktopRam/Lexar/Lexar ARES 32GB (16x2) 5600Mhz DDR5 RGB Gaming Desktop Ram.png"
+    },
+    {
+      "name": "Lexar THOR 8GB DDR4 3200Mhz Desktop RAM",
+      "slug": "lexar-thor-8gb-ddr4-3200mhz-desktop-ram",
+      "type": "PHYSICAL",
+      "sku": "LD4BU008G-R3200GDXG",
+      "description": "<h2>Lexar THOR 8GB DDR4 3200Mhz Desktop RAM</h2><p> The Lexar <strong>THOR 8GB DDR4</strong> 3200MHz Gaming RAM (LD4BU008G-R3200GDXG)—a high-performance memory module designed for speed, stability, and style. This DDR4 8GB RAM runs at a fast 3200MHz bus speed, ensuring smooth multitasking and quick load times. It features CL16-18-18-38 latency and operates at 1.35V, offering efficient power usage and reliable performance. The Lexar THOR 8GB DDR4 RAM includes a premium aluminum heat spreader in space gray. This helps keep your system cool during intense gaming or heavy workloads. With XMP 2.0 support, it allows easy overclocking and is compatible with both Intel and AMD platforms. The 288-pin UDIMM interface ensures stable connectivity and easy installation. This Lexar 8GB DDR4 Gaming RAM is ideal for gamers, content creators, and PC enthusiasts. It improves system responsiveness, reduces lag, and enhances overall computing performance. Whether you're upgrading your desktop or building a new rig, the Lexar THOR 8GB DDR4 3200MHz <a href=\"https://deshiplus.com/component/ram\" style=\"color: rgb(0, 0, 0);\" target=\"\">Desktop RAM</a> delivers dependable speed and long-term durability.</p><h2>Buy Lexar THOR 8GB DDR4 3200Mhz Desktop RAM from Deshi Plus</h2><p>In Bangladesh, you can get the original <span style=\"font-weight: 700;\">Lexar THOR 8GB DDR4 3200Mhz Desktop RAM</span> From Deshi Plus. We have a large collection of the latest <a href=\"https://deshiplus.com/lexar-ram\" target=\"\">Lexar RAM</a> to purchase for your <a href=\"https://deshiplus.com/desktops\">Desktop PC</a>. Order Online Or Visit your Nearest <a href=\"https://deshiplus.com/\">Deshi Plus Shop</a> to get yours at the lowest price. The Lexar THOR 8GB DDR4 3200Mhz Desktop RAM comes with a Lifetime warranty. </p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>MPN: LD4BU008G-R3200GDXG</li><li>Model: THOR 8 GB DDR4</li><li>Capacity: 8GB, Memory Type: DDR4</li><li>Tested Latency: CL16</li><li>Tested Speed: 3200Mhz</li><li>Tested Voltage: 1.3V</li></ul>",
+      "model": "THOR 8 GB DDR4",
+      "warranty": "Lifetime warranty",
+      "basePrice": 9800.0,
+      "originalPrice": null,
+      "currency": "BDT",
+      "weight": null,
+      "dimensions": {
+        "length": 138.4,
+        "width": 35.2,
+        "height": 6.4,
+        "unit": "mm"
+      },
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 138,
+      "brandName": "Lexar",
+      "variantOptions": [
+        {
+          "name": "Capacity",
+          "position": 0,
+          "values": [
+            {
+              "value": "8GB",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "sku": "LD4BU008G-R3200GDXG",
+          "price": 9800.0,
+          "currency": "BDT",
+          "stock": 141,
+          "options": {
+            "Capacity": "8GB"
+          },
+          "isDefault": true,
+          "active": false,
+          "lowStockThreshold": 10,
+          "costPrice": 9408.0,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Key Features",
+          "position": 0,
+          "items": [
+            {
+              "label": "Type",
+              "value": "DDR4",
+              "position": 0
+            },
+            {
+              "label": "Capacity",
+              "value": "8GB",
+              "position": 1
+            },
+            {
+              "label": "Frequency",
+              "value": "3200Mhz",
+              "position": 2
+            },
+            {
+              "label": "Operating voltage",
+              "value": "1.3V",
+              "position": 3
+            },
+            {
+              "label": "Latency",
+              "value": "CL16-18-18-38",
+              "position": 4
+            }
+          ]
+        },
+        {
+          "name": "Physical dimension",
+          "position": 1,
+          "items": [
+            {
+              "label": "Dimension",
+              "value": "138.4mm x 35.2 mm x 6.4 mm (with heat spreader)",
+              "position": 0
+            },
+            {
+              "label": "Pin",
+              "value": "288Pin",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "name": "Warranty Information",
+          "position": 2,
+          "items": [
+            {
+              "label": "Warranty",
+              "value": "Lifetime warranty",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://deshiplus.com/lexar-thor-8gb-ddr4-3200mhz-desktop-ram",
+      "sourceProductCode": "43423",
+      "sourceStatus": "Out Of Stock",
+      "sourceMpn": "LD4BU008G-R3200GDXG",
+      "sourceKeyFeatures": [
+        "MPN: LD4BU008G-R3200GDXG",
+        "Model: THOR 8 GB DDR4",
+        "Capacity: 8GB, Memory Type: DDR4",
+        "Tested Latency: CL16",
+        "Tested Speed: 3200Mhz",
+        "Tested Voltage: 1.3V"
+      ],
+      "needsReview": false,
+      "categorySlug": "gaming",
+      "image": "/Product_Images/Component/DesktopRam/Lexar/Lexar%20THOR%208GB%20DDR4%203200Mhz%20Desktop%20RAM.png",
+      "gallery": [
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20THOR%208GB%20DDR4%203200Mhz%20Desktop%20RAM%201.png",
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20THOR%208GB%20DDR4%203200Mhz%20Desktop%20RAM%202.png",
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20THOR%208GB%20DDR4%203200Mhz%20Desktop%20RAM%203.png",
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20THOR%208GB%20DDR4%203200Mhz%20Desktop%20RAM%204.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20THOR%208GB%20DDR4%203200Mhz%20Desktop%20RAM.png",
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20THOR%208GB%20DDR4%203200Mhz%20Desktop%20RAM%201.png",
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20THOR%208GB%20DDR4%203200Mhz%20Desktop%20RAM%202.png",
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20THOR%208GB%20DDR4%203200Mhz%20Desktop%20RAM%203.png",
+        "/Product_Images/Component/DesktopRam/Lexar/Lexar%20THOR%208GB%20DDR4%203200Mhz%20Desktop%20RAM%204.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "lexar-thor-8gb-ddr4-3200mhz-desktop-ram",
+        "candidateTitle": "Lexar THOR 8GB DDR4 3200Mhz Desktop RAM",
+        "attemptStem": "lexar-thor-8gb-ddr4-3200mhz-desktop-ram"
+      },
+      "localImageFile": "public/Product_Images/Component/DesktopRam/Lexar/Lexar THOR 8GB DDR4 3200Mhz Desktop RAM.png"
+    }
+  ]
+}

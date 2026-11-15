@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "sourceCategoryUrl": "https://www.startech.com.bd/security-camera",
+  "imageFolder": "/Product_Images",
+  "groups": [
+    {
+      "name": "cc-camera",
+      "file": "cc-camera.json",
+      "status": "completed",
+      "products": 122,
+      "matched": 122,
+      "unmatched": 0
+    }
+  ],
+  "allFile": "_all.json",
+  "generatedAtUnix": 1790590171
+}

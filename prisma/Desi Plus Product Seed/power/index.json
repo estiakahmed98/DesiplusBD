@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "sourceCategoryUrl": "https://www.startech.com.bd/power",
+  "imageFolder": "/Product_Images",
+  "groups": [
+    {
+      "name": "ips",
+      "file": "ips.json",
+      "status": "completed",
+      "products": 16,
+      "matched": 16,
+      "unmatched": 0
+    },
+    {
+      "name": "portable-power-station",
+      "file": "portable-power-station.json",
+      "status": "completed",
+      "products": 21,
+      "matched": 21,
+      "unmatched": 0
+    },
+    {
+      "name": "ups",
+      "file": "ups.json",
+      "status": "completed",
+      "products": 102,
+      "matched": 102,
+      "unmatched": 0
+    }
+  ],
+  "allFile": "_all.json",
+  "generatedAtUnix": 1790589999
+}

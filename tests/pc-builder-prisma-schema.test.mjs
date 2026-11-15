@@ -1,0 +1,94 @@
+import assert from "node:assert/strict";
+import test from "node:test";
+import { access, readFile } from "node:fs/promises";
+
+const read = (path) => readFile(new URL(path, import.meta.url), "utf8");
+
+test("Prisma uses the canonical single schema file", async () => {
+  const [schema, config] = await Promise.all([
+    read("../prisma/schema.prisma"),
+    read("../prisma.config.ts"),
+  ]);
+
+  assert.match(config, /schema:\s*"prisma\/schema\.prisma"/);
+  assert.match(schema, /model CartItem\s*\{/);
+  assert.match(schema, /lineKey\s+String\s+@default\("standard"\)\s+@db\.VarChar\(80\)/);
+  assert.match(schema, /@@unique\(\[userId, productId, variantId, lineKey\]\)/);
+  assert.match(schema, /@@index\(\[userId, lineKey\]\)/);
+  assert.match(schema, /model Organization\s*\{/);
+  assert.match(schema, /pcBuilderEnabled\s+Boolean\s+@default\(false\)/);
+  assert.match(schema, /@@index\(\[pcBuilderEnabled, categoryId, available, deleted\]\)/);
+
+  await assert.rejects(
+    access(new URL("../prisma/business-network.prisma", import.meta.url)),
+    (error) => error?.code === "ENOENT",
+  );
+  await assert.rejects(
+    access(new URL("../prisma/pc-builder.prisma", import.meta.url)),
+    (error) => error?.code === "ENOENT",
+  );
+});
+
+test("hand-written PC Builder tables remain explicitly external", async () => {
+  const config = await read("../prisma.config.ts");
+
+  assert.match(config, /externalTables:\s*true/);
+  for (const table of [
+    "public.PcBuildCartItem",
+    "public.PcBuildOrderItem",
+    "public.PcBuilderSavedBuild",
+  ]) {
+    assert.match(config, new RegExp(table.replaceAll(".", "\\.")));
+  }
+  assert.doesNotMatch(config, /public\.CartItem/);
+});
+
+test("product-level PC Builder enrollment has a backward-compatible migration", async () => {
+  const [development, release, normalizedInputs] = await Promise.all([
+    read("../prisma/migrations/20260913150000_add_product_pc_builder_flag/migration.sql"),
+    read("../prisma/migrations-release/20260913150000_add_product_pc_builder_flag/migration.sql"),
+    read("../prisma/migrations/20260914100000_normalize_pc_builder_attribute_inputs/migration.sql"),
+  ]);
+
+  assert.match(development, /ADD COLUMN "pcBuilderEnabled" BOOLEAN NOT NULL DEFAULT false/);
+  assert.match(development, /SET "pcBuilderEnabled" = true/);
+  assert.match(development, /'desktop-ram', 'Memory Type'/);
+  assert.match(development, /INSERT INTO "CategoryAttribute"/);
+  assert.match(release, /ADD COLUMN IF NOT EXISTS "pcBuilderEnabled"/);
+  assert.match(normalizedInputs, /SET "type" = 'TEXT'/);
+  assert.match(normalizedInputs, /"valueText" = product_attribute\."value"/);
+});
+
+test("release migrations repair PC Builder storage for baselined databases", async () => {
+  const migration = await read(
+    "../prisma/migrations-release/20260913130000_ensure_pc_builder_storage/migration.sql",
+  );
+
+  assert.match(migration, /CREATE TABLE IF NOT EXISTS "PcBuildCartItem"/);
+  assert.match(migration, /CREATE TABLE IF NOT EXISTS "PcBuildOrderItem"/);
+  assert.match(migration, /CREATE TABLE IF NOT EXISTS "PcBuilderSavedBuild"/);
+  assert.match(migration, /ADD COLUMN IF NOT EXISTS "lineKey"/);
+  assert.match(migration, /CREATE EXTENSION IF NOT EXISTS pg_trgm/);
+});
+
+test("external PC Builder table contracts remain migration-owned", async () => {
+  const [grouping, saved, sharedVariants] = await Promise.all([
+    read("../prisma/migrations/20260820_add_pc_build_grouping/migration.sql"),
+    read("../prisma/migrations/20260820_add_pc_builder_saved_builds/migration.sql"),
+    read(
+      "../prisma/migrations/20260820_support_shared_pc_builder_cart_variants/migration.sql",
+    ),
+  ]);
+
+  assert.match(grouping, /CREATE TABLE "PcBuildCartItem"/);
+  assert.match(grouping, /CREATE TABLE "PcBuildOrderItem"/);
+  assert.match(grouping, /FOREIGN KEY \("cartItemId"\) REFERENCES "CartItem"\("id"\)/);
+  assert.match(saved, /CREATE TABLE "PcBuilderSavedBuild"/);
+  assert.match(saved, /FOREIGN KEY \("userId"\) REFERENCES "User"\("id"\)/);
+  assert.match(saved, /CHECK \(jsonb_typeof\("selections"\) = 'object'\)/);
+  assert.match(sharedVariants, /ADD COLUMN "lineKey" VARCHAR\(80\)/);
+  assert.match(
+    sharedVariants,
+    /CartItem_userId_productId_variantId_lineKey_key/,
+  );
+});

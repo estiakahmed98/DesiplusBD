@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "sourceCategoryUrl": "https://www.startech.com.bd/office-equipment",
+  "imageFolder": "/Product_Images",
+  "groups": [
+    {
+      "name": "conference-system",
+      "file": "conference-system.json",
+      "status": "completed",
+      "products": 4,
+      "matched": 4,
+      "unmatched": 0
+    },
+    {
+      "name": "printer",
+      "file": "printer.json",
+      "status": "completed",
+      "products": 298,
+      "matched": 298,
+      "unmatched": 0
+    },
+    {
+      "name": "projector",
+      "file": "projector.json",
+      "status": "completed",
+      "products": 213,
+      "matched": 213,
+      "unmatched": 0
+    }
+  ],
+  "allFile": "_all.json",
+  "generatedAtUnix": 1790587592
+}

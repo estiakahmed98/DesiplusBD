@@ -1,0 +1,537 @@
+{
+  "schemaVersion": 3,
+  "source": {
+    "site": "https://www.startech.com.bd",
+    "categoryUrl": "https://www.startech.com.bd/office-equipment",
+    "imageRoot": "C:\\EveryThing\\Office Projects\\Desi Plus BD\\public\\Product_Images",
+    "generatedAtUnix": 1790587585,
+    "generator": "prisma/startech_single_category_json_and_seed.py"
+  },
+  "defaults": {
+    "stock": 10,
+    "costRatio": 0.96,
+    "currency": "BDT",
+    "productType": "PHYSICAL",
+    "inventoryItemClass": "CONSUMABLE"
+  },
+  "categories": [
+    {
+      "name": "Office Equipment",
+      "slug": "office-equipment",
+      "parentSlug": null,
+      "image": "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-220%20Dual%20Microphone%20Set.png",
+      "isActive": true,
+      "sortOrder": 0,
+      "showInHeader": true,
+      "showInFooter": false,
+      "featured": false
+    },
+    {
+      "name": "Conference System",
+      "slug": "conference-system",
+      "parentSlug": "office-equipment",
+      "image": "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-220%20Dual%20Microphone%20Set.png",
+      "isActive": true,
+      "sortOrder": 4,
+      "showInHeader": true,
+      "showInFooter": false,
+      "featured": false
+    }
+  ],
+  "brands": [
+    {
+      "name": "HTDZ",
+      "slug": "htdz",
+      "logo": null
+    }
+  ],
+  "products": [
+    {
+      "name": "HTDZ HT-220 Dual Microphone Set",
+      "slug": "htdz-ht-220-microphone-with-amplifier",
+      "type": "PHYSICAL",
+      "sku": "ST-10471",
+      "description": "<h2>HTDZ HT-220 Dual Microphone Set</h2>\n<p>Uses a VHF 240 MHz~270 MHz PLL frequency synthesizer technology. Uses a multi-channel high band and intermediate band frequency selective filtering, in order to fully eliminate interference signals..A built-in feedback eliminating technology can effectively decrease the feedback and noise.A built-in multiple noise detecting circuit and TONE-LOCK system make sure the system has a strong anti-jamming function. Perfect performance with the best chips and components, it uses an SMD original mount design to enhance the product quality and stability.The operation distance reaches up to 60 meters with the best conditions, and 40 meters under normal conditions. The frequency and channel are locked to protect the anti-jamming functions.<br/></p>\n<p><span style=\"font-weight: bold;\">Specification</span></p>\n<p></p>\n<ul>\n<li>Frequency Preparation: PLL Synthesized</li>\n<li>Max Frequency Deviation: &amp;plusmn;15 KHz</li>\n<li>Carrier Frequency Range: VHF 240 MHz~270 MHz</li>\n<li>S/N Ratio: &gt;100dB</li>\n<li>T.H.D: &lt;0.2%</li>\n<li>Frequency Stability: &amp;plusmn;0.02%</li>\n<li>Audio Frequency Response: 80Hz~12 KHz</li>\n<li>Audio Dynamic Response: &gt;100dB</li>\n<li>Transmitter Power: 8.5mW</li>\n</ul>\r\n01 Year Warranty<p></p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>Model: HTDZ HT-220</li><li>Audio Dynamic Response: &gt;100dB</li><li>Audio Frequency : 80Hz~12 KHz</li><li>Transmitter Power: 8.5mW</li><li>2 x Hand Microphone/1 x Amplifier</li></ul>",
+      "model": "HTDZ HT-220",
+      "warranty": null,
+      "basePrice": 11340.0,
+      "originalPrice": 12430.0,
+      "currency": "BDT",
+      "weight": null,
+      "dimensions": null,
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 10,
+      "brandName": "HTDZ",
+      "variantOptions": [],
+      "variants": [
+        {
+          "sku": "ST-10471",
+          "price": 11340.0,
+          "currency": "BDT",
+          "stock": 10,
+          "options": {},
+          "isDefault": true,
+          "active": true,
+          "lowStockThreshold": 10,
+          "costPrice": 10886.4,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Key Features",
+          "position": 0,
+          "items": [
+            {
+              "label": "Model",
+              "value": "HTDZ HT-220",
+              "position": 0
+            },
+            {
+              "label": "Audio Dynamic Response",
+              "value": ">100dB",
+              "position": 1
+            },
+            {
+              "label": "Audio Frequency",
+              "value": "80Hz~12 KHz",
+              "position": 2
+            },
+            {
+              "label": "Transmitter Power",
+              "value": "8.5mW",
+              "position": 3
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://www.startech.com.bd/htdz-ht-220-microphone-with-amplifier",
+      "sourceProductCode": "10471",
+      "sourceStatus": "In Stock",
+      "sourceMpn": null,
+      "sourceKeyFeatures": [
+        "Model: HTDZ HT-220",
+        "Audio Dynamic Response: >100dB",
+        "Audio Frequency : 80Hz~12 KHz",
+        "Transmitter Power: 8.5mW",
+        "2 x Hand Microphone/1 x Amplifier"
+      ],
+      "needsReview": false,
+      "categorySlug": "conference-system",
+      "image": "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-220%20Dual%20Microphone%20Set.png",
+      "gallery": [
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-220%20Dual%20Microphone%20Set.png",
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-220%20Dual%20Microphone%20Set%202.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-220%20Dual%20Microphone%20Set%202.png",
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-220%20Dual%20Microphone%20Set%203.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-220%20Dual%20Microphone%20Set%203.png",
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-220%20Dual%20Microphone%20Set%204.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-220%20Dual%20Microphone%20Set%204.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-220%20Dual%20Microphone%20Set.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-220%20Dual%20Microphone%20Set.png",
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-220%20Dual%20Microphone%20Set%202.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-220%20Dual%20Microphone%20Set%202.png",
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-220%20Dual%20Microphone%20Set%203.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-220%20Dual%20Microphone%20Set%203.png",
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-220%20Dual%20Microphone%20Set%204.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-220%20Dual%20Microphone%20Set%204.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "htdz-ht-220-microphone-with-amplifier",
+        "candidateTitle": "HTDZ HT-220 Dual Microphone Set",
+        "attemptStem": "htdz-ht-220-microphone-with-amplifier"
+      },
+      "localImageFile": "public/Product_Images/Accessories/Microphone/HTDZ/HTDZ HT-220 Dual Microphone Set.png"
+    },
+    {
+      "name": "HTDZ HT-66B UHF Wireless Microphone System (1 Hand + 1 Tie or 2 Hand)",
+      "slug": "htdz-ht-66b-wireless-microphone-system",
+      "type": "PHYSICAL",
+      "sku": "ST-21178",
+      "description": "<h2>HTDZ HT-66B UHF Wireless Microphone System</h2><p>The HTDZ HT-66B UHF Wireless Microphone System has a working frequency of 610.000MHz-790.000MHz. This system uses the latest PLL SYNTHESIZED and IR TECHNOLOGY, they have excellent and skilled in manufacturing techniques of wireless, dependable performance, easy setup, and handle. It offers an audio frequency response of 50Hz-18KHz (Â±3dB). It has an output impedance of 50-1000Î©. The HTDZ HT-66B comes with a 1-year warranty.</p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>Model: HT-66B</li><li>Working frequency: 610MHz - 790MHz</li><li>Modulation: Broad Band FM</li><li>Frequency channel: 200</li><li>Signal noise ratio: &gt; 105dB</li></ul>",
+      "model": "HT-66B",
+      "warranty": "a 1-year warranty",
+      "basePrice": 26400.0,
+      "originalPrice": 29040.0,
+      "currency": "BDT",
+      "weight": null,
+      "dimensions": null,
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 10,
+      "brandName": "HTDZ",
+      "variantOptions": [],
+      "variants": [
+        {
+          "sku": "ST-21178",
+          "price": 26400.0,
+          "currency": "BDT",
+          "stock": 10,
+          "options": {},
+          "isDefault": true,
+          "active": true,
+          "lowStockThreshold": 10,
+          "costPrice": 25344.0,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Key Features",
+          "position": 0,
+          "items": [
+            {
+              "label": "Model",
+              "value": "HT-66B",
+              "position": 0
+            },
+            {
+              "label": "Working frequency",
+              "value": "610MHz - 790MHz",
+              "position": 1
+            },
+            {
+              "label": "Modulation",
+              "value": "Broad Band FM",
+              "position": 2
+            },
+            {
+              "label": "Frequency channel",
+              "value": "200",
+              "position": 3
+            },
+            {
+              "label": "Signal noise ratio",
+              "value": "> 105dB",
+              "position": 4
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://www.startech.com.bd/htdz-ht-66b-wireless-microphone-system",
+      "sourceProductCode": "21178",
+      "sourceStatus": "In Stock",
+      "sourceMpn": null,
+      "sourceKeyFeatures": [
+        "Model: HT-66B",
+        "Working frequency: 610MHz - 790MHz",
+        "Modulation: Broad Band FM",
+        "Frequency channel: 200",
+        "Signal noise ratio: > 105dB"
+      ],
+      "needsReview": false,
+      "categorySlug": "conference-system",
+      "image": "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-66B%20UHF%20Wireless%20Microphone%20System%20%281%20Hand%20%2B%201%20Tie%20or%202%20Hand%29.png",
+      "gallery": [
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-66B%20UHF%20Wireless%20Microphone%20System%20%281%20Hand%20%2B%201%20Tie%20or%202%20Hand%29.png",
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-66B%20UHF%20Wireless%20Microphone%20System%20%281%20Hand%20%2B%201%20Tie%20or%202%20Hand%29%201.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-66B%20UHF%20Wireless%20Microphone%20System%20%281%20Hand%20%2B%201%20Tie%20or%202%20Hand%29%201.png",
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-66B%20UHF%20Wireless%20Microphone%20System%20%281%20Hand%20%2B%201%20Tie%20or%202%20Hand%29%202.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-66B%20UHF%20Wireless%20Microphone%20System%20%281%20Hand%20%2B%201%20Tie%20or%202%20Hand%29%202.png",
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-66B%20UHF%20Wireless%20Microphone%20System%20%281%20Hand%20%2B%201%20Tie%20or%202%20Hand%29%203.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-66B%20UHF%20Wireless%20Microphone%20System%20%281%20Hand%20%2B%201%20Tie%20or%202%20Hand%29%203.png",
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-66B%20UHF%20Wireless%20Microphone%20System%20%281%20Hand%20%2B%201%20Tie%20or%202%20Hand%29%204.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-66B%20UHF%20Wireless%20Microphone%20System%20%281%20Hand%20%2B%201%20Tie%20or%202%20Hand%29%204.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-66B%20UHF%20Wireless%20Microphone%20System%20%281%20Hand%20%2B%201%20Tie%20or%202%20Hand%29.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-66B%20UHF%20Wireless%20Microphone%20System%20%281%20Hand%20%2B%201%20Tie%20or%202%20Hand%29.png",
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-66B%20UHF%20Wireless%20Microphone%20System%20%281%20Hand%20%2B%201%20Tie%20or%202%20Hand%29%201.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-66B%20UHF%20Wireless%20Microphone%20System%20%281%20Hand%20%2B%201%20Tie%20or%202%20Hand%29%201.png",
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-66B%20UHF%20Wireless%20Microphone%20System%20%281%20Hand%20%2B%201%20Tie%20or%202%20Hand%29%202.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-66B%20UHF%20Wireless%20Microphone%20System%20%281%20Hand%20%2B%201%20Tie%20or%202%20Hand%29%202.png",
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-66B%20UHF%20Wireless%20Microphone%20System%20%281%20Hand%20%2B%201%20Tie%20or%202%20Hand%29%203.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-66B%20UHF%20Wireless%20Microphone%20System%20%281%20Hand%20%2B%201%20Tie%20or%202%20Hand%29%203.png",
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-66B%20UHF%20Wireless%20Microphone%20System%20%281%20Hand%20%2B%201%20Tie%20or%202%20Hand%29%204.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-66B%20UHF%20Wireless%20Microphone%20System%20%281%20Hand%20%2B%201%20Tie%20or%202%20Hand%29%204.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "htdz-ht-66b-wireless-microphone-system",
+        "candidateTitle": "HTDZ HT-66B UHF Wireless Microphone System (1 Hand + 1 Tie or 2 Hand)",
+        "attemptStem": "htdz-ht-66b-wireless-microphone-system"
+      },
+      "localImageFile": "public/Product_Images/Accessories/Microphone/HTDZ/HTDZ HT-66B UHF Wireless Microphone System (1 Hand + 1 Tie or 2 Hand).png"
+    },
+    {
+      "name": "HTDZ HT-81A Professional Shotgun Microphone",
+      "slug": "htdz-ht-81a-professional-shotgun-microphone",
+      "type": "PHYSICAL",
+      "sku": "ST-28695",
+      "description": "<h2>HTDZ HT-81A Professional Shotgun Microphone</h2><p>The HTDZ HT-81A Professional Shotgun <a href=\"https://www.startech.com.bd/accessories/microphone\" style=\"color: rgb(0, 0, 0);\" target=\"\">Microphone </a>can be applied to lecterns, theater, and video recordings. The mics are incredibly portable and durable, making them perfect for installation on cameras or camcorders. They can be utilized outdoors, in studios, with fish pole booms, or as portable devices. An outstanding polar pattern with high sensitivity is produced by the electrostatic transducer element and the unidirectional polar pattern. The HTDZ HT-81A Professional Shotgun Microphone with extended frequency response and Phantom Power is the HTDZ HT-81A Shotgun style electret condenser microphone. The extremely focused pick-up pattern used in many live theater, television, film, and video productions, as well as in live broadcasts, is built with both powered and battery options. A body switch for the HTDZ HT-81A Professional Shotgun Microphone's OFF, NORMAL, and TELE modes is included. For improved long-distance pickup, the polar pattern is ultra-directional in TELE mode.</p><h2>Buy HTDZ HT-81A Professional Shotgun Microphone from Deshi Plus</h2><p>In Bangladesh, you can get original<a href=\"https://www.startech.com.bd/htdz-ht-81a-professional-shotgun-microphone\" target=\"\"> HTDZ HT-81A Professional Shotgun Microphone</a> From Deshi Plus. We have a large collection of <a href=\"https://www.startech.com.bd/htdz-conference-system\" target=\"\">Htdz Conference Systems</a> to purchase. Order Online Or Visit your Nearest <a href=\"https://www.startech.com.bd/\" target=\"\">Deshi Plus</a> Shop to get yours at lowest price. The HTDZ HT-81A Professional Shotgun Microphone comes with 1 year warranty.</p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>Model: HT-81A</li><li>Polar Pattern: Unidirectional / Ultra Unidirectional</li><li>Output Impedance (Ohm): 75 – Balanced</li><li>Sensitivity (±2dB): NORMAL -45dB, TELE -38dB</li><li>Mic Length (Mm): 360mm</li></ul>",
+      "model": "HT-81A",
+      "warranty": "1 Year",
+      "basePrice": 5040.0,
+      "originalPrice": 5500.0,
+      "currency": "BDT",
+      "weight": null,
+      "dimensions": null,
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 10,
+      "brandName": "HTDZ",
+      "variantOptions": [],
+      "variants": [
+        {
+          "sku": "ST-28695",
+          "price": 5040.0,
+          "currency": "BDT",
+          "stock": 10,
+          "options": {},
+          "isDefault": true,
+          "active": true,
+          "lowStockThreshold": 10,
+          "costPrice": 4838.4,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Basic Information",
+          "position": 0,
+          "items": [
+            {
+              "label": "Microphone Type",
+              "value": "Electret Condenser",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "Main Specs",
+          "position": 1,
+          "items": [
+            {
+              "label": "Sensitivity",
+              "value": "NORMAL -45dB, TELE -38dB",
+              "position": 0
+            },
+            {
+              "label": "Output Impedance",
+              "value": "75 – Balanced",
+              "position": 1
+            },
+            {
+              "label": "Polar pattern",
+              "value": "Unidirectional / Ultra Unidirectional",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "name": "Warranty",
+          "position": 2,
+          "items": [
+            {
+              "label": "Warranty",
+              "value": "1 Year",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://www.startech.com.bd/htdz-ht-81a-professional-shotgun-microphone",
+      "sourceProductCode": "28695",
+      "sourceStatus": "In Stock",
+      "sourceMpn": null,
+      "sourceKeyFeatures": [
+        "Model: HT-81A",
+        "Polar Pattern: Unidirectional / Ultra Unidirectional",
+        "Output Impedance (Ohm): 75 – Balanced",
+        "Sensitivity (±2dB): NORMAL -45dB, TELE -38dB",
+        "Mic Length (Mm): 360mm"
+      ],
+      "needsReview": false,
+      "categorySlug": "conference-system",
+      "image": "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-81A%20Professional%20Shotgun%20Microphone.png",
+      "gallery": [
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-81A%20Professional%20Shotgun%20Microphone.png",
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-81A%20Professional%20Shotgun%20Microphone%201.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-81A%20Professional%20Shotgun%20Microphone%201.png",
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-81A%20Professional%20Shotgun%20Microphone%202.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-81A%20Professional%20Shotgun%20Microphone%202.png",
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-81A%20Professional%20Shotgun%20Microphone%203.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-81A%20Professional%20Shotgun%20Microphone%203.png",
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-81A%20Professional%20Shotgun%20Microphone%204.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-81A%20Professional%20Shotgun%20Microphone%204.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-81A%20Professional%20Shotgun%20Microphone.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-81A%20Professional%20Shotgun%20Microphone.png",
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-81A%20Professional%20Shotgun%20Microphone%201.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-81A%20Professional%20Shotgun%20Microphone%201.png",
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-81A%20Professional%20Shotgun%20Microphone%202.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-81A%20Professional%20Shotgun%20Microphone%202.png",
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-81A%20Professional%20Shotgun%20Microphone%203.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-81A%20Professional%20Shotgun%20Microphone%203.png",
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-81A%20Professional%20Shotgun%20Microphone%204.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-81A%20Professional%20Shotgun%20Microphone%204.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "htdz-ht-81a-professional-shotgun-microphone",
+        "candidateTitle": "HTDZ HT-81A Professional Shotgun Microphone",
+        "attemptStem": "htdz-ht-81a-professional-shotgun-microphone"
+      },
+      "localImageFile": "public/Product_Images/Accessories/Microphone/HTDZ/HTDZ HT-81A Professional Shotgun Microphone.png"
+    },
+    {
+      "name": "HTDZ HT-88B UHF Wireless Microphone",
+      "slug": "htdz-ht-88b-uhf-wireless-microphone",
+      "type": "PHYSICAL",
+      "sku": "ST-28696",
+      "description": "<h2>HTDZ HT-88B UHF Wireless Microphone</h2><p>The HTDZ HT-88B UHF Wireless <a href=\"https://www.startech.com.bd/accessories/microphone\" style=\"color: rgb(0, 0, 0);\" target=\"\">Microphone </a>used a 2-channel diversity receiver in a 19\" (1 U) enclosure. Within the bandwidth, 200 pre-programmed, suitable UHF frequencies are available in stages of 250 kHz. At the push of a button, you may locate available frequencies using the scan and ACT (Automatic Channel Targeing) functions. Each channel's transmission to the transmitter is also made simple. HTDZ HT-88B UHF Wireless Microphone jas a user-friendly, front-mounted jog wheel and multicolor LED display. Which can be viewed from a variety of angles and has displays for the AF level, reception quality, remaining battery life, frequency, group, and channel, are used for channel selection, configuration, and control. HTDZ HT-88B UHF Wireless Microphone has Activate function inhibition to guard against inadvertent maladjustment.</p><h2>Buy HTDZ HT-88B UHF Wireless Microphone from Deshi Plus</h2><p>In Bangladesh, you can get original <a href=\"https://www.startech.com.bd/htdz-ht-88b-uhf-wireless-microphone\" target=\"\">HTDZ HT-88B UHF Wireless Microphone</a> From Deshi Plus. We have a large collection of <a href=\"https://www.startech.com.bd/htdz-conference-system\" target=\"\">Htdz Conference Systems</a> to purchase. Order Online Or Visit your Nearest <a href=\"https://www.startech.com.bd/\" target=\"\">Deshi Plus</a> Shop to get yours at lowest price. The HTDZ HT-88B UHF Wireless Microphone comes with 1 year warranty.</p>",
+      "shortDesc": "<h2>Key Features</h2>\n<ul><li>Model: HT-88B</li><li>Frequency: 80Hz-18kHz (3dB)</li><li>Antenna: Built-in</li><li>Signal noise ratio: &gt; 105dB</li><li>Battery Life: 10 hours in normal power, 12 hours in low power</li></ul>",
+      "model": "HT-88B",
+      "warranty": "1 Year",
+      "basePrice": 24255.0,
+      "originalPrice": 27720.0,
+      "currency": "BDT",
+      "weight": null,
+      "dimensions": null,
+      "available": true,
+      "featured": false,
+      "soldCount": 0,
+      "ratingAvg": 0,
+      "ratingCount": 0,
+      "lowStockThreshold": 10,
+      "inventoryItemClass": "CONSUMABLE",
+      "requiresAssetTag": false,
+      "bundleStockLimit": null,
+      "stock": 10,
+      "brandName": "HTDZ",
+      "variantOptions": [],
+      "variants": [
+        {
+          "sku": "ST-28696",
+          "price": 24255.0,
+          "currency": "BDT",
+          "stock": 10,
+          "options": {},
+          "isDefault": true,
+          "active": true,
+          "lowStockThreshold": 10,
+          "costPrice": 23284.8,
+          "colorImage": null
+        }
+      ],
+      "specificationGroups": [
+        {
+          "name": "Basic Information",
+          "position": 0,
+          "items": [
+            {
+              "label": "Noise/Signal",
+              "value": "> 105dB",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "name": "Main Specs",
+          "position": 1,
+          "items": [
+            {
+              "label": "Frequency Range",
+              "value": "80Hz-18kHz (3dB)",
+              "position": 0
+            },
+            {
+              "label": "Output Impedance",
+              "value": "75 – Balanced",
+              "position": 1
+            },
+            {
+              "label": "Battery",
+              "value": "10 hours in normal power, 12 hours in low power",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "name": "Warranty",
+          "position": 2,
+          "items": [
+            {
+              "label": "Warranty",
+              "value": "1 Year",
+              "position": 0
+            }
+          ]
+        }
+      ],
+      "sourceProductUrl": "https://www.startech.com.bd/htdz-ht-88b-uhf-wireless-microphone",
+      "sourceProductCode": "28696",
+      "sourceStatus": "In Stock",
+      "sourceMpn": null,
+      "sourceKeyFeatures": [
+        "Model: HT-88B",
+        "Frequency: 80Hz-18kHz (3dB)",
+        "Antenna: Built-in",
+        "Signal noise ratio: > 105dB",
+        "Battery Life: 10 hours in normal power, 12 hours in low power"
+      ],
+      "needsReview": false,
+      "categorySlug": "conference-system",
+      "image": "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-88B%20UHF%20Wireless%20Microphone.png",
+      "gallery": [
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-88B%20UHF%20Wireless%20Microphone.png",
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-88B%20UHF%20Wireless%20Microphone%201.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-88B%20UHF%20Wireless%20Microphone%201.png",
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-88B%20UHF%20Wireless%20Microphone%202.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-88B%20UHF%20Wireless%20Microphone%202.png",
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-88B%20UHF%20Wireless%20Microphone%203.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-88B%20UHF%20Wireless%20Microphone%203.png"
+      ],
+      "sourceImages": [
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-88B%20UHF%20Wireless%20Microphone.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-88B%20UHF%20Wireless%20Microphone.png",
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-88B%20UHF%20Wireless%20Microphone%201.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-88B%20UHF%20Wireless%20Microphone%201.png",
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-88B%20UHF%20Wireless%20Microphone%202.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-88B%20UHF%20Wireless%20Microphone%202.png",
+        "/Product_Images/Accessories/Microphone/HTDZ/HTDZ%20HT-88B%20UHF%20Wireless%20Microphone%203.png",
+        "/Product_Images/Gadget/Microphone/HTDZ/HTDZ%20HT-88B%20UHF%20Wireless%20Microphone%203.png"
+      ],
+      "match": {
+        "method": "direct-slug",
+        "score": 1.0,
+        "query": "htdz-ht-88b-uhf-wireless-microphone",
+        "candidateTitle": "HTDZ HT-88B UHF Wireless Microphone",
+        "attemptStem": "htdz-ht-88b-uhf-wireless-microphone"
+      },
+      "localImageFile": "public/Product_Images/Accessories/Microphone/HTDZ/HTDZ HT-88B UHF Wireless Microphone.png"
+    }
+  ]
+}

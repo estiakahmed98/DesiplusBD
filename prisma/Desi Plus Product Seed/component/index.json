@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "sourceCategoryUrl": "https://www.startech.com.bd/component",
+  "imageFolder": "/Product_Images",
+  "groups": [
+    {
+      "name": "graphics-card",
+      "file": "graphics-card.json",
+      "status": "completed",
+      "products": 486,
+      "matched": 486,
+      "unmatched": 0
+    },
+    {
+      "name": "hard-disk-drive",
+      "file": "hard-disk-drive.json",
+      "status": "completed",
+      "products": 118,
+      "matched": 118,
+      "unmatched": 0
+    },
+    {
+      "name": "processor",
+      "file": "processor.json",
+      "status": "completed",
+      "products": 119,
+      "matched": 119,
+      "unmatched": 0
+    },
+    {
+      "name": "ram-desktop",
+      "file": "ram-desktop.json",
+      "status": "completed",
+      "products": 518,
+      "matched": 518,
+      "unmatched": 0
+    },
+    {
+      "name": "ram-laptop",
+      "file": "ram-laptop.json",
+      "status": "completed",
+      "products": 155,
+      "matched": 155,
+      "unmatched": 0
+    },
+    {
+      "name": "ssd",
+      "file": "ssd.json",
+      "status": "completed",
+      "products": 284,
+      "matched": 284,
+      "unmatched": 0
+    }
+  ],
+  "allFile": "_all.json",
+  "generatedAtUnix": 1790589899
+}

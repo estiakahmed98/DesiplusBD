@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "sourceCategoryUrl": "https://www.startech.com.bd/laptop-notebook",
+  "imageFolder": "/Product_Images",
+  "groups": [
+    {
+      "name": "all-laptop",
+      "file": "all-laptop.json",
+      "status": "completed",
+      "products": 285,
+      "matched": 285,
+      "unmatched": 0
+    }
+  ],
+  "allFile": "_all.json",
+  "generatedAtUnix": 1790590680
+}

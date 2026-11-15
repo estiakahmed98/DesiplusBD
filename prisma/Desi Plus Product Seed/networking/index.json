@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "sourceCategoryUrl": "https://www.startech.com.bd/networking",
+  "imageFolder": "/Product_Images",
+  "groups": [
+    {
+      "name": "network-switch",
+      "file": "network-switch.json",
+      "status": "completed",
+      "products": 452,
+      "matched": 452,
+      "unmatched": 0
+    },
+    {
+      "name": "onu",
+      "file": "onu.json",
+      "status": "completed",
+      "products": 28,
+      "matched": 28,
+      "unmatched": 0
+    },
+    {
+      "name": "router",
+      "file": "router.json",
+      "status": "completed",
+      "products": 346,
+      "matched": 346,
+      "unmatched": 0
+    },
+    {
+      "name": "wifi-adapter",
+      "file": "wifi-adapter.json",
+      "status": "completed",
+      "products": 56,
+      "matched": 56,
+      "unmatched": 0
+    }
+  ],
+  "allFile": "_all.json",
+  "generatedAtUnix": 1790590912
+}

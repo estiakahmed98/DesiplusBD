@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "sourceCategoryUrl": "https://www.startech.com.bd/appliance",
+  "imageFolder": "/Product_Images",
+  "groups": [
+    {
+      "name": "ac",
+      "file": "ac.json",
+      "status": "completed",
+      "products": 72,
+      "matched": 72,
+      "unmatched": 0
+    },
+    {
+      "name": "air-fryer",
+      "file": "air-fryer.json",
+      "status": "completed",
+      "products": 25,
+      "matched": 25,
+      "unmatched": 0
+    },
+    {
+      "name": "washing-machine",
+      "file": "washing-machine.json",
+      "status": "completed",
+      "products": 81,
+      "matched": 81,
+      "unmatched": 0
+    }
+  ],
+  "allFile": "_all.json",
+  "generatedAtUnix": 1790586319
+}

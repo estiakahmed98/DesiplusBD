@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "sourceCategoryUrl": "https://www.startech.com.bd/camera",
+  "imageFolder": "/Product_Images",
+  "groups": [
+    {
+      "name": "action-camera",
+      "file": "action-camera.json",
+      "status": "completed",
+      "products": 44,
+      "matched": 44,
+      "unmatched": 0
+    }
+  ],
+  "allFile": "_all.json",
+  "generatedAtUnix": 1790585809
+}

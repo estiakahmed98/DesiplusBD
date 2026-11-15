@@ -1,0 +1,132 @@
+[
+  {
+    "stem": "ASUS VivoBook 14 F1407CA Core Ultra 5 225H 14- WUXGA Laptop",
+    "brand": "asus",
+    "images": [
+      "/Product_Images/Laptop/ASUS/ASUS%20VivoBook%2014%20F1407CA%20Core%20Ultra%205%20225H%2014-%20WUXGA%20Laptop%201.png",
+      "/Product_Images/Laptop/ASUS/ASUS%20VivoBook%2014%20F1407CA%20Core%20Ultra%205%20225H%2014-%20WUXGA%20Laptop%203.png",
+      "/Product_Images/Laptop/ASUS/ASUS%20VivoBook%2014%20F1407CA%20Core%20Ultra%205%20225H%2014-%20WUXGA%20Laptop%204.png",
+      "/Product_Images/Laptop/ASUS/ASUS%20VivoBook%2014%20F1407CA%20Core%20Ultra%205%20225H%2014-%20WUXGA%20Laptop.png"
+    ],
+    "candidates": [
+      {
+        "slug": "asus-vivobook-14-f1407ca-core-ultra-5-laptop",
+        "sku": "F1407CA-LY166W",
+        "name": "ASUS VivoBook 14 F1407CA Core Ultra 5 225H 14\" WUXGA Laptop"
+      },
+      {
+        "slug": "asus-vivobook-14-f1407ca-laptop",
+        "sku": "F1407CA-LY178W",
+        "name": "Asus Vivobook 14 F1407CA Core Ultra 5 225H 14\" WUXGA Laptop"
+      }
+    ]
+  },
+  {
+    "stem": "Asus VivoBook 15 X1504VA Core 5 120U 15.6- FHD Laptop",
+    "brand": "asus",
+    "images": [
+      "/Product_Images/Laptop/ASUS/Asus%20VivoBook%2015%20X1504VA%20Core%205%20120U%2015.6-%20FHD%20Laptop%201.png",
+      "/Product_Images/Laptop/ASUS/Asus%20VivoBook%2015%20X1504VA%20Core%205%20120U%2015.6-%20FHD%20Laptop%202.png",
+      "/Product_Images/Laptop/ASUS/Asus%20VivoBook%2015%20X1504VA%20Core%205%20120U%2015.6-%20FHD%20Laptop%203.png",
+      "/Product_Images/Laptop/ASUS/Asus%20VivoBook%2015%20X1504VA%20Core%205%20120U%2015.6-%20FHD%20Laptop%204.png",
+      "/Product_Images/Laptop/ASUS/Asus%20VivoBook%2015%20X1504VA%20Core%205%20120U%2015.6-%20FHD%20Laptop.png"
+    ],
+    "candidates": [
+      {
+        "slug": "asus-vivobook-15-x1504va-core-5-8gb-laptop",
+        "sku": "X1504VA-BQ615W",
+        "name": "Asus VivoBook 15 X1504VA Core 5 120U 15.6\" FHD Laptop"
+      },
+      {
+        "slug": "asus-vivobook-15-x1504va-core-5-laptop",
+        "sku": "X1504VA-BQ631W",
+        "name": "Asus VivoBook 15 X1504VA Core 5 120U 15.6\" FHD Laptop"
+      }
+    ]
+  },
+  {
+    "stem": "ASUS Vivobook Go 15 L1504FA Ryzen 5 7520U 16GB RAM 15.6- FHD Laptop",
+    "brand": "asus",
+    "images": [
+      "/Product_Images/Laptop/ASUS/ASUS%20Vivobook%20Go%2015%20L1504FA%20Ryzen%205%207520U%2016GB%20RAM%2015.6-%20FHD%20Laptop%201.png",
+      "/Product_Images/Laptop/ASUS/ASUS%20Vivobook%20Go%2015%20L1504FA%20Ryzen%205%207520U%2016GB%20RAM%2015.6-%20FHD%20Laptop%202.png",
+      "/Product_Images/Laptop/ASUS/ASUS%20Vivobook%20Go%2015%20L1504FA%20Ryzen%205%207520U%2016GB%20RAM%2015.6-%20FHD%20Laptop%203.png",
+      "/Product_Images/Laptop/ASUS/ASUS%20Vivobook%20Go%2015%20L1504FA%20Ryzen%205%207520U%2016GB%20RAM%2015.6-%20FHD%20Laptop%204.png",
+      "/Product_Images/Laptop/ASUS/ASUS%20Vivobook%20Go%2015%20L1504FA%20Ryzen%205%207520U%2016GB%20RAM%2015.6-%20FHD%20Laptop.png"
+    ],
+    "candidates": [
+      {
+        "slug": "asus-vivobook-go-15-l1504fa-ryzen-5-16gb-ram-laptop",
+        "sku": "L1504FA-NJ1473",
+        "name": "ASUS Vivobook Go 15 L1504FA Ryzen 5 7520U 16GB RAM 15.6\" FHD Laptop"
+      },
+      {
+        "slug": "asus-vivobook-go-15-l1504fa-ryzen-5-7520u-16gb-ram-laptop",
+        "sku": "L1504FA-BQ2549W",
+        "name": "ASUS Vivobook Go 15 L1504FA Ryzen 5 7520U 16GB RAM 15.6\" FHD Laptop"
+      }
+    ]
+  },
+  {
+    "stem": "Royal Kludge RK96 RGB Hot-Swappable Tri-Mode Brown Switch Wireless Mechanical Keyboard",
+    "brand": "royal",
+    "images": [
+      "/Product_Images/Accessories/Keyboard/Royal/Royal%20Kludge%20RK96%20RGB%20Hot-Swappable%20Tri-Mode%20Brown%20Switch%20Wireless%20Mechanical%20Keyboard%201.png",
+      "/Product_Images/Accessories/Keyboard/Royal/Royal%20Kludge%20RK96%20RGB%20Hot-Swappable%20Tri-Mode%20Brown%20Switch%20Wireless%20Mechanical%20Keyboard.png"
+    ],
+    "candidates": [
+      {
+        "slug": "royal-kludge-rk96-mechanical-keyboard",
+        "sku": "ST-34823",
+        "name": "Royal Kludge RK96 RGB Hot-Swappable Tri-Mode Brown Switch Wireless Mechanical Keyboard"
+      },
+      {
+        "slug": "royal-kludge-rk96-tri-mode-mechanical-keyboard",
+        "sku": "ST-34815",
+        "name": "Royal Kludge RK96 RGB Hot-Swappable Tri-Mode Brown Switch Wireless Mechanical Keyboard"
+      }
+    ]
+  },
+  {
+    "stem": "Royal Kludge RK96 RGB Hot-Swappable Tri-Mode Red Switch Wireless Mechanical Keyboard",
+    "brand": "royal",
+    "images": [
+      "/Product_Images/Accessories/Keyboard/Royal/Royal%20Kludge%20RK96%20RGB%20Hot-Swappable%20Tri-Mode%20Red%20Switch%20Wireless%20Mechanical%20Keyboard.png"
+    ],
+    "candidates": [
+      {
+        "slug": "royal-kludge-rk96-red-switch-mechanical-keyboard",
+        "sku": "ST-34827",
+        "name": "Royal Kludge RK96 RGB Hot-Swappable Tri-Mode Red Switch Wireless Mechanical Keyboard"
+      },
+      {
+        "slug": "royal-kludge-rk96-red-switch-tri-mode-mechanical-keyboard",
+        "sku": "ST-34817",
+        "name": "Royal Kludge RK96 RGB Hot-Swappable Tri-Mode Red Switch Wireless Mechanical Keyboard"
+      }
+    ]
+  },
+  {
+    "stem": "Vention FHPB0 20000mAh 22.5W Fast Charging Power Bank",
+    "brand": "vention",
+    "images": [
+      "/Product_Images/Gadget/Power%20bank/Vention/Vention%20FHPB0%2020000mAh%2022.5W%20Fast%20Charging%20Power%20Bank%201.png",
+      "/Product_Images/Gadget/Power%20bank/Vention/Vention%20FHPB0%2020000mAh%2022.5W%20Fast%20Charging%20Power%20Bank%202.png",
+      "/Product_Images/Gadget/Power%20bank/Vention/Vention%20FHPB0%2020000mAh%2022.5W%20Fast%20Charging%20Power%20Bank%203.png",
+      "/Product_Images/Gadget/Power%20bank/Vention/Vention%20FHPB0%2020000mAh%2022.5W%20Fast%20Charging%20Power%20Bank%204.png",
+      "/Product_Images/Gadget/Power%20bank/Vention/Vention%20FHPB0%2020000mAh%2022.5W%20Fast%20Charging%20Power%20Bank.png"
+    ],
+    "candidates": [
+      {
+        "slug": "vention-fhpb0-20000mah-power-bank",
+        "sku": "ST-38127",
+        "name": "Vention FHPB0 20000mAh 22.5W Fast Charging Power Bank"
+      },
+      {
+        "slug": "vention-fhpb0-power-bank",
+        "sku": "ST-38606",
+        "name": "Vention FHPB0 20000mAh 22.5W Fast Charging Power Bank"
+      }
+    ]
+  }
+]

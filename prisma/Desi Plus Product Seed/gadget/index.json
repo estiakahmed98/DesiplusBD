@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "sourceCategoryUrl": "https://www.startech.com.bd/gadget",
+  "imageFolder": "/Product_Images",
+  "groups": [
+    {
+      "name": "earbuds",
+      "file": "earbuds.json",
+      "status": "completed",
+      "products": 438,
+      "matched": 438,
+      "unmatched": 0
+    },
+    {
+      "name": "neckband",
+      "file": "neckband.json",
+      "status": "completed",
+      "products": 78,
+      "matched": 78,
+      "unmatched": 0
+    },
+    {
+      "name": "power-bank",
+      "file": "power-bank.json",
+      "status": "completed",
+      "products": 435,
+      "matched": 435,
+      "unmatched": 0
+    },
+    {
+      "name": "smart-watch",
+      "file": "smart-watch.json",
+      "status": "completed",
+      "products": 179,
+      "matched": 179,
+      "unmatched": 0
+    },
+    {
+      "name": "studio-equipment",
+      "file": "studio-equipment.json",
+      "status": "completed",
+      "products": 33,
+      "matched": 33,
+      "unmatched": 0
+    },
+    {
+      "name": "trimmer",
+      "file": "trimmer.json",
+      "status": "completed",
+      "products": 70,
+      "matched": 70,
+      "unmatched": 0
+    },
+    {
+      "name": "tv-box",
+      "file": "tv-box.json",
+      "status": "completed",
+      "products": 13,
+      "matched": 13,
+      "unmatched": 0
+    }
+  ],
+  "allFile": "_all.json",
+  "generatedAtUnix": 1790589349
+}

@@ -1,0 +1,14 @@
+{
+  "sourceProducts": 23200,
+  "sourceCatalogFiles": 251,
+  "imageFiles": 42202,
+  "imageFamilies": 9279,
+  "retainedProducts": 9167,
+  "removedProducts": 14033,
+  "matchedImages": 42180,
+  "reviewImages": 22,
+  "unmatchedFamilies": 0,
+  "ambiguousFamilies": 6,
+  "backup": "C:\\EveryThing\\Office Projects\\Desi Plus BD\\backups\\desiplus-seed-before-image-reconcile-20261115T085114768442Z.zip",
+  "appliedAt": "2026-11-15T08:51:24.794192+00:00"
+}

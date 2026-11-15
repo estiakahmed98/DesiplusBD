@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 3,
+  "source": {
+    "site": "https://deshiplus.com",
+    "categoryUrl": "https://deshiplus.com/appliance",
+    "imageRoot": "C:\\EveryThing\\Office Projects\\Desi Plus BD\\public\\Product_Images",
+    "generatedAtUnix": 1790586316,
+    "generator": "prisma/startech_single_category_json_and_seed.py"
+  },
+  "defaults": {
+    "stock": 10,
+    "costRatio": 0.96,
+    "currency": "BDT",
+    "productType": "PHYSICAL",
+    "inventoryItemClass": "CONSUMABLE"
+  },
+  "categories": [],
+  "brands": [],
+  "products": []
+}

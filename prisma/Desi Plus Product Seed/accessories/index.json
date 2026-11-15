@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "sourceCategoryUrl": "https://www.deshiplus.com/accessories",
+  "imageFolder": "/Product_Images",
+  "groups": [
+    {
+      "name": "bluetooth-adapter",
+      "file": "bluetooth-adapter.json",
+      "status": "completed",
+      "products": 2,
+      "matched": 2,
+      "unmatched": 0
+    },
+    {
+      "name": "bluetooth-speaker",
+      "file": "bluetooth-speaker.json",
+      "status": "completed",
+      "products": 45,
+      "matched": 45,
+      "unmatched": 0
+    },
+    {
+      "name": "headphone",
+      "file": "headphone.json",
+      "status": "completed",
+      "products": 677,
+      "matched": 677,
+      "unmatched": 0
+    },
+    {
+      "name": "keyboard",
+      "file": "keyboard.json",
+      "status": "completed",
+      "products": 784,
+      "matched": 784,
+      "unmatched": 0
+    },
+    {
+      "name": "memory-card",
+      "file": "memory-card.json",
+      "status": "completed",
+      "products": 143,
+      "matched": 143,
+      "unmatched": 0
+    },
+    {
+      "name": "microphone",
+      "file": "microphone.json",
+      "status": "completed",
+      "products": 285,
+      "matched": 285,
+      "unmatched": 0
+    },
+    {
+      "name": "mouse",
+      "file": "mouse.json",
+      "status": "completed",
+      "products": 670,
+      "matched": 670,
+      "unmatched": 0
+    },
+    {
+      "name": "speaker-home-theater",
+      "file": "speaker-home-theater.json",
+      "status": "completed",
+      "products": 311,
+      "matched": 311,
+      "unmatched": 0
+    }
+  ],
+  "allFile": "_all.json",
+  "generatedAtUnix": 1790591018
+}

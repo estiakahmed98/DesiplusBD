@@ -1,0 +1,17 @@
+import "./pc-builder-core.test.mjs";
+import "./pc-builder-advanced.test.mjs";
+import "./pc-builder-publish-validation.test.mjs";
+import "./pc-builder-create-activation.test.mjs";
+import "./pc-builder-placeholder-normalization.test.mjs";
+import "./pc-builder-checkout.test.mjs";
+import "./pc-builder-checkout-lifecycle.test.mjs";
+import "./pc-builder-order-grouping-atomic.test.mjs";
+import "./pc-builder-prisma-schema.test.mjs";
+import "./pc-builder-shared-variant-builds.test.mjs";
+import "./pc-builder-candidate.test.mjs";
+import "./pc-builder-grouping.test.mjs";
+import "./pc-builder-saved-build.test.mjs";
+import "./pc-builder-catalog.test.mjs";
+import "./pc-builder-warehouse-stock.test.mjs";
+import "./pc-builder-stock-integrity-tool.test.mjs";
+import "./pc-builder-taxonomy.test.mjs";

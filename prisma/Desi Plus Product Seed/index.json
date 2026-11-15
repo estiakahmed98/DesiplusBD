@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 3,
+  "groups": [
+    {
+      "file": "accessories/_all.json",
+      "status": "completed",
+      "products": 2917,
+      "matched": 2917,
+      "unmatched": 0
+    },
+    {
+      "file": "appliance/_all.json",
+      "status": "completed",
+      "products": 178,
+      "matched": 178,
+      "unmatched": 0
+    },
+    {
+      "file": "camera/_all.json",
+      "status": "completed",
+      "products": 44,
+      "matched": 44,
+      "unmatched": 0
+    },
+    {
+      "file": "component/_all.json",
+      "status": "completed",
+      "products": 1680,
+      "matched": 1680,
+      "unmatched": 0
+    },
+    {
+      "file": "gadget/_all.json",
+      "status": "completed",
+      "products": 1246,
+      "matched": 1246,
+      "unmatched": 0
+    },
+    {
+      "file": "gaming/_all.json",
+      "status": "completed",
+      "products": 1043,
+      "matched": 1043,
+      "unmatched": 0
+    },
+    {
+      "file": "laptop-notebook/_all.json",
+      "status": "completed",
+      "products": 285,
+      "matched": 285,
+      "unmatched": 0
+    },
+    {
+      "file": "monitor/_all.json",
+      "status": "completed",
+      "products": 861,
+      "matched": 861,
+      "unmatched": 0
+    },
+    {
+      "file": "networking/_all.json",
+      "status": "completed",
+      "products": 882,
+      "matched": 882,
+      "unmatched": 0
+    },
+    {
+      "file": "office-equipment/_all.json",
+      "status": "completed",
+      "products": 515,
+      "matched": 515,
+      "unmatched": 0
+    },
+    {
+      "file": "power/_all.json",
+      "status": "completed",
+      "products": 139,
+      "matched": 139,
+      "unmatched": 0
+    },
+    {
+      "file": "security-camera/_all.json",
+      "status": "completed",
+      "products": 122,
+      "matched": 122,
+      "unmatched": 0
+    },
+    {
+      "file": "tablet-pc/_all.json",
+      "status": "completed",
+      "products": 82,
+      "matched": 82,
+      "unmatched": 0
+    },
+    {
+      "file": "television-shop/_all.json",
+      "status": "completed",
+      "products": 177,
+      "matched": 177,
+      "unmatched": 0
+    }
+  ]
+}
