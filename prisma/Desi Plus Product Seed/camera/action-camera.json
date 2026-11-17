@@ -5192,11 +5192,10 @@
       ],
       "needsReview": false,
       "categorySlug": "action-camera",
-      "image": "/Product_Images/ActionCamera/Sjcam/SJCAM%20SJ30%208K%20Dual%20Lens%20Action%20Camera%20with%20Charging%20Kit.png",
+      "image": "/Product_Images/ActionCamera/Sjcam/SJCAM%20SJ30%208K%20Dual%20Lens%20Action%20Camera%20with%20Charging%20Kit.webp",
       "gallery": [
-        "/Product_Images/ActionCamera/Sjcam/SJCAM%20SJ30%208K%20Dual%20Lens%20Action%20Camera%20with%20Charging%20Kit.webp",
+        "/Product_Images/ActionCamera/Sjcam/SJCAM%20SJ30%208K%20Dual%20Lens%20Action%20Camera%20with%20Charging%20Kit.png",
         "/Product_Images/ActionCamera/Sjcam/SJCAM%20SJ30%208K%20Dual%20Lens%20Action%20Camera%20with%20Charging%20Kit%201.png",
-        "/Product_Images/ActionCamera/Sjcam/SJCAM%20SJ30%208K%20Dual%20Lens%20Action%20Camera%20with%20Charging%20Kit%202.png",
         "/Product_Images/ActionCamera/Sjcam/SJCAM%20SJ30%208K%20Dual%20Lens%20Action%20Camera%20with%20Charging%20Kit%202.webp",
         "/Product_Images/ActionCamera/Ausek/SJCAM%20SJ30%208K%20Dual%20Lens%20Action%20Camera%20with%20Charging%20Kit%203.webp",
         "/Product_Images/ActionCamera/Sjcam/SJCAM%20SJ30%208K%20Dual%20Lens%20Action%20Camera%20with%20Charging%20Kit%203.jfif",
@@ -5206,14 +5205,11 @@
         "/Product_Images/ActionCamera/Sjcam/SJCAM%20SJ30%208K%20Dual%20Lens%20Action%20Camera%20with%20Charging%20Kit%204.webp"
       ],
       "sourceImages": [
-        "/Product_Images/ActionCamera/Sjcam/SJCAM%20SJ30%208K%20Dual%20Lens%20Action%20Camera%20with%20Charging%20Kit.png",
         "/Product_Images/ActionCamera/Sjcam/SJCAM%20SJ30%208K%20Dual%20Lens%20Action%20Camera%20with%20Charging%20Kit.webp",
         "/Product_Images/ActionCamera/Sjcam/SJCAM%20SJ30%208K%20Dual%20Lens%20Action%20Camera%20with%20Charging%20Kit%201.png",
-        "/Product_Images/ActionCamera/Sjcam/SJCAM%20SJ30%208K%20Dual%20Lens%20Action%20Camera%20with%20Charging%20Kit%202.png",
         "/Product_Images/ActionCamera/Sjcam/SJCAM%20SJ30%208K%20Dual%20Lens%20Action%20Camera%20with%20Charging%20Kit%202.webp",
         "/Product_Images/ActionCamera/Ausek/SJCAM%20SJ30%208K%20Dual%20Lens%20Action%20Camera%20with%20Charging%20Kit%203.webp",
         "/Product_Images/ActionCamera/Sjcam/SJCAM%20SJ30%208K%20Dual%20Lens%20Action%20Camera%20with%20Charging%20Kit%203.jfif",
-        "/Product_Images/ActionCamera/Sjcam/SJCAM%20SJ30%208K%20Dual%20Lens%20Action%20Camera%20with%20Charging%20Kit%203.png",
         "/Product_Images/ActionCamera/Sjcam/SJCAM%20SJ30%208K%20Dual%20Lens%20Action%20Camera%20with%20Charging%20Kit%203.webp",
         "/Product_Images/ActionCamera/Sjcam/SJCAM%20SJ30%208K%20Dual%20Lens%20Action%20Camera%20with%20Charging%20Kit%204.png",
         "/Product_Images/ActionCamera/Sjcam/SJCAM%20SJ30%208K%20Dual%20Lens%20Action%20Camera%20with%20Charging%20Kit%204.webp"
@@ -5225,7 +5221,7 @@
         "candidateTitle": "SJCAM SJ30 8K Dual Lens Action Camera with Charging Kit",
         "attemptStem": "sjcam-sj30-8k-dual-lens-action-camera-with-charging-kit-bdeb1458"
       },
-      "localImageFile": "public/Product_Images/ActionCamera/Sjcam/SJCAM SJ30 8K Dual Lens Action Camera with Charging Kit.png"
+      "localImageFile": "public/Product_Images/ActionCamera/Sjcam/SJCAM SJ30 8K Dual Lens Action Camera with Charging Kit.webp"
     },
     {
       "name": "SJCAM SJ4000 Dual Screen Full HD WiFi Waterproof Sports Action Camera",
